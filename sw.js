@@ -2,7 +2,7 @@
    - appli (index.html) : réseau d’abord, copie de secours en cache
    - données (data/*.json) : réseau d’abord, dernière version en cache pour lire hors connexion
    - icônes et manifeste : cache d’abord */
-const VERSION = '1.0.0';
+const VERSION = '1.0.1';
 const SHELL = 'hermes-shell-' + VERSION;
 const DATA = 'hermes-data';
 const SHELL_FILES = ['./', './index.html', './manifest.webmanifest', './icons/logo.png', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];

@@ -274,7 +274,7 @@ details.jour>summary{color:var(--tx1);font-size:1rem;font-weight:680;min-height:
 (function(){
 'use strict';
 var PWA = !!window.HERMES_PWA;
-var VERSION = '1.0.0';
+var VERSION = '1.0.1';
 var $app = document.getElementById('app');
 var $nav = document.getElementById('nav');
 var $banner = document.getElementById('banner');
@@ -775,7 +775,14 @@ function vSondages(){
 /* ----- PLF ----- */
 var STATUTS = { rejete:'Rejeté', depose:'Déposé', annonce:'Annoncé', adopte:'Adopté en séance', commission:'Adopté en commission', definitif:'Adopté définitivement', promulgue:'Promulgué', initial:'Texte initial' };
 var plfTexte = 'tous';
-function labelise(x){ var m = String(x).match(/^([A-Z\u00C0-\u00D6\u00D8-\u00DD][^:]{1,30}?)\s:\s([\s\S]*)$/); return m ? '<b style="font-weight:650">' + esc(m[1]) + ' :</b> ' + esc(m[2]) : esc(x); }
+function autolien(h){
+  return h.replace(/https?:\/\/[^\s<]+/g, function(u){
+    var fin = '', m = u.match(/[.,;:)\u00BB]+$/);
+    if (m){ fin = m[0]; u = u.slice(0, -fin.length); }
+    return '<a href="' + u + '" target="_blank" rel="noopener">' + u.replace(/^https?:\/\/(www\.)?/, '').split('/')[0] + '</a>' + fin;
+  });
+}
+function labelise(x){ var m = String(x).match(/^([A-Z\u00C0-\u00D6\u00D8-\u00DD][^:]{1,30}?)\s:\s([\s\S]*)$/); return autolien(m ? '<b style="font-weight:650">' + esc(m[1]) + ' :</b> ' + esc(m[2]) : esc(x)); }
 function vPLF(r){
   var P = D.plf;
   var h = '<header class="col" style="gap:8px"><div class="between"><h1 class="page-title">PLF 2027</h1>' + (P && P.phase ? '<span class="pill warn">' + esc(P.phase) + '</span>' : '') + '</div><span class="small muted">Budget de l’État et de la Sécurité sociale' + (P && P.maj ? ' · mis à jour le ' + fJour(P.maj) : '') + '</span>' +
@@ -784,7 +791,7 @@ function vPLF(r){
   if (!P) return h + erreurVue();
   if (r.sub === 'aujourdhui'){
     var a = P.aujourdhui || {};
-    h += '<section class="card hero"><div class="between base"><span class="eyebrow acc">Aujourd’hui</span><span class="xs muted">' + esc(cap(a.titre || '')) + '</span></div><p class="lead">' + esc(a.texte) + '</p>' + ((a.points || []).length ? '<ul class="col" style="gap:8px">' + a.points.map(function(x){ return '<li class="row" style="align-items:flex-start;gap:10px"><span class="bullet"></span><span class="body" style="line-height:1.5">' + esc(x) + '</span></li>'; }).join('') + '</ul>' : '') + (a.aVenir ? '<div class="box acc"><span class="eyebrow acc">À venir</span><span>' + esc(a.aVenir) + '</span></div>' : '') + '</section>';
+    h += '<section class="card hero"><div class="between base"><span class="eyebrow acc">Aujourd’hui</span><span class="xs muted">' + esc(cap(a.titre || '')) + '</span></div><p class="lead">' + esc(a.texte) + '</p>' + ((a.points || []).length ? '<ul class="col" style="gap:8px">' + a.points.map(function(x){ return '<li class="row" style="align-items:flex-start;gap:10px"><span class="bullet"></span><span class="body" style="line-height:1.5">' + autolien(esc(x)) + '</span></li>'; }).join('') + '</ul>' : '') + (a.aVenir ? '<div class="box acc"><span class="eyebrow acc">À venir</span><span>' + esc(a.aVenir) + '</span></div>' : '') + '</section>';
     if (P.intro) h += '<section class="card"><h2 class="card-title">Où en est le budget</h2><p class="body">' + esc(P.intro) + '</p></section>';
     var dern = (P.journal || [])[0];
     if (dern) h += '<a class="card flat" href="#plf-journal" style="flex-direction:row;align-items:center;gap:12px;color:var(--tx1)"><div class="col grow" style="gap:2px"><span class="t" style="font-weight:600">Journal du ' + esc(dern.titre) + '</span><span class="small muted">Le détail de chaque mesure, jour par jour</span></div><span class="chev">' + ic('chevR', 18, 2) + '</span></a>';

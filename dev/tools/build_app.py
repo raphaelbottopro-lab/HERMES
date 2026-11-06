@@ -1,14 +1,13 @@
-"""Assemble HERMÈS :
-- dist/site/    : le site complet pour GitHub Pages (index.html, sw.js, manifeste, icônes, données)
-- dist/preview/ : la même appli sans service worker, pour l'aperçu en artefact
-Usage : python3 tools/build_app.py"""
-import json, re, shutil
+"""Reconstruit l'appli HERMÈS à la racine du dépôt à partir de dev/src.
+Produit : index.html, sw.js, manifest.webmanifest. Les icônes (icons/) et les données (data/) ne sont pas touchées.
+Usage, depuis la racine du dépôt : python3 dev/tools/build_app.py
+Pour changer l'appli : modifier dev/src/app.html (fragment sans <html>/<head>) ou dev/src/sw.js, puis relancer ce script.
+Penser à augmenter VERSION dans dev/src/app.html à chaque changement."""
+import json, re
 from pathlib import Path
-from PIL import Image
 
-ROOT = Path(__file__).resolve().parent.parent
-SRC, DATA, LOGO = ROOT / "src", ROOT / "app" / "data", ROOT / "logo"
-DIST = ROOT / "dist"
+ROOT = Path(__file__).resolve().parents[2]
+SRC = ROOT / "dev" / "src"
 
 frag = (SRC / "app.html").read_text(encoding="utf-8")
 version = re.search(r"var VERSION = '([^']+)'", frag).group(1)
@@ -44,37 +43,9 @@ MANIFEST = {
     ],
 }
 
-def icons(dst):
-    (dst / "icons").mkdir(parents=True, exist_ok=True)
-    for f in ["icon-192.png", "icon-512.png", "apple-touch-icon.png"]:
-        shutil.copy(LOGO / f, dst / "icons" / f)
-    Image.open(LOGO / "hermes-logo-256.png").resize((128, 128), Image.LANCZOS).save(dst / "icons" / "logo.png", optimize=True)
-
-def data(dst):
-    shutil.copytree(DATA, dst / "data", dirs_exist_ok=True)
-
-def build_site():
-    dst = DIST / "site"
-    shutil.rmtree(dst, ignore_errors=True); dst.mkdir(parents=True)
-    # Le fragment commence par <title> et <meta> : on les garde dans le <head>, le reste va dans <body>
-    m = re.search(r"(<title>.*?</title>\s*<meta[^>]*>\s*<style>.*?</style>)(.*)", frag, re.S)
-    head_part, body_part = m.group(1), m.group(2)
-    html = HEAD + head_part + "\n</head>\n<body>" + body_part + "</body>\n</html>\n"
-    (dst / "index.html").write_text(html, encoding="utf-8")
-    (dst / "sw.js").write_text((SRC / "sw.js").read_text(encoding="utf-8").replace("__VERSION__", version), encoding="utf-8")
-    (dst / "manifest.webmanifest").write_text(json.dumps(MANIFEST, ensure_ascii=False, indent=1), encoding="utf-8")
-    (dst / ".nojekyll").write_text("")
-    icons(dst); data(dst)
-    return dst
-
-def build_preview():
-    dst = DIST / "preview"
-    shutil.rmtree(dst, ignore_errors=True); dst.mkdir(parents=True)
-    (dst / "index.html").write_text(frag, encoding="utf-8")
-    icons(dst); data(dst)
-    return dst
-
-if __name__ == "__main__":
-    s, p = build_site(), build_preview()
-    n = sum(1 for _ in (s / "data").rglob("*.json"))
-    print(f"HERMÈS {version} : site -> {s} ; aperçu -> {p} ; {n} fichiers de données")
+m = re.search(r"(<title>.*?</title>\s*<meta[^>]*>\s*<style>.*?</style>)(.*)", frag, re.S)
+html = HEAD + m.group(1) + "\n</head>\n<body>" + m.group(2) + "</body>\n</html>\n"
+(ROOT / "index.html").write_text(html, encoding="utf-8")
+(ROOT / "sw.js").write_text((SRC / "sw.js").read_text(encoding="utf-8").replace("__VERSION__", version), encoding="utf-8")
+(ROOT / "manifest.webmanifest").write_text(json.dumps(MANIFEST, ensure_ascii=False, indent=1), encoding="utf-8")
+print(f"HERMÈS {version} reconstruit dans {ROOT}")
