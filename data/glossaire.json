@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "entrees": [
+  {
+   "id": "rejet-budget",
+   "titre": "Que se passe-t-il quand l’Assemblée rejette le budget ?",
+   "texte": [
+    "Le texte part au Sénat dans sa version d’origine : les amendements votés par les députés disparaissent. Après le vote du Sénat, une commission mixte paritaire de 7 députés et 7 sénateurs cherche un compromis.",
+    "En cas d’échec, l’Assemblée a le dernier mot et le gouvernement peut recourir au 49.3, au risque d’une motion de censure. Si le Parlement ne s’est pas prononcé en 70 jours, le budget peut passer par ordonnance (article 47). Sans budget au 1er janvier, une loi spéciale permet de continuer à lever l’impôt."
+   ],
+   "theme": "Institutions",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "article-49-3",
+   "titre": "Article 49.3",
+   "texte": [
+    "Il permet au Premier ministre d’engager la responsabilité du gouvernement sur un texte. Le texte est adopté sans vote, sauf si une motion de censure, déposée dans les 24 heures, est votée par la majorité absolue des députés, soit 289 voix."
+   ],
+   "theme": "Institutions",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "motion-de-censure",
+   "titre": "Motion de censure",
+   "texte": [
+    "Vote par lequel l’Assemblée peut renverser le gouvernement. Elle doit être signée par au moins un dixième des députés et adoptée à la majorité absolue des membres, soit 289 voix : seuls les votes pour sont comptés."
+   ],
+   "theme": "Institutions",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "commission-mixte-paritaire",
+   "titre": "Commission mixte paritaire (CMP)",
+   "texte": [
+    "Sept députés et sept sénateurs chargés de trouver un texte commun quand les deux chambres ne sont pas d’accord. Si elle échoue, l’Assemblée a le dernier mot après une nouvelle lecture."
+   ],
+   "theme": "Institutions",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "loi-speciale",
+   "titre": "Loi spéciale",
+   "texte": [
+    "Si le budget n’est pas adopté au 1er janvier, le gouvernement peut faire voter une loi spéciale qui l’autorise à continuer de percevoir les impôts existants, en attendant un vrai budget. La France y a eu recours fin 2024."
+   ],
+   "theme": "Institutions",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "recession-technique",
+   "titre": "Récession technique",
+   "texte": [
+    "Deux trimestres consécutifs de baisse du PIB. En 2026, la France a enchaîné −0,2 %, 0,0 % puis −0,1 % : pas de récession technique au sens strict, mais neuf mois sans croissance."
+   ],
+   "theme": "Économie",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "spread-oat-bund",
+   "titre": "Écart OAT-Bund (spread)",
+   "texte": [
+    "Différence entre le taux d’emprunt à 10 ans de la France (OAT) et celui de l’Allemagne (Bund), en points de base (1 pb = 0,01 point). Il mesure la prime de risque que les investisseurs exigent pour prêter à la France plutôt qu’à l’Allemagne.",
+    "Au 5 novembre 2026, il était de 148 pb, proche de ses plus hauts depuis la crise de la zone euro de 2012."
+   ],
+   "theme": "Marchés",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "regle-d-or",
+   "titre": "Règle d’or budgétaire",
+   "texte": [
+    "Principe qui impose l’équilibre des comptes publics, ou interdit qu’un budget augmente la dette. L’Allemagne a inscrit un « frein à l’endettement » dans sa Loi fondamentale en 2009.",
+    "En France, une loi organique de 2012 encadre la trajectoire des finances publiques, sans règle d’or dans la Constitution. Le dernier budget voté à l’équilibre date de 1974."
+   ],
+   "theme": "Économie",
+   "ajoute": "2026-11-06"
+  },
+  {
+   "id": "taux-de-depot-bce",
+   "titre": "Taux de dépôt de la BCE",
+   "texte": [
+    "Taux auquel la BCE rémunère les dépôts des banques ; c’est lui qui pilote la politique monétaire de la zone euro. Il est à 2,50 % depuis le 16 septembre 2026, après deux hausses dans l’année."
+   ],
+   "theme": "Marchés",
+   "ajoute": "2026-11-06"
+  }
+ ]
+}

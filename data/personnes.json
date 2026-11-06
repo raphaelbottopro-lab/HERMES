@@ -1,0 +1,318 @@
+{
+ "schema": 1,
+ "maj": "2026-11-06",
+ "personnes": [
+  {
+   "id": "emmanuel-macron",
+   "nom": "Emmanuel Macron",
+   "fonction": "Président de la République",
+   "camp": "Exécutif",
+   "parti": "Renaissance",
+   "bio": "Élu en 2017, réélu en 2022 ; son second et dernier mandat s’achève en mai 2027."
+  },
+  {
+   "id": "sebastien-lecornu",
+   "nom": "Sébastien Lecornu",
+   "fonction": "Premier ministre",
+   "camp": "Exécutif",
+   "parti": "Renaissance",
+   "bio": "Nommé le 9 septembre 2025, reconduit le 10 octobre 2025 ; gouvernement remanié le 26 février 2026. Il dit ne pas être candidat à la présidentielle."
+  },
+  {
+   "id": "laurent-nunez",
+   "nom": "Laurent Nuñez",
+   "fonction": "Ministre de l’Intérieur",
+   "camp": "Exécutif",
+   "parti": "",
+   "bio": "Ancien préfet de police de Paris. Emmanuel Macron a refusé sa démission le 19 octobre 2026, après les violences du 17 octobre."
+  },
+  {
+   "id": "gerald-darmanin",
+   "nom": "Gérald Darmanin",
+   "fonction": "Ministre de la Justice",
+   "camp": "Exécutif",
+   "parti": "",
+   "bio": "Garde des Sceaux, ancien ministre de l’Intérieur."
+  },
+  {
+   "id": "david-amiel",
+   "nom": "David Amiel",
+   "fonction": "Ministre de l’Action et des Comptes publics",
+   "camp": "Exécutif",
+   "parti": "",
+   "bio": "Porte le budget 2027 au Parlement."
+  },
+  {
+   "id": "maud-bregeon",
+   "nom": "Maud Bregeon",
+   "fonction": "Porte-parole du gouvernement",
+   "camp": "Exécutif",
+   "parti": "",
+   "bio": "Ministre déléguée, porte-parole du gouvernement et chargée de l’Énergie."
+  },
+  {
+   "id": "aurore-berge",
+   "nom": "Aurore Bergé",
+   "fonction": "Ministre déléguée à l’Égalité femmes-hommes",
+   "camp": "Exécutif",
+   "parti": "",
+   "bio": "Chargée de l’Égalité entre les femmes et les hommes et de la Lutte contre les discriminations."
+  },
+  {
+   "id": "yael-braun-pivet",
+   "nom": "Yaël Braun-Pivet",
+   "fonction": "Présidente de l’Assemblée nationale",
+   "camp": "Institutions",
+   "parti": "Renaissance",
+   "bio": "Présidente de l’Assemblée depuis 2022."
+  },
+  {
+   "id": "philippe-juvin",
+   "nom": "Philippe Juvin",
+   "fonction": "Rapporteur général du budget à l’Assemblée",
+   "camp": "Institutions",
+   "parti": "LR",
+   "bio": "Député LR ; a justifié le rejet du budget au nom de la responsabilité et de la vérité dues aux Français."
+  },
+  {
+   "id": "christine-lavarde",
+   "nom": "Christine Lavarde",
+   "fonction": "Rapporteure générale du budget au Sénat",
+   "camp": "Institutions",
+   "parti": "LR",
+   "bio": "Sénatrice LR ; juge irréaliste l’hypothèse de croissance de 1 % du gouvernement."
+  },
+  {
+   "id": "marine-le-pen",
+   "nom": "Marine Le Pen",
+   "fonction": "Candidate du RN à la présidentielle",
+   "camp": "Extrême droite",
+   "parti": "RN",
+   "bio": "Présidente du groupe RN à l’Assemblée, déjà candidate en 2012, 2017 et 2022. Condamnée en appel le 7 juillet 2026 dans l’affaire des assistants parlementaires européens, avec une inéligibilité ferme réduite qui lui permet de se présenter."
+  },
+  {
+   "id": "jordan-bardella",
+   "nom": "Jordan Bardella",
+   "fonction": "Président du RN",
+   "camp": "Extrême droite",
+   "parti": "RN",
+   "bio": "Réélu à la tête du parti le 24 octobre 2026 avec 98,98 % des voix ; eurodéputé. Conteste les messages que lui attribue Mediapart."
+  },
+  {
+   "id": "jean-philippe-tanguy",
+   "nom": "Jean-Philippe Tanguy",
+   "fonction": "Député RN",
+   "camp": "Extrême droite",
+   "parti": "RN",
+   "bio": "Spécialiste des questions budgétaires au RN."
+  },
+  {
+   "id": "eric-zemmour",
+   "nom": "Éric Zemmour",
+   "fonction": "Président de Reconquête",
+   "camp": "Extrême droite",
+   "parti": "Reconquête",
+   "bio": "Candidat en 2022, de nouveau dans la course pour 2027."
+  },
+  {
+   "id": "nicolas-dupont-aignan",
+   "nom": "Nicolas Dupont-Aignan",
+   "fonction": "Candidat souverainiste",
+   "camp": "Droite",
+   "parti": "Debout la France",
+   "bio": "Quatrième candidature consécutive à la présidentielle."
+  },
+  {
+   "id": "jean-luc-melenchon",
+   "nom": "Jean-Luc Mélenchon",
+   "fonction": "Candidat de LFI à la présidentielle",
+   "camp": "Gauche",
+   "parti": "LFI",
+   "bio": "Fondateur de La France insoumise, deuxième des derniers sondages Ifop."
+  },
+  {
+   "id": "raphael-glucksmann",
+   "nom": "Raphaël Glucksmann",
+   "fonction": "Candidat PS–Place publique",
+   "camp": "Gauche",
+   "parti": "Place publique",
+   "bio": "Cofondateur de Place publique, eurodéputé. A remporté la primaire du PS, de Place publique et de la GRS le 11 octobre 2026 avec 66,17 %."
+  },
+  {
+   "id": "olivier-faure",
+   "nom": "Olivier Faure",
+   "fonction": "Premier secrétaire du PS",
+   "camp": "Gauche",
+   "parti": "PS",
+   "bio": "Dirige le Parti socialiste."
+  },
+  {
+   "id": "francois-ruffin",
+   "nom": "François Ruffin",
+   "fonction": "Député de la Somme, président de Debout !",
+   "camp": "Gauche",
+   "parti": "Debout !",
+   "bio": "Ancien député LFI, candidat à la présidentielle."
+  },
+  {
+   "id": "marine-tondelier",
+   "nom": "Marine Tondelier",
+   "fonction": "Secrétaire nationale des Écologistes",
+   "camp": "Gauche",
+   "parti": "Les Écologistes",
+   "bio": "Testée à 3-3,5 % dans le sondage Ifop de novembre."
+  },
+  {
+   "id": "fabien-roussel",
+   "nom": "Fabien Roussel",
+   "fonction": "Secrétaire national du PCF",
+   "camp": "Gauche",
+   "parti": "PCF",
+   "bio": "Testé à 1,5-2 % dans le sondage Ifop de novembre."
+  },
+  {
+   "id": "clementine-autain",
+   "nom": "Clémentine Autain",
+   "fonction": "Députée de Seine-Saint-Denis",
+   "camp": "Gauche",
+   "parti": "L’Après",
+   "bio": "Figure de L’Après, promotrice d’une primaire unitaire de la gauche."
+  },
+  {
+   "id": "edouard-philippe",
+   "nom": "Édouard Philippe",
+   "fonction": "Président d’Horizons, candidat",
+   "camp": "Centre",
+   "parti": "Horizons",
+   "bio": "Ancien Premier ministre, maire du Havre réélu en 2026, candidat déclaré depuis 2024."
+  },
+  {
+   "id": "gabriel-attal",
+   "nom": "Gabriel Attal",
+   "fonction": "Figure de Renaissance",
+   "camp": "Centre",
+   "parti": "Renaissance",
+   "bio": "Ancien Premier ministre (2024), testé dans les sondages pour 2027."
+  },
+  {
+   "id": "bruno-retailleau",
+   "nom": "Bruno Retailleau",
+   "fonction": "Président des Républicains, candidat",
+   "camp": "Droite",
+   "parti": "LR",
+   "bio": "Ancien ministre de l’Intérieur ; propose un référendum sur une règle d’or budgétaire."
+  },
+  {
+   "id": "laurent-wauquiez",
+   "nom": "Laurent Wauquiez",
+   "fonction": "Député LR",
+   "camp": "Droite",
+   "parti": "LR",
+   "bio": "Battu par Bruno Retailleau pour la présidence de LR en 2025."
+  },
+  {
+   "id": "david-lisnard",
+   "nom": "David Lisnard",
+   "fonction": "Maire de Cannes, candidat",
+   "camp": "Droite",
+   "parti": "",
+   "bio": "Ancien LR, candidat de droite libérale ; réclame une primaire ouverte de la droite et du centre."
+  },
+  {
+   "id": "natacha-polony",
+   "nom": "Natacha Polony",
+   "fonction": "Candidate à la présidentielle",
+   "camp": "Autres",
+   "parti": "",
+   "bio": "Journaliste, déclarée candidate mi-octobre 2026."
+  },
+  {
+   "id": "christine-lagarde",
+   "nom": "Christine Lagarde",
+   "fonction": "Présidente de la BCE",
+   "camp": "Institutions",
+   "parti": "",
+   "bio": "À la tête de la BCE depuis 2019, elle quittera ses fonctions le 7 février 2027, avant le terme de son mandat."
+  },
+  {
+   "id": "emmanuel-moulin",
+   "nom": "Emmanuel Moulin",
+   "fonction": "Gouverneur de la Banque de France",
+   "camp": "Institutions",
+   "parti": "",
+   "bio": "En poste depuis le 2 juin 2026, après le départ anticipé de François Villeroy de Galhau ; ancien secrétaire général de l’Élysée."
+  },
+  {
+   "id": "donald-trump",
+   "nom": "Donald Trump",
+   "fonction": "Président des États-Unis",
+   "camp": "International",
+   "parti": "",
+   "bio": "Son camp a perdu la Chambre et le Sénat aux élections de mi-mandat du 3 novembre 2026."
+  },
+  {
+   "id": "giorgia-meloni",
+   "nom": "Giorgia Meloni",
+   "fonction": "Présidente du Conseil italien",
+   "camp": "International",
+   "parti": "",
+   "bio": "Réclame un représentant unique de l’UE dans les négociations sur l’Ukraine."
+  },
+  {
+   "id": "antonio-costa",
+   "nom": "António Costa",
+   "fonction": "Président du Conseil européen",
+   "camp": "International",
+   "parti": "",
+   "bio": "Destinataire de la lettre de Giorgia Meloni sur l’Ukraine."
+  },
+  {
+   "id": "thomas-cazenave",
+   "nom": "Thomas Cazenave",
+   "fonction": "Maire de Bordeaux",
+   "camp": "Territoires",
+   "parti": "Renaissance",
+   "bio": "Élu en mars 2026 avec 50,95 % face au maire écologiste sortant ; ancien député Renaissance."
+  },
+  {
+   "id": "pierre-hurmic",
+   "nom": "Pierre Hurmic",
+   "fonction": "Conseiller municipal d’opposition à Bordeaux",
+   "camp": "Territoires",
+   "parti": "Les Écologistes",
+   "bio": "Maire écologiste de Bordeaux de 2020 à 2026."
+  },
+  {
+   "id": "alain-rousset",
+   "nom": "Alain Rousset",
+   "fonction": "Président de la région Nouvelle-Aquitaine",
+   "camp": "Territoires",
+   "parti": "PS",
+   "bio": "À la tête de la région depuis 2016 (de l’Aquitaine depuis 1998)."
+  },
+  {
+   "id": "germinal-peiro",
+   "nom": "Germinal Peiro",
+   "fonction": "Président du conseil départemental de la Dordogne",
+   "camp": "Territoires",
+   "parti": "PS",
+   "bio": "Président du département de la Dordogne."
+  },
+  {
+   "id": "michel-cadet",
+   "nom": "Michel Cadet",
+   "fonction": "Maire de Périgueux",
+   "camp": "Territoires",
+   "parti": "Divers droite",
+   "bio": "Élu en mars 2026 avec 53,21 % au second tour."
+  },
+  {
+   "id": "serge-blanco",
+   "nom": "Serge Blanco",
+   "fonction": "Maire de Biarritz",
+   "camp": "Territoires",
+   "parti": "Divers centre",
+   "bio": "Ancienne légende du rugby, élu en mars 2026 avec 41,92 % au second tour."
+  }
+ ]
+}

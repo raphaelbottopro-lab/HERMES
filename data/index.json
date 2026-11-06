@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "maj": "2026-11-06T07:00:00+01:00",
+ "derniere": "2026-11-06",
+ "presidentielle": {
+  "tour1": "2027-04-18",
+  "tour2": "2027-05-02"
+ },
+ "editions": [
+  {
+   "date": "2026-11-06",
+   "type": "quotidien",
+   "titre": "Édition du vendredi 6 novembre",
+   "sujets": 18
+  }
+ ]
+}

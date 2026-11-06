@@ -1,0 +1,754 @@
+{
+ "schema": 1,
+ "date": "2026-11-06",
+ "type": "quotidien",
+ "titre": "Édition du vendredi 6 novembre",
+ "publieA": "07:00",
+ "periode": "Depuis le jeudi 5 novembre, 7h. Première édition : quelques rappels des jours précédents.",
+ "essentiel": [
+  {
+   "importance": 3,
+   "texte": "Budget 2027 : l’Assemblée rejette le volet recettes à l’unanimité, le texte part au Sénat.",
+   "cible": "pol-budget"
+  },
+  {
+   "importance": 3,
+   "texte": "Grève du 5 novembre : 575 000 manifestants selon l’Intérieur, 1,6 million selon la CGT.",
+   "cible": "soc-greve"
+  },
+  {
+   "importance": 3,
+   "texte": "Midterms : les démocrates reprennent la Chambre et le Sénat, Trump dénonce des élections truquées.",
+   "cible": "int-midterms"
+  },
+  {
+   "importance": 2,
+   "texte": "Sondage Ifop : Le Pen à 35-37 %, Mélenchon conforte sa 2e place, Glucksmann recule.",
+   "cible": "pol-sondage"
+  },
+  {
+   "importance": 2,
+   "texte": "Bardella réclame une « règle d’or » budgétaire dans la Constitution.",
+   "cible": "qdq-bardella"
+  }
+ ],
+ "chiffres": {
+  "cloture": "jeudi 5 novembre",
+  "marches": [
+   {
+    "id": "cac40",
+    "label": "CAC 40",
+    "valeur": "8 205 pts",
+    "variation": "+0,34 %",
+    "sens": "hausse"
+   },
+   {
+    "id": "oat10",
+    "label": "OAT 10 ans",
+    "valeur": "4,75 %",
+    "variation": "Bund 3,27 %",
+    "sens": "neutre"
+   },
+   {
+    "id": "spread",
+    "label": "Écart OAT-Bund",
+    "valeur": "148 pb",
+    "variation": "−8 pb sur la séance",
+    "sens": "neutre"
+   },
+   {
+    "id": "brent",
+    "label": "Brent",
+    "valeur": "98,3 $",
+    "variation": "+3,67 $ après −9 % la veille",
+    "sens": "hausse"
+   },
+   {
+    "id": "or",
+    "label": "Or",
+    "valeur": "4 135 $",
+    "variation": "+1,8 %",
+    "sens": "hausse"
+   },
+   {
+    "id": "eurusd",
+    "label": "EUR/USD",
+    "valeur": "1,123",
+    "variation": "dollars pour 1 €",
+    "sens": "neutre"
+   }
+  ],
+  "macro": [
+   {
+    "id": "inflation",
+    "label": "Inflation octobre",
+    "valeur": "3,4 %"
+   },
+   {
+    "id": "pib",
+    "label": "PIB 3e trim.",
+    "valeur": "−0,1 %"
+   },
+   {
+    "id": "chomage",
+    "label": "Chômage 2e trim.",
+    "valeur": "8,3 %"
+   },
+   {
+    "id": "bce",
+    "label": "Taux de dépôt BCE",
+    "valeur": "2,50 %"
+   }
+  ],
+  "sources": [
+   {
+    "nom": "BFM Bourse",
+    "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
+   },
+   {
+    "nom": "Banque de France via Idéal Investisseur",
+    "url": "https://www.ideal-investisseur.fr/marches/spread-oat-bund.html"
+   },
+   {
+    "nom": "L’EnerGeek",
+    "url": "https://lenergeek.com/2026/11/06/petrole-rebond-brent-5-novembre-2026-ormuz/"
+   },
+   {
+    "nom": "Insee",
+    "url": "https://www.insee.fr/fr/statistiques/2107840"
+   }
+  ]
+ },
+ "sondage": {
+  "institut": "Ifop",
+  "commanditaire": "LCI",
+  "publie": "2026-11-03",
+  "hypothese": "Hypothèse avec Philippe et Attal candidats",
+  "echantillon": null,
+  "marge": null,
+  "note": "Écart avec la vague de mi-octobre. Échantillon et marge d’erreur non précisés dans les sources consultées.",
+  "resultats": [
+   {
+    "nom": "Marine Le Pen",
+    "parti": "RN",
+    "valeur": 35,
+    "evolution": "+1"
+   },
+   {
+    "nom": "Jean-Luc Mélenchon",
+    "parti": "LFI",
+    "valeur": 18,
+    "evolution": "+3"
+   },
+   {
+    "nom": "Raphaël Glucksmann",
+    "parti": "PS-PP",
+    "valeur": 10,
+    "evolution": "−2"
+   },
+   {
+    "nom": "Édouard Philippe",
+    "parti": "Horizons",
+    "valeur": 9.5,
+    "evolution": "−2,5"
+   },
+   {
+    "nom": "David Lisnard",
+    "parti": "droite",
+    "valeur": 7,
+    "evolution": "+1,5"
+   },
+   {
+    "nom": "Gabriel Attal",
+    "parti": "Renaissance",
+    "valeur": 5,
+    "evolution": "+1"
+   }
+  ],
+  "sources": [
+   {
+    "nom": "Le JDD",
+    "url": "https://www.lejdd.fr/politique/presidentielle-le-pen-domine-glucksmann-perd-du-terrain-lisnard-progresse-encore-les-enseignements-dun-nouveau-sondage-187734"
+   },
+   {
+    "nom": "Quartz (AFP)",
+    "url": "https://fr.qz.com/marine-pen-devance-melenchon-sondage-ifop-presidentielle-110426"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "qui-a-dit-quoi",
+   "titre": "Qui a dit quoi ?",
+   "items": [
+    {
+     "id": "qdq-bardella",
+     "format": "declaration",
+     "importance": 2,
+     "personne": {
+      "id": "jordan-bardella",
+      "nom": "Jordan Bardella",
+      "role": "Président du RN",
+      "quand": "jeudi 5 nov., vidéo sur ses réseaux"
+     },
+     "titre": "Bardella veut une « règle d’or » dans la Constitution",
+     "paragraphes": [
+      "Au lendemain du rejet du budget, il demande le vote rapide d’une « règle d’or » dans la Constitution : aucun budget ne pourrait être adopté s’il augmente l’endettement du pays. Il vise une adoption par le Parlement puis le Congrès en quelques semaines, et appelle les autres partis à le rejoindre."
+     ],
+     "reactions": [
+      {
+       "qui": "Bruno Retailleau (LR)",
+       "texte": "veut aussi une règle d’or, mais par référendum avant la fin de l’année."
+      },
+      {
+       "qui": "Gauche et bloc central",
+       "texte": "pas de réaction relevée à l’heure de l’édition."
+      }
+     ],
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html"
+      },
+      {
+       "nom": "Quartz (AFP)",
+       "url": "https://fr.qz.com/jordan-bardella-regle-or-constitution-budget-2027-110526"
+      }
+     ],
+     "fils": [
+      "budget-2027"
+     ],
+     "personnes": [
+      "jordan-bardella",
+      "bruno-retailleau"
+     ]
+    },
+    {
+     "id": "qdq-amiel",
+     "format": "declaration",
+     "importance": 1,
+     "personne": {
+      "id": "david-amiel",
+      "nom": "David Amiel",
+      "role": "Ministre de l’Action et des Comptes publics",
+      "quand": "mercredi 4 nov."
+     },
+     "titre": "Amiel met en garde contre l’effet présidentielle",
+     "paragraphes": [
+      "Après le vote des députés, il les invite à ne pas se laisser « hypnotiser par l’élection présidentielle » et rappelle qu’il ne reste que quelques semaines pour trouver un accord. À Matignon, on renvoie le compromis à l’après-Sénat."
+     ],
+     "sources": [
+      {
+       "nom": "Euronews",
+       "url": "https://fr.euronews.com/2026/11/05/budget-2027-lassemblee-nationale-rejette-le-texte-a-lunanimite"
+      }
+     ],
+     "fils": [
+      "budget-2027"
+     ],
+     "personnes": [
+      "david-amiel",
+      "sebastien-lecornu"
+     ]
+    },
+    {
+     "id": "qdq-ruffin",
+     "format": "declaration",
+     "importance": 1,
+     "personne": {
+      "id": "francois-ruffin",
+      "nom": "François Ruffin",
+      "role": "Debout !, candidat à la présidentielle",
+      "quand": "ce matin sur franceinfo"
+     },
+     "titre": "Ruffin défend ses 40 chantiers",
+     "paragraphes": [
+      "Invité de la matinale, il a parlé salaires et mobilisations sociales, et défendu ses 40 chantiers pour « remettre la France debout »."
+     ],
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-06-novembre-2026_8249929.html"
+      }
+     ],
+     "fils": [
+      "presidentielle-2027"
+     ],
+     "personnes": [
+      "francois-ruffin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "politique",
+   "titre": "Politique",
+   "items": [
+    {
+     "id": "pol-budget",
+     "format": "ligne",
+     "importance": 3,
+     "etiquette": "PLF",
+     "titre": "Budget 2027 : rejet unanime à l’Assemblée",
+     "paragraphes": [
+      "Budget 2027 : volet recettes rejeté par 458 voix contre et aucune pour. Le Sénat reprend le texte initial le 20 novembre."
+     ],
+     "lien": {
+      "onglet": "plf",
+      "texte": "Détail dans l’onglet PLF"
+     },
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/budget/l-assemblee-nationale-rejette-a-l-unanimite-le-budget-de-l-etat-2027-en-premiere-lecture_8268527.html"
+      },
+      {
+       "nom": "France 24",
+       "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-budget-2027-l-assembl%C3%A9e-nationale-rejette-%C3%A0-l-unanimit%C3%A9-le-projet-de-budget-de-l-%C3%A9tat"
+      }
+     ],
+     "fils": [
+      "budget-2027"
+     ]
+    },
+    {
+     "id": "pol-sondage",
+     "format": "developpe",
+     "importance": 2,
+     "rubrique": "PRÉSIDENTIELLE 2027",
+     "titre": "Le Pen creuse l’écart, Glucksmann recule",
+     "paragraphes": [
+      "Dans la vague Ifop pour LCI publiée le 3 novembre, Marine Le Pen (RN) recueille 35 à 37 % selon les hypothèses. Jean-Luc Mélenchon (LFI) monte à 17,5-18 % et devance ses poursuivants d’au moins deux points.",
+      "Raphaël Glucksmann (PS-Place publique) tombe à 10-13 %, contre 12-16 % mi-octobre. Édouard Philippe (Horizons) atteint 15 % s’il est le seul candidat du bloc central, 9,5 % si Gabriel Attal se présente aussi."
+     ],
+     "pourquoi": "Trois semaines après sa primaire, Glucksmann perd du terrain dans la course à la qualification pour le second tour, que Mélenchon semble prendre en main à gauche.",
+     "note": "Sondage Ifop pour LCI, publié le 3 nov. Échantillon et marge d’erreur non précisés dans les sources consultées.",
+     "sources": [
+      {
+       "nom": "Quartz (AFP)",
+       "url": "https://fr.qz.com/marine-pen-devance-melenchon-sondage-ifop-presidentielle-110426"
+      },
+      {
+       "nom": "Le JDD",
+       "url": "https://www.lejdd.fr/politique/presidentielle-le-pen-domine-glucksmann-perd-du-terrain-lisnard-progresse-encore-les-enseignements-dun-nouveau-sondage-187734"
+      },
+      {
+       "nom": "Yahoo Actualités",
+       "url": "https://fr.news.yahoo.com/presidentielle-2027-duel-entre-jean-073944508.html"
+      }
+     ],
+     "fils": [
+      "presidentielle-2027"
+     ],
+     "personnes": [
+      "marine-le-pen",
+      "jean-luc-melenchon",
+      "raphael-glucksmann",
+      "edouard-philippe",
+      "gabriel-attal"
+     ]
+    },
+    {
+     "id": "pol-mediapart",
+     "format": "breve",
+     "importance": 1,
+     "rubrique": "MÉDIAS",
+     "titre": "Livre de Bardella : Mediapart refoulé, la presse quitte la soirée",
+     "paragraphes": [
+      "Mercredi soir à Paris, un reporter de Mediapart s’est vu refuser l’entrée malgré son billet. Presque tous les journalistes accrédités sont alors partis. Le journal et le président du RN s’opposent depuis fin septembre sur des messages antisémites que Mediapart lui attribue et qu’il conteste."
+     ],
+     "sources": [
+      {
+       "nom": "24matins",
+       "url": "https://www.24matins.fr/soiree-du-livre-de-bardella-pourquoi-les-journalistes-sont-partis-1423661"
+      },
+      {
+       "nom": "Yahoo Actualités",
+       "url": "https://fr.news.yahoo.com/mediapart-sest-vu-refuser-lacc%C3%A8s-073210551.html"
+      }
+     ],
+     "fils": [
+      "bardella-mediapart",
+      "presidentielle-2027"
+     ],
+     "personnes": [
+      "jordan-bardella"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Économie",
+   "items": [
+    {
+     "id": "eco-marches",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "MARCHÉS",
+     "titre": "Le CAC 40 tient malgré la chute de l’IA à Wall Street",
+     "paragraphes": [
+      "L’indice parisien gagne 0,34 % à 8 205 points jeudi, alors que le Nasdaq perd 4 % sur des craintes d’une réglementation plus stricte de l’intelligence artificielle aux États-Unis. L’écart de taux entre la France et l’Allemagne se resserre à 148 points de base."
+     ],
+     "patrimoine": "Les banques tiennent compte de l’OAT 10 ans dans leurs barèmes de crédit immobilier : tant que l’écart avec l’Allemagne reste proche de 150 points, les taux proposés aux emprunteurs restent sous pression.",
+     "sources": [
+      {
+       "nom": "BFM Bourse",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
+      },
+      {
+       "nom": "Banque de France via Idéal Investisseur",
+       "url": "https://www.ideal-investisseur.fr/marches/spread-oat-bund.html"
+      },
+      {
+       "nom": "France Épargne",
+       "url": "https://www.france-epargne.fr/news/lecart-entre-loat-et-le-bund-atteint-120-points-de-base-un-niveau-inedit-depuis-2012"
+      }
+     ]
+    },
+    {
+     "id": "eco-industrie",
+     "format": "ligne",
+     "importance": 1,
+     "titre": "Production industrielle en baisse",
+     "paragraphes": [
+      "Industrie : la production industrielle recule de 0,5 % en septembre."
+     ],
+     "sources": [
+      {
+       "nom": "ABC Bourse",
+       "url": "https://www.abcbourse.com/marches/newsContent/705647"
+      }
+     ]
+    },
+    {
+     "id": "eco-bce",
+     "format": "ligne",
+     "importance": 1,
+     "titre": "BCE : taux inchangés, départ de Lagarde en février",
+     "paragraphes": [
+      "BCE : taux de dépôt maintenu à 2,50 % le 29 octobre, prochaine décision le 17 décembre. Christine Lagarde quittera la présidence le 7 février 2027."
+     ],
+     "sources": [
+      {
+       "nom": "Ymanci",
+       "url": "https://ymanci.fr/credit-immobilier/actualites/nouveaux-taux-bce-octobre-2026/"
+      },
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html"
+      }
+     ],
+     "personnes": [
+      "christine-lagarde"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "titre": "Social et société",
+   "items": [
+    {
+     "id": "soc-greve",
+     "format": "developpe",
+     "importance": 3,
+     "rubrique": "MOUVEMENTS SOCIAUX",
+     "titre": "Grève du 5 novembre : une mobilisation massive pour les salaires",
+     "chiffresCles": [
+      {
+       "valeur": "575 000",
+       "label": "selon l’Intérieur"
+      },
+      {
+       "valeur": "1,6 million",
+       "label": "selon la CGT"
+      }
+     ],
+     "paragraphes": [
+      "À l’appel des syndicats, salariés du public et du privé, retraités, lycéens et étudiants ont défilé pour les salaires et les services publics, dans 180 cortèges selon le ministère, dont 350 000 personnes à Paris selon la CGT.",
+      "Des heurts ont éclaté en tête de cortège à Lyon, où la préfecture compte 30 500 manifestants et la CGT 55 000. Un photographe de l’AFP a été frappé à coups de matraque par des CRS. 70 000 policiers et gendarmes étaient mobilisés."
+     ],
+     "pourquoi": "La journée prolonge la colère sociale de l’automne, après le 17 octobre marqué par des violences et des pillages dans plusieurs villes. Des gilets jaunes appellent à de nouvelles actions ce vendredi et samedi.",
+     "sources": [
+      {
+       "nom": "France 24",
+       "url": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites"
+      },
+      {
+       "nom": "ICI",
+       "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620"
+      },
+      {
+       "nom": "L’essentiel (AFP)",
+       "url": "https://lessentiel.lu/fr/story/crises-en-france-le-5-novembre-nunez-veut-un-dispositif-robuste-103644650"
+      },
+      {
+       "nom": "France 24 via Titres Presse",
+       "url": "https://www.titrespresse.com/28026062603/europe-info-jour"
+      }
+     ],
+     "fils": [
+      "mobilisation-automne-2026"
+     ],
+     "personnes": [
+      "laurent-nunez"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "international",
+   "titre": "International",
+   "items": [
+    {
+     "id": "int-midterms",
+     "format": "breve",
+     "importance": 3,
+     "rubrique": "ÉTATS-UNIS",
+     "titre": "Les démocrates reprennent le Congrès",
+     "paragraphes": [
+      "Après les élections de mi-mandat du 3 novembre, ils détiennent la majorité à la Chambre des représentants et au Sénat, avec 54 sièges sur 100 d’après les derniers décomptes. Donald Trump dénonce des élections « truquées »."
+     ],
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html"
+      },
+      {
+       "nom": "La Libre",
+       "url": "https://dossiers.lalibre.be/midterms-2026/"
+      },
+      {
+       "nom": "RTS",
+       "url": "https://www.rts.ch/info/monde/2026/minute-par-minute/29402944.html"
+      }
+     ],
+     "fils": [
+      "guerre-iran-petrole"
+     ],
+     "personnes": [
+      "donald-trump"
+     ]
+    },
+    {
+     "id": "int-ukraine",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "UKRAINE",
+     "titre": "Meloni réclame une voix unique pour l’Europe",
+     "paragraphes": [
+      "Dans une lettre à António Costa, président du Conseil européen, la Première ministre italienne critique la dispersion des Vingt-Sept, avant les pourparlers Ukraine–Russie prévus le 11 novembre à Abou Dhabi sous médiation américaine."
+     ],
+     "sources": [
+      {
+       "nom": "Daily Beirut",
+       "url": "https://dailybeirut.com/fr/monde/negociations-ukraine-meloni-message-severe-conseil-europeen/"
+      },
+      {
+       "nom": "Demócrata",
+       "url": "https://www.democrata.es/fr/international/extension-l-italie-reclame-a-l-ue-de-designer-une-seule-voix-pour-les-negociations-de-paix-sur-l-ukraine/"
+      }
+     ],
+     "fils": [
+      "ukraine-paix"
+     ],
+     "personnes": [
+      "giorgia-meloni",
+      "antonio-costa"
+     ]
+    },
+    {
+     "id": "int-petrole",
+     "format": "ligne",
+     "importance": 2,
+     "titre": "Pétrole : le Brent sous 100 $, puis rebond",
+     "paragraphes": [
+      "Pétrole : le Brent est passé sous 100 $ mercredi, sur l’espoir d’une désescalade dans la guerre entre les États-Unis et l’Iran, puis a rebondi jeudi à 98,3 $ après de nouveaux incidents visant des navires."
+     ],
+     "sources": [
+      {
+       "nom": "L’EnerGeek",
+       "url": "https://lenergeek.com/2026/11/06/petrole-rebond-brent-5-novembre-2026-ormuz/"
+      },
+      {
+       "nom": "TRT Français",
+       "url": "https://www.trtfrancais.com/article/d2521cfe86ae"
+      }
+     ],
+     "fils": [
+      "guerre-iran-petrole"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "regions",
+   "titre": "Régions",
+   "items": [
+    {
+     "id": "reg-bordeaux",
+     "format": "region",
+     "importance": 2,
+     "lieu": "Bordeaux",
+     "titre": "Bordeaux chiffre les dégâts du 17 octobre",
+     "paragraphes": [
+      "Au conseil municipal du 2 novembre, Thomas Cazenave chiffre à 350 000 € les dégâts du 17 octobre pour la ville et la métropole, et à 8-10 M€ ceux des 81 commerces touchés. Il demande que les cortèges évitent l’hypercentre ; l’opposition le renvoie à ses promesses sur la sécurité."
+     ],
+     "sources": [
+      {
+       "nom": "Rue89 Bordeaux",
+       "url": "https://rue89bordeaux.com/2026/11/echanges-de-lbd-au-conseil-municipal-de-bordeaux-sur-le-fiasco-securitaire-du-17-octobre/"
+      },
+      {
+       "nom": "Bordeaux Gazette",
+       "url": "https://www.bordeaux-gazette.com/17-octobre-a-bordeaux-echanges-tendus-au-conseil-municipal.html"
+      }
+     ],
+     "fils": [
+      "bordeaux-17-octobre"
+     ],
+     "personnes": [
+      "thomas-cazenave"
+     ]
+    },
+    {
+     "id": "reg-perigueux",
+     "format": "region",
+     "importance": 1,
+     "lieu": "Périgueux",
+     "titre": "Périgueux : 2 400 à 3 500 manifestants",
+     "paragraphes": [
+      "Entre 2 400 manifestants selon la préfecture et 3 500 selon la CGT ont défilé jeudi."
+     ],
+     "sources": [
+      {
+       "nom": "ICI Périgord",
+       "url": "https://www.ici.fr/nouvelle-aquitaine/dordogne-24/mobilisation-du-5-novembre-suivez-les-manifestations-en-dordogne-8224957"
+      }
+     ],
+     "fils": [
+      "mobilisation-automne-2026"
+     ]
+    },
+    {
+     "id": "reg-biarritz",
+     "format": "region",
+     "importance": 1,
+     "lieu": "Biarritz",
+     "titre": "Biarritz : le banquet du Canon français fait débat",
+     "paragraphes": [
+      "Banquet du Canon français le 28 novembre : la préfecture réclame 45 000 € aux organisateurs pour la sécurité, et cent personnalités appellent à une chaîne humaine."
+     ],
+     "sources": [
+      {
+       "nom": "ICI Pays basque",
+       "url": "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/biarritz"
+      },
+      {
+       "nom": "France 3 Nouvelle-Aquitaine",
+       "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/biarritz"
+      }
+     ],
+     "fils": [
+      "biarritz-canon-francais"
+     ]
+    },
+    {
+     "id": "reg-na",
+     "format": "region",
+     "importance": 0,
+     "lieu": "Nouvelle-Aquitaine · Dordogne",
+     "titre": "Rien de notable",
+     "vide": true,
+     "paragraphes": [
+      "Rien de notable repéré depuis hier."
+     ],
+     "sources": []
+    }
+   ]
+  }
+ ],
+ "debat": {
+  "id": "debat-regle-or",
+  "question": "Faut-il inscrire une « règle d’or » budgétaire dans la Constitution ?",
+  "pour": {
+   "titre": "Ce que disent ses partisans (RN, LR)",
+   "texte": "Elle obligerait chaque gouvernement à cesser d’alourdir la dette, alors que la France n’a plus voté de budget à l’équilibre depuis 1974, et rassurerait les prêteurs au moment où l’écart de taux avec l’Allemagne frôle 150 points."
+  },
+  "contre": {
+   "titre": "Ce que répondent ses détracteurs",
+   "texte": "Une règle rigide priverait l’État de marge en cas de crise ou de récession, et la France dispose déjà d’un cadre : la loi organique de 2012 sur les finances publiques et les règles budgétaires européennes."
+  },
+  "sources": [
+   {
+    "nom": "franceinfo",
+    "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html"
+   },
+   {
+    "nom": "Assemblée nationale, PPL n° 880",
+    "url": "https://questions.assemblee-nationale.fr/dyn/17/textes/l17b0880_proposition-loi.pdf"
+   },
+   {
+    "nom": "Banque de France via Idéal Investisseur",
+    "url": "https://www.ideal-investisseur.fr/marches/spread-oat-bund.html"
+   }
+  ]
+ },
+ "comprendre": "rejet-budget",
+ "fait": {
+  "texte": "Une récession technique, c’est deux trimestres de baisse du PIB d’affilée. La France a fait −0,2 % au 1er trimestre, 0,0 % au 2e puis −0,1 % au 3e : pas de récession technique, mais neuf mois sans croissance.",
+  "theme": "Économie",
+  "sources": [
+   {
+    "nom": "The Conversation",
+    "url": "https://theconversation.com/la-france-est-elle-entree-en-recession-en-2026-295759"
+   },
+   {
+    "nom": "Insee",
+    "url": "https://www.insee.fr/fr/statistiques/2107840"
+   }
+  ]
+ },
+ "agenda": [
+  {
+   "date": "2026-11-06",
+   "fin": "2026-11-07",
+   "libelle": "6-7 nov.",
+   "texte": "Actions « six-seven populaire » appelées par des gilets jaunes"
+  },
+  {
+   "date": "2026-11-09",
+   "libelle": "Lun. 9 nov.",
+   "texte": "Le Sénat commence l’examen du PLFSS 2027"
+  },
+  {
+   "date": "2026-11-11",
+   "libelle": "Mer. 11 nov.",
+   "texte": "Pourparlers Ukraine–Russie à Abou Dhabi, sous médiation américaine"
+  },
+  {
+   "date": "2026-11-13",
+   "libelle": "Ven. 13 nov.",
+   "texte": "Insee : inflation définitive d’octobre"
+  },
+  {
+   "date": "2026-11-20",
+   "libelle": "Ven. 20 nov.",
+   "texte": "Le Sénat commence l’examen du PLF 2027"
+  },
+  {
+   "date": "2026-11-28",
+   "libelle": "Sam. 28 nov.",
+   "texte": "Banquet du Canon français à Biarritz, contre-rassemblement annoncé"
+  }
+ ],
+ "filsMaj": [
+  "presidentielle-2027",
+  "budget-2027",
+  "mobilisation-automne-2026",
+  "guerre-iran-petrole"
+ ],
+ "mention": "Édition rédigée à partir de sources officielles et de médias de sensibilités variées. Citations de moins de 15 mots, le reste reformulé.",
+ "sujets": 18
+}

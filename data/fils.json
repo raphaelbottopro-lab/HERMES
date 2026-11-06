@@ -1,0 +1,700 @@
+{
+ "schema": 1,
+ "fils": [
+  {
+   "id": "presidentielle-2027",
+   "titre": "Présidentielle 2027",
+   "ouvert": "2026-07-07",
+   "maj": "2026-11-06",
+   "resume": "Sondage Ifop : Glucksmann recule",
+   "sondage": true,
+   "etat": [
+    {
+     "titre": "Calendrier",
+     "texte": "1er tour le dimanche 18 avril 2027, second tour le 2 mai."
+    },
+    {
+     "titre": "Rassemblement national",
+     "texte": "Marine Le Pen est candidate : en appel, son inéligibilité ferme a été ramenée à 15 mois. Son congrès d’Orléans a lancé la campagne fin octobre et réélu Jordan Bardella à la tête du parti."
+    },
+    {
+     "titre": "Gauche",
+     "texte": "Raphaël Glucksmann porte le PS, Place publique et la GRS après sa primaire. Jean-Luc Mélenchon (LFI) et François Ruffin (Debout !) font campagne de leur côté ; Marine Tondelier et Fabien Roussel sont testés dans les sondages."
+    },
+    {
+     "titre": "Centre et droite",
+     "texte": "Pas de primaire à ce stade. Édouard Philippe (Horizons), Bruno Retailleau (LR) et David Lisnard sont candidats, Gabriel Attal (Renaissance) est testé. Lisnard réclame une primaire ouverte."
+    },
+    {
+     "titre": "Autres",
+     "texte": "Éric Zemmour (Reconquête), Nicolas Dupont-Aignan et Natacha Polony sont aussi dans la course."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-04",
+     "texte": "Lancement du livre de Jordan Bardella : un reporter de Mediapart est refoulé, presque tous les journalistes quittent la soirée.",
+     "sources": [
+      {
+       "nom": "24matins",
+       "url": "https://www.24matins.fr/soiree-du-livre-de-bardella-pourquoi-les-journalistes-sont-partis-1423661"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "texte": "Sondage Ifop pour LCI : Le Pen à 35-37 %, Mélenchon à 17,5-18 %, Glucksmann recule à 10-13 %.",
+     "sources": [
+      {
+       "nom": "Quartz (AFP)",
+       "url": "https://fr.qz.com/marine-pen-devance-melenchon-sondage-ifop-presidentielle-110426"
+      },
+      {
+       "nom": "Le JDD",
+       "url": "https://www.lejdd.fr/politique/presidentielle-le-pen-domine-glucksmann-perd-du-terrain-lisnard-progresse-encore-les-enseignements-dun-nouveau-sondage-187734"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "texte": "Christine Lagarde quittera la BCE le 7 février 2027 pour retrouver « la liberté de m’engager », ce qui relance les spéculations sur une candidature.",
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/politique/je-souhaite-avoir-la-liberte-de-m-engager-pourquoi-christine-lagarde-quitte-la-bce-a-six-mois-de-la-presidentielle_8260472.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "texte": "Congrès du RN à Orléans : Jordan Bardella réélu président avec 98,98 % des voix, Marine Le Pen ouvre sa campagne.",
+     "sources": [
+      {
+       "nom": "Business News (AFP)",
+       "url": "https://businessnews.com.tn/2026/10/24/france-bardella-reelu-a-9898-le-rassemblement-national-en-ordre-de-bataille-pour-lelysee/1424836/"
+      },
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/congres-du-rn-jordan-bardella-reelu-sans-suspens-president-du-rassemblement-national-remanie-les-instances-dirigeantes-du-parti"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "texte": "Natacha Polony se déclare candidate sur France Inter.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "texte": "Raphaël Glucksmann remporte la primaire socialiste dès le 1er tour, avec 66,17 % des voix.",
+     "sources": [
+      {
+       "nom": "LCP",
+       "url": "https://lcp.fr/actualites/primaire-socialiste-vainqueur-des-le-1er-tour-raphael-glucksmann-sera-le-candidat-de-la"
+      },
+      {
+       "nom": "i24news",
+       "url": "https://www.i24news.tv/fr/actu/france/artc-presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-de-la-gauche-des-le-premier-tour"
+      }
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "fin": "2026-10-09",
+     "texte": "Mediapart publie des messages antisémites qu’il attribue à Jordan Bardella, puis ses éléments d’authentification. Bardella dénonce des faux et annonce des poursuites.",
+     "sources": [
+      {
+       "nom": "France 24",
+       "url": "https://www.france24.com/fr/tag/mediapart/"
+      },
+      {
+       "nom": "Wikipédia, Mediapart",
+       "url": "https://fr.wikipedia.org/wiki/Mediapart"
+      }
+     ]
+    },
+    {
+     "date": "2026-07-07",
+     "texte": "La cour d’appel de Paris condamne Marine Le Pen mais réduit son inéligibilité ferme : sa candidature redevient juridiquement possible.",
+     "sources": [
+      {
+       "nom": "Slate",
+       "url": "https://www.slate.fr/politique/condamnation-appel-marine-le-pen-jugement-sans-consequences-politiques-decision-citoyens-gagnante-sequence-justice-rn-bardella-election-presidentielle-2027"
+      },
+      {
+       "nom": "blue News (AFP)",
+       "url": "https://www.bluewin.ch/fr/infos/monde/marine-le-pen-peut-a-priori-tre-candidate-la-pr-sidentielle-li.3519786"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "marine-le-pen",
+    "jordan-bardella",
+    "jean-luc-melenchon",
+    "raphael-glucksmann",
+    "edouard-philippe",
+    "gabriel-attal",
+    "bruno-retailleau",
+    "david-lisnard",
+    "francois-ruffin",
+    "christine-lagarde"
+   ]
+  },
+  {
+   "id": "budget-2027",
+   "titre": "Budget 2027",
+   "ouvert": "2026-10-01",
+   "maj": "2026-11-06",
+   "plf": true,
+   "resume": "Rejet unanime à l’Assemblée",
+   "etat": [
+    {
+     "titre": "Où en est le texte",
+     "texte": "L’Assemblée a rejeté le volet recettes du PLF le 4 novembre, par 458 voix contre et aucune pour : le Sénat repart du texte du gouvernement, qui vise un déficit de 5 % du PIB en 2027. Le PLFSS avait été rejeté le 23 octobre."
+    },
+    {
+     "titre": "Calendrier",
+     "texte": "PLFSS au Sénat du 9 au 18 novembre ; PLF du 20 novembre au 9 décembre. Au-delà de 70 jours d’examen, soit le 17 décembre, le budget peut passer par ordonnance."
+    },
+    {
+     "titre": "Les options du gouvernement",
+     "texte": "Matignon renvoie le compromis à l’après-Sénat. La presse évoque un 49.3 en lecture ultérieure, que Sébastien Lecornu avait écarté le 17 septembre."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-05",
+     "texte": "Jordan Bardella demande une « règle d’or » budgétaire dans la Constitution ; Bruno Retailleau propose un référendum.",
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "texte": "L’Assemblée rejette la première partie du PLF à l’unanimité (458 contre, 0 pour) ; le texte initial part au Sénat.",
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/budget/l-assemblee-nationale-rejette-a-l-unanimite-le-budget-de-l-etat-2027-en-premiere-lecture_8268527.html"
+      },
+      {
+       "nom": "Journal du Net",
+       "url": "https://www.journaldunet.com/business/action-publique/1557631-les-deputes-rejettent-unanimement-le-projet-de-budget-2027/"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "texte": "Le PLFSS est rejeté en première lecture à l’Assemblée.",
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/budget/l-assemblee-nationale-rejette-a-l-unanimite-le-budget-de-l-etat-2027-en-premiere-lecture_8268527.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "texte": "Ouverture de la séance publique sur la première partie du PLF, après son rejet en commission des finances le 9 octobre.",
+     "sources": [
+      {
+       "nom": "LCP",
+       "url": "https://lcp.fr/dossiers/budget-2027-440523"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "texte": "Dépôt du PLF et du PLFSS 2027 à l’Assemblée.",
+     "sources": [
+      {
+       "nom": "LCP",
+       "url": "https://lcp.fr/dossiers/budget-2027-440523"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "sebastien-lecornu",
+    "david-amiel",
+    "philippe-juvin",
+    "christine-lavarde",
+    "jordan-bardella",
+    "bruno-retailleau"
+   ]
+  },
+  {
+   "id": "mobilisation-automne-2026",
+   "titre": "Mobilisation sociale d’automne",
+   "ouvert": "2026-10-17",
+   "maj": "2026-11-06",
+   "resume": "Grève interprofessionnelle du 5 novembre",
+   "etat": [
+    {
+     "titre": "Les revendications",
+     "texte": "Vie chère, salaires et services publics. Le mouvement réunit syndicats, gilets jaunes, lycéens et étudiants, qui réclament notamment 10 milliards d’euros pour l’éducation."
+    },
+    {
+     "titre": "Les temps forts",
+     "texte": "Le 17 octobre, 550 000 à 800 000 manifestants selon les sources, et des pillages dans plusieurs grandes villes. Le 5 novembre, la grève interprofessionnelle a réuni 575 000 personnes selon l’Intérieur, 1,6 million selon la CGT."
+    },
+    {
+     "titre": "La réponse de l’État",
+     "texte": "Emmanuel Macron a condamné les violences le 18 octobre et refusé la démission de Laurent Nuñez. Sébastien Lecornu a reçu les syndicats. 70 000 policiers et gendarmes étaient mobilisés le 5 novembre."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-06",
+     "fin": "2026-11-07",
+     "texte": "Des gilets jaunes appellent à de nouvelles actions, baptisées « six-seven populaire ».",
+     "sources": [
+      {
+       "nom": "France 24 via Titres Presse",
+       "url": "https://www.titrespresse.com/28026062603/europe-info-jour"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "texte": "Grève interprofessionnelle : 575 000 manifestants selon l’Intérieur, 1,6 million selon la CGT ; heurts à Lyon.",
+     "sources": [
+      {
+       "nom": "France 24",
+       "url": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites"
+      },
+      {
+       "nom": "ICI",
+       "url": "https://www.ici.fr/infos/economie-social/direct-greve-du-5-novembre-les-syndicats-dans-la-rue-ce-jeudi-pour-les-salaires-et-contre-la-vie-chere-7257620"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "texte": "Nouveaux blocages de lycées et d’universités à l’appel des organisations de jeunesse.",
+     "sources": [
+      {
+       "nom": "L’essentiel (AFP)",
+       "url": "https://lessentiel.lu/fr/story/crises-en-france-le-5-novembre-nunez-veut-un-dispositif-robuste-103644650"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "texte": "Les syndicats sont conviés à Matignon ; Emmanuel Macron refuse la démission de Laurent Nuñez.",
+     "sources": [
+      {
+       "nom": "La DH (AFP)",
+       "url": "https://www.dhnet.be/dernieres-depeches/2026/10/19/crise-politique-et-violences-en-france-les-derniers-developpements-IJ6MWJT27VEWRB772VVKNHFOIM/"
+      },
+      {
+       "nom": "Wikipédia, Laurent Nuñez",
+       "url": "https://en.wikipedia.org/wiki/Laurent_Nu%C3%B1ez"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "texte": "Allocution d’Emmanuel Macron, qui condamne les violences et distingue manifestants et casseurs.",
+     "sources": [
+      {
+       "nom": "Hespress (AFP)",
+       "url": "https://fr.hespress.com/492970-macron-appelle-les-partis-a-condamner-les-violences-et-distingue-les-manifestants-des-casseurs.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "texte": "Journée contre la vie chère : 550 000 manifestants selon l’Intérieur, pillages et violences dans plusieurs villes, 1 800 interpellations.",
+     "sources": [
+      {
+       "nom": "Hespress (AFP)",
+       "url": "https://fr.hespress.com/492970-macron-appelle-les-partis-a-condamner-les-violences-et-distingue-les-manifestants-des-casseurs.html"
+      },
+      {
+       "nom": "Wikipédia, Manifestations du 17 octobre 2026",
+       "url": "https://fr.wikipedia.org/wiki/Manifestations_du_17_octobre_2026"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "emmanuel-macron",
+    "sebastien-lecornu",
+    "laurent-nunez"
+   ]
+  },
+  {
+   "id": "guerre-iran-petrole",
+   "titre": "Guerre États-Unis – Iran et pétrole",
+   "ouvert": "2026-02-01",
+   "maj": "2026-11-06",
+   "resume": "Le Brent repasse sous 100 $, puis rebondit",
+   "etat": [
+    {
+     "titre": "Le contexte",
+     "texte": "Depuis février 2026, la guerre entre les États-Unis et l’Iran perturbe le détroit d’Ormuz, par où transite environ 20 % du pétrole mondial. Le Brent était au-dessus de 100 $ depuis début octobre."
+    },
+    {
+     "titre": "Les effets en Europe",
+     "texte": "Le choc énergétique a relancé l’inflation (3,4 % en France en octobre) et poussé la BCE à relever ses taux deux fois en 2026, jusqu’à 2,50 %."
+    },
+    {
+     "titre": "Depuis les midterms",
+     "texte": "La victoire démocrate au Congrès nourrit l’espoir d’une désescalade : le Brent a perdu près de 9 % le 4 novembre avant de rebondir le lendemain."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-05",
+     "texte": "Le Brent rebondit à 98,3 $ après de nouveaux incidents visant des navires.",
+     "sources": [
+      {
+       "nom": "L’EnerGeek",
+       "url": "https://lenergeek.com/2026/11/06/petrole-rebond-brent-5-novembre-2026-ormuz/"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "texte": "Le Brent chute de près de 9 % et repasse sous 100 $ ; l’AIE remet des stocks sur le marché.",
+     "sources": [
+      {
+       "nom": "TRT Français",
+       "url": "https://www.trtfrancais.com/article/d2521cfe86ae"
+      },
+      {
+       "nom": "L’Automobiliste",
+       "url": "https://lautomobiliste.fr/05/11/2026/petrole-baisse-prix-pompe-carburant-delai/"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "texte": "Élections de mi-mandat : les démocrates reprennent le Congrès.",
+     "sources": [
+      {
+       "nom": "franceinfo",
+       "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "texte": "La BCE maintient son taux de dépôt à 2,50 %.",
+     "sources": [
+      {
+       "nom": "Ymanci",
+       "url": "https://ymanci.fr/credit-immobilier/actualites/nouveaux-taux-bce-octobre-2026/"
+      }
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "texte": "Deuxième hausse de taux de la BCE en 2026, à 2,50 %.",
+     "sources": [
+      {
+       "nom": "Ymanci",
+       "url": "https://ymanci.fr/credit-immobilier/actualites/nouveaux-taux-bce-octobre-2026/"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "donald-trump",
+    "christine-lagarde"
+   ]
+  },
+  {
+   "id": "ukraine-paix",
+   "titre": "Ukraine : négociations de paix",
+   "ouvert": "2026-04-11",
+   "maj": "2026-11-06",
+   "resume": "Meloni réclame une voix unique pour l’UE",
+   "etat": [
+    {
+     "titre": "Où en sont les discussions",
+     "texte": "Les États-Unis mènent la médiation entre l’Ukraine et la Russie. Une nouvelle session est prévue le 11 novembre à Abou Dhabi."
+    },
+    {
+     "titre": "La place de l’Europe",
+     "texte": "Les Vingt-Sept peinent à parler d’une seule voix ; Giorgia Meloni demande un représentant unique doté d’un mandat clair."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-05",
+     "texte": "Lettre de Giorgia Meloni à António Costa pour réclamer une voix unique de l’UE.",
+     "sources": [
+      {
+       "nom": "Daily Beirut",
+       "url": "https://dailybeirut.com/fr/monde/negociations-ukraine-meloni-message-severe-conseil-europeen/"
+      },
+      {
+       "nom": "Demócrata",
+       "url": "https://www.democrata.es/fr/international/extension-l-italie-reclame-a-l-ue-de-designer-une-seule-voix-pour-les-negociations-de-paix-sur-l-ukraine/"
+      }
+     ]
+    },
+    {
+     "date": "2026-04-11",
+     "fin": "2026-04-13",
+     "texte": "Trêve de Pâques orthodoxe de 32 heures, émaillée d’accusations de violations.",
+     "sources": [
+      {
+       "nom": "Wikipédia, trêve d’avril 2026",
+       "url": "https://en.wikipedia.org/wiki/2026_Russo-Ukrainian_truce"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "giorgia-meloni",
+    "antonio-costa",
+    "donald-trump"
+   ]
+  },
+  {
+   "id": "bardella-mediapart",
+   "titre": "Affaire Bardella – Mediapart",
+   "ouvert": "2026-09-28",
+   "maj": "2026-11-05",
+   "resume": "Mediapart refoulé au lancement du livre de Bardella",
+   "etat": [
+    {
+     "titre": "Les faits",
+     "texte": "Mediapart attribue à Jordan Bardella des messages antisémites et publie ses éléments d’authentification, dont une extraction de conversation Messenger constatée par un commissaire de justice."
+    },
+    {
+     "titre": "La réponse de Bardella",
+     "texte": "Il conteste en être l’auteur, dénonce des faux et annonce des poursuites, notamment pour diffamation."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-04",
+     "texte": "Un reporter de Mediapart est refoulé au lancement du livre de Jordan Bardella ; la plupart des journalistes quittent la soirée.",
+     "sources": [
+      {
+       "nom": "24matins",
+       "url": "https://www.24matins.fr/soiree-du-livre-de-bardella-pourquoi-les-journalistes-sont-partis-1423661"
+      },
+      {
+       "nom": "Yahoo Actualités",
+       "url": "https://fr.news.yahoo.com/mediapart-sest-vu-refuser-lacc%C3%A8s-073210551.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "texte": "Mediapart publie de nouveaux éléments à l’appui de l’authenticité des messages.",
+     "sources": [
+      {
+       "nom": "Wikipédia, Mediapart",
+       "url": "https://fr.wikipedia.org/wiki/Mediapart"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "texte": "Mediapart détaille comment il a authentifié les échanges.",
+     "sources": [
+      {
+       "nom": "Wikipédia, Mediapart",
+       "url": "https://fr.wikipedia.org/wiki/Mediapart"
+      }
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "texte": "Première publication de Mediapart sur les messages attribués à Jordan Bardella.",
+     "sources": [
+      {
+       "nom": "France 24",
+       "url": "https://www.france24.com/fr/tag/mediapart/"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "jordan-bardella"
+   ]
+  },
+  {
+   "id": "attentat-trappes",
+   "titre": "Attentat de Trappes",
+   "ouvert": "2026-10-23",
+   "maj": "2026-10-30",
+   "resume": "Hommage national annoncé",
+   "etat": [
+    {
+     "titre": "Les faits",
+     "texte": "Le 23 octobre, un homme a tiré depuis sa voiture à Trappes et La Verrière (Yvelines), tuant Pengo Bossio Wangi, 26 ans, et blessant sept personnes, dont une fillette de 12 ans."
+    },
+    {
+     "titre": "L’enquête",
+     "texte": "Le parquet national antiterroriste s’est saisi. Le suspect, 39 ans, a été mis en examen pour assassinat terroriste à caractère raciste et écroué."
+    },
+    {
+     "titre": "La suite",
+     "texte": "Un hommage national présidé par Sébastien Lecornu a été annoncé ; sa date reste à préciser."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-10-30",
+     "texte": "Rassemblement contre le racisme à Trappes ; le suspect est mis en examen et écroué.",
+     "sources": [
+      {
+       "nom": "Paris Match Belgique (AFP)",
+       "url": "https://www.parismatch.be/actualites/monde/2026/10/30/attaque-raciste-a-trappes-le-suspect-avait-ete-interpelle-trois-jours-avant-les-faits-PV3ZAFJBCBAHVG2BCX6C7AD6FI/"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "texte": "Le gouvernement annonce un hommage national présidé par Sébastien Lecornu.",
+     "sources": [
+      {
+       "nom": "InfosYvelines",
+       "url": "https://www.infosyvelines.fr/articles/trappes-hommage-national-preside-par-sebastien-lecornu"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "texte": "Fusillade à Trappes et La Verrière : un mort et sept blessés.",
+     "sources": [
+      {
+       "nom": "InfosYvelines",
+       "url": "https://www.infosyvelines.fr/articles/trappes-hommage-national-preside-par-sebastien-lecornu"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "sebastien-lecornu",
+    "laurent-nunez",
+    "aurore-berge"
+   ]
+  },
+  {
+   "id": "bordeaux-17-octobre",
+   "titre": "Bordeaux après le 17 octobre",
+   "ouvert": "2026-10-17",
+   "maj": "2026-11-06",
+   "region": "Bordeaux",
+   "resume": "Le conseil municipal chiffre les dégâts",
+   "etat": [
+    {
+     "titre": "Ce qui s’est passé",
+     "texte": "Le 17 octobre, des émeutes ont éclaté en marge de la manifestation ; la résidence préfectorale a été saccagée et le RAID déclenché."
+    },
+    {
+     "titre": "Le bilan",
+     "texte": "La mairie chiffre à 350 000 € les dégâts pour la ville et la métropole, et à 8-10 M€ ceux des 81 commerces touchés."
+    },
+    {
+     "titre": "Le débat local",
+     "texte": "Thomas Cazenave demande que les cortèges évitent l’hypercentre ; l’opposition l’accuse de renier ses promesses sur la sécurité."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-02",
+     "texte": "Conseil municipal : longs échanges tendus sur la sécurité et le droit de manifester.",
+     "sources": [
+      {
+       "nom": "Rue89 Bordeaux",
+       "url": "https://rue89bordeaux.com/2026/11/echanges-de-lbd-au-conseil-municipal-de-bordeaux-sur-le-fiasco-securitaire-du-17-octobre/"
+      },
+      {
+       "nom": "Bordeaux Gazette",
+       "url": "https://www.bordeaux-gazette.com/17-octobre-a-bordeaux-echanges-tendus-au-conseil-municipal.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "texte": "Émeutes en marge de la manifestation, résidence préfectorale saccagée, RAID déclenché.",
+     "sources": [
+      {
+       "nom": "Sud Radio",
+       "url": "https://www.sudradio.fr/emission/a-la-une-de-sud-radio-101"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "thomas-cazenave",
+    "pierre-hurmic"
+   ]
+  },
+  {
+   "id": "biarritz-canon-francais",
+   "titre": "Biarritz : le banquet du Canon français",
+   "ouvert": "2026-10-14",
+   "maj": "2026-11-05",
+   "region": "Biarritz",
+   "resume": "Un faux communiqué d’annulation circule",
+   "etat": [
+    {
+     "titre": "L’événement",
+     "texte": "Le Canon français organise un « banquet basque » à Biarritz le 28 novembre ; ses opposants l’accusent de banaliser l’extrême droite."
+    },
+    {
+     "titre": "Sécurité",
+     "texte": "La préfecture réclame 45 000 € aux organisateurs pour le dispositif des forces de l’ordre."
+    },
+    {
+     "titre": "Contestation",
+     "texte": "Cent personnalités du Pays basque appellent à former un « rempart humain » le jour du banquet."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-04",
+     "texte": "Un faux communiqué annonçant l’annulation du banquet circule en ligne.",
+     "sources": [
+      {
+       "nom": "France 3 Nouvelle-Aquitaine",
+       "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/biarritz"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "texte": "La préfecture réclame 45 000 € aux organisateurs.",
+     "sources": [
+      {
+       "nom": "ICI Pays basque",
+       "url": "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/biarritz"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "texte": "Appel de cent personnalités à une chaîne humaine le 28 novembre.",
+     "sources": [
+      {
+       "nom": "France 3 Nouvelle-Aquitaine",
+       "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/pyrenees-atlantiques/biarritz"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "serge-blanco"
+   ]
+  }
+ ]
+}

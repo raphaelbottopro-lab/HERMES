@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "vagues": [
+  {
+   "institut": "Ifop",
+   "commanditaire": "LCI",
+   "publie": "2026-11-03",
+   "hypothese": "Hypothèse avec Philippe et Attal candidats",
+   "echantillon": null,
+   "marge": null,
+   "note": "Écart avec la vague de mi-octobre. Échantillon et marge d’erreur non précisés dans les sources consultées.",
+   "resultats": [
+    {
+     "nom": "Marine Le Pen",
+     "parti": "RN",
+     "valeur": 35,
+     "evolution": "+1"
+    },
+    {
+     "nom": "Jean-Luc Mélenchon",
+     "parti": "LFI",
+     "valeur": 18,
+     "evolution": "+3"
+    },
+    {
+     "nom": "Raphaël Glucksmann",
+     "parti": "PS-PP",
+     "valeur": 10,
+     "evolution": "−2"
+    },
+    {
+     "nom": "Édouard Philippe",
+     "parti": "Horizons",
+     "valeur": 9.5,
+     "evolution": "−2,5"
+    },
+    {
+     "nom": "David Lisnard",
+     "parti": "droite",
+     "valeur": 7,
+     "evolution": "+1,5"
+    },
+    {
+     "nom": "Gabriel Attal",
+     "parti": "Renaissance",
+     "valeur": 5,
+     "evolution": "+1"
+    }
+   ],
+   "sources": [
+    {
+     "nom": "Le JDD",
+     "url": "https://www.lejdd.fr/politique/presidentielle-le-pen-domine-glucksmann-perd-du-terrain-lisnard-progresse-encore-les-enseignements-dun-nouveau-sondage-187734"
+    },
+    {
+     "nom": "Quartz (AFP)",
+     "url": "https://fr.qz.com/marine-pen-devance-melenchon-sondage-ifop-presidentielle-110426"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1985 @@
+{
+ "schema": 1,
+ "maj": "2026-11-06",
+ "aujourdhui": {
+  "titre": "vendredi 6 novembre 2026",
+  "texte": "Aucun vote ; la commission des affaires sociales du Sénat a arrêté ses amendements au PLFSS avant la séance du 9 novembre.",
+  "points": [
+   "PLFSS retraites – pensions protégées de l'inflation jusqu'à 1 500 € au lieu de 1 260 € ; Déposé (commission, Sénat).",
+   "PLFSS retraites – rétablissement de la réforme de 2023 voulu par la commission ; Déposé (commission, Sénat).",
+   "PLFSS – CSG des IJ, prélèvements sociaux, primes et allègements : position de la commission non précisée (rapport pas encore en ligne).",
+   "PLF – commission des finances du Sénat au travail ; aucune position publiée sur les art. 2 à 10."
+  ],
+  "aVenir": "PLFSS au Sénat du 9 au 18 novembre ; PLF au Sénat du 20 novembre au 9 décembre ; délai de 70 jours le 17 décembre."
+ },
+ "intro": "Au 6 novembre 2026, l'Assemblée a rejeté la première partie du PLF (4 novembre, 458 voix contre 0) : tous les amendements votés en séance tombent et le Sénat examine le texte initial du gouvernement à partir du 20 novembre. Les mesures ajoutées par l'Assemblée (exit tax, PEA-PME, holdings, Dutreil…) sont donc absentes du texte transmis, et l'art. 6 (assurance-vie) revient dans sa version initiale. Hors PLF, le gouvernement a annoncé le 3 novembre un plafond du Livret A entre 25 000 et 30 000 € en février 2027. Côté PLFSS, rejeté par l'Assemblée le 23 octobre, le Sénat examine le texte initial du 9 au 18 novembre ; sa commission des affaires sociales propose de protéger de l'inflation les pensions jusqu'à 1 500 € et de rétablir la réforme des retraites de 2023.",
+ "mesures": [
+  {
+   "mesure": "Art. 2 – Barème IR et revenus de remplacement",
+   "texte": "PLF",
+   "initial": "Barème +2,1 % ; indemnités de rupture exonérées dans la limite de 1 PASS ; IJ des ALD imposables à 50 % ; fin de l'exonération partielle des IJ AT-MP ; revenus 2026",
+   "derniere": "Texte initial (modifications de l'Assemblée tombées avec le rejet du 4 novembre)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 3 – Abattement de 10 % sur les pensions",
+   "texte": "PLF",
+   "initial": "Sous-plafond de 3 000 € par foyer (plafond actuel 4 439 €) ; revenus 2026 ; 1,4 Md€",
+   "derniere": "Texte initial (suppression votée le 15 octobre tombée avec le rejet)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 4 – Donations de sommes d'argent",
+   "texte": "PLF",
+   "initial": "Don familial exonéré porté à 50 000 € ; taux unique de 6 % (5 % avec reversement) jusqu'à 100 000 € ; donataire de 18 à 49 ans ; hors rappel fiscal ; dons du 1/1 au 30/6/2027",
+   "derniere": "Texte initial (plafond à 100 000 € voté en séance, tombé avec le rejet)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 5 – Apport-cession (150-0 B ter)",
+   "texte": "PLF",
+   "initial": "Donation et décès mettent fin au report ; IR étalable sur 5 ans, prélèvements sociaux immédiats ; transmissions dès le 1/10/2026 ; 500 M€",
+   "derniere": "Texte initial (version du rapporteur général tombée avec le rejet)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 6 – Assurance-vie",
+   "texte": "PLF",
+   "initial": "Primes en numéraire et aucun actif d'une société contrôlée par la famille ; sinon perte du régime IR et décès ; nouveaux contrats dès le 1/10/2026, existants au 1/7/2027 pour le décès",
+   "derniere": "Texte initial (article jamais voté à l'Assemblée)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 7 – LMNP, meublés de tourisme, PTZ",
+   "texte": "PLF",
+   "initial": "Amortissement LMNP plafonné à 2,5 % et 7 000 € par an ; tourisme 1,5 % et 5 000 € ; reports imputables à 50 % du résultat ; PTZ parentalité ; exercices 2027",
+   "derniere": "Texte initial (suppression du plafonnement LMNP tombée avec le rejet)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 10 – Reprises d'entreprises",
+   "texte": "PLF",
+   "initial": "Abattement retraite porté à 1 M€ si cession aux salariés ; droits de 0,1 % ; suramortissement 60 % (TPE) ou 30 % (PME) ; 2027 à 2029",
+   "derniere": "Texte initial (modifications tombées avec le rejet)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – IR-PME",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnels – Pension alimentaire et prestation compensatoire",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 23 – Avoirs en déshérence",
+   "texte": "PLF",
+   "initial": "Prélèvement de 17 % sur le stock à la CDC au 31/12/2026, restitué en cas de réclamation ; 1,36 à 1,45 Md€",
+   "derniere": "Texte initial (suppression du 2 novembre tombée avec le rejet)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. 78 – APL étudiantes",
+   "texte": "PLF",
+   "initial": "Choix entre APL et avantage fiscal des parents au-delà de 29 579 € de RFR par part ; 1/9/2027",
+   "derniere": "Inchangé (seconde partie non examinée à l'Assemblée)",
+   "etape": "Texte initial transmis au Sénat",
+   "date": "4 novembre 2026",
+   "statut": "initial"
+  },
+  {
+   "mesure": "PLFSS – Indemnités journalières",
+   "texte": "PLFSS",
+   "initial": "CSG sur les IJ portée de 6,2 % à 9,2 % au 1/1/2027",
+   "derniere": "Texte initial (rejet de l'ensemble à l'Assemblée)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "23 octobre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "PLFSS – Revenus du capital",
+   "texte": "PLFSS",
+   "initial": "Aucun changement des prélèvements sociaux",
+   "derniere": "Inchangé",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "23 octobre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "PLFSS – Retraites de base",
+   "texte": "PLFSS",
+   "initial": "Gel différencié, retraites modestes exclues ; 3,0 Md€",
+   "derniere": "Texte initial (suppression en commission caduque, rejet de l'ensemble à l'Assemblée) ; au Sénat, la commission propose un seuil de protection relevé de 1 260 € à 1 500 € (coût 200 M€) et le rétablissement de la réforme de 2023",
+   "etape": "Rejeté (séance, Assemblée) – Déposé (amendements de la commission des affaires sociales, Sénat), séance dès le 9 novembre",
+   "date": "4 novembre 2026",
+   "statut": "depose"
+  },
+  {
+   "mesure": "PLFSS – Primes et allègements de charges",
+   "texte": "PLFSS",
+   "initial": "PPV, intéressement et participation intégrés au calcul des allègements généraux ; 3,7 Md€",
+   "derniere": "Texte initial (suppression en commission caduque, rejet de l'ensemble à l'Assemblée)",
+   "etape": "Rejeté (séance, Assemblée) – texte initial transmis au Sénat",
+   "date": "23 octobre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnels – Crypto-actifs",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – Heures supplémentaires",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – Holdings familiales et patrimoniales",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – Livret A",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Plafond à 30 000 € rejeté en séance (n° 3625 et 3744, 32-51) ; hors PLF, le Premier ministre annonce le 3 novembre un plafond entre 25 000 et 30 000 € dès février 2027 (actuel 22 950 €), montant exact à fixer",
+   "etape": "Rejeté (séance, Assemblée) pour l'amendement ; relèvement Annoncé par le gouvernement",
+   "date": "3 novembre 2026",
+   "statut": "annonce"
+  },
+  {
+   "mesure": "Art. additionnel – PEA-PME",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – Plus-values sur résidences secondaires",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – Prime de partage de la valeur",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnels – BSPCE et apport d'entreprise individuelle",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – IFI et baux ruraux",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "PLFSS – Art. additionnel – Aide à domicile des 70-79 ans",
+   "texte": "PLFSS",
+   "initial": "Absente du texte initial",
+   "derniere": "Mesure tombée avec le rejet du texte ; absente de la version transmise au Sénat",
+   "etape": "Rejeté / retiré (rejet de l'ensemble, Assemblée)",
+   "date": "23 octobre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – Exit tax",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnels – Pacte Dutreil",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  },
+  {
+   "mesure": "Art. additionnel – Taxe sur les transactions financières",
+   "texte": "PLF",
+   "initial": "Absente du texte initial",
+   "derniere": "Tombé avec le rejet de la première partie ; absent du texte transmis au Sénat",
+   "etape": "Rejeté / retiré (rejet de la première partie, Assemblée)",
+   "date": "4 novembre 2026",
+   "statut": "rejete"
+  }
+ ],
+ "journal": [
+  {
+   "titre": "vendredi 6 novembre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du jeudi 5 novembre 6h53 au vendredi 6 novembre 6h53. Aucun vote : le Sénat prépare le PLFSS (séance dès le 9 novembre) et le PLF (dès le 20 novembre). Ce bloc rattrape aussi les amendements de la commission des affaires sociales du Sénat, arrêtés le 4 novembre en fin d'après-midi et absents du bloc d'hier."
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Retraites de base : la commission du Sénat veut protéger de l'inflation les pensions jusqu'à 1 500 €"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (amendements de la commission des affaires sociales, Sénat, arrêtés le 4 novembre ; rapporteur général Olivier Henno, rapporteure branche vieillesse Marie-Do Aeschlimann) ; avis du gouvernement non précisé. Le Sénat examine le texte initial, rejeté à l'Assemblée le 23 octobre."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le plafond des pensions épargnées par la sous-indexation passerait de 1 260 € à 1 500 €, pour un coût de 200 M€ sur les 4 Md€ d'économies prévues. La commission veut aussi rétablir la réforme des retraites de 2023, qu'elle chiffre à 600 M€ d'économies en 2027 ; modalités non précisées."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : environ 40 % des retraités seraient protégés de l'inflation selon la commission, contre un tiers dans le texte du gouvernement."
+    },
+    {
+     "t": "li",
+     "x": "Suite : séance au Sénat du 9 au 18 novembre, puis CMP ; le rétablissement de la réforme de 2023 a peu de chances de survivre à la CMP face aux députés."
+    },
+    {
+     "t": "li",
+     "x": "Source : Public Sénat, 4 novembre ; dossier législatif du Sénat"
+    },
+    {
+     "t": "p",
+     "x": "PLFSS – Autres points de la commission du Sénat : suppression des contributions sur les dispositifs médicaux et les groupements de pharmacies (270 M€), contribution des mutuelles (1 Md€) transformée en transfert de charges, fonds d'urgence de 200 M€ pour les Ehpad ; objectif de déficit de 12,7 Md€. Sur la CSG des IJ (6,2 % → 9,2 %), les prélèvements sociaux sur le capital et l'intégration des primes (PPV, intéressement) dans les allègements : non précisé, le rapport n° 144 n'est pas encore en ligne. Avis de la commission des finances (n° 139, Vincent Delahaye) déposé le 3 novembre ; 300 amendements déposés pour la séance (Sénat)."
+    },
+    {
+     "t": "p",
+     "x": "PLF : aucun vote. La commission des finances du Sénat a examiné le tome I du rapport général le 4 novembre et des rapports spéciaux du 3 au 5 novembre (commission des finances) ; la rapporteure générale Christine Lavarde (LR) juge « hors-sol » la croissance de 1 % retenue (APVF). Aucune position publiée sur les mesures patrimoniales. La presse spécialisée liste les amendements susceptibles de revenir au Sénat : dons de l'art. 4 prolongés au 31/12/2027, PEA-PME à 300 000 €, micro-foncier, PTZ, suppression du plafonnement LMNP (LégiFiscal) — simple analyse, statuts inchangés."
+    },
+    {
+     "t": "p",
+     "x": "À venir : PLFSS au Sénat à partir du lundi 9 novembre à 15h, vote solennel le 18 novembre ; délai de 50 jours le 26 novembre ; PLF au Sénat dès le 20 novembre, vote de la première partie le 28 novembre, vote sur l'ensemble le 9 décembre."
+    }
+   ],
+   "date": "2026-11-06"
+  },
+  {
+   "titre": "jeudi 5 novembre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du mercredi 4 novembre 6h53 au jeudi 5 novembre 6h53. Fait majeur : l'Assemblée a rejeté la première partie du PLF, ce qui met fin à sa première lecture ; tous les amendements votés depuis le 13 octobre disparaissent."
+    },
+    {
+     "t": "h",
+     "x": "PLF – Première partie (recettes) : rejetée à l'unanimité, le texte initial part au Sénat"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Rejeté / retiré (séance, Assemblée) – mercredi 4 novembre au soir, 458 voix contre, 0 pour. Le dossier législatif indique « rejeté par l'Assemblée nationale » le 4 novembre (T.A. n° 362). Tous les groupes ont voté contre, chacun pour ses raisons : recettes jugées insuffisantes à gauche, hausses d'impôts refusées par la droite et le RN, bloc central opposé au texte remanié."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la seconde partie (dépenses) ne sera pas examinée à l'Assemblée. Le Sénat est saisi du texte initial du gouvernement (n° 3210). Toutes les modifications votées en séance tombent : suppression du plafonnement LMNP (art. 7), dons familiaux à 100 000 € (art. 4), version du rapporteur sur l'apport-cession (art. 5), exit tax à 15 ans, PEA-PME à 300 000 €, IR-PME à 25 %, extension de la taxe holdings, Dutreil, plus-values sur résidences secondaires, suppression des art. 3 et 23, TTF, taxe stablecoins. L'art. 6 (assurance-vie) revient dans sa rédaction initiale. Selon le ministre David Amiel, le texte amendé aurait creusé le déficit de l'État de 20,7 Md€ (5,9 % du PIB au lieu de 5 %), chiffrage contesté par Nicolas Sansu (GDR)."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : tous les clients visés par les mesures patrimoniales. Pour le conseil, la référence redevient le texte du gouvernement : par exemple dons familiaux plafonnés à 50 000 € sur le 1er semestre 2027, plafonnement des amortissements LMNP à 2,5 % et 7 000 € par an, fin du report en apport-cession en cas de donation ou décès."
+    },
+    {
+     "t": "li",
+     "x": "Suite : le Sénat peut réintroduire certaines mesures (le rapporteur général du Sénat et la majorité sénatoriale fixeront leurs priorités), puis CMP. Fort risque que tout bouge encore : 49.3 possible en lecture ultérieure, ou ordonnances si le Parlement ne s'est pas prononcé dans les 70 jours (17 décembre à minuit)."
+    },
+    {
+     "t": "li",
+     "x": "Source : dossier législatif PLF 2027 ; LCP, 4 novembre ; Journal du Coin ; Politique Matin"
+    },
+    {
+     "t": "h",
+     "x": "Calendrier – PLF au Sénat : dates officielles publiées"
+    },
+    {
+     "t": "li",
+     "x": "Statut : ordre du jour du Sénat, « sous réserve de transmission »."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : discussion générale le vendredi 20 novembre à 9h30 ; première partie du 23 au 28 novembre, vote le samedi 28 novembre (dimanche 29 possible) ; missions du 30 novembre au 8 décembre ; articles de la seconde partie et vote sur l'ensemble le mercredi 9 décembre. Ces dates confirment celles avancées par Public Sénat."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : toutes les mesures patrimoniales de la première partie (art. 2 à 10 notamment), à suivre dès le 23 novembre."
+    },
+    {
+     "t": "li",
+     "x": "Suite : dates susceptibles d'évoluer selon la transmission des textes ; CMP non datée."
+    },
+    {
+     "t": "li",
+     "x": "Source : ordre du jour du Sénat"
+    },
+    {
+     "t": "p",
+     "x": "Votes des 3 et 4 novembre : aucun amendement patrimonial adopté trouvé ; de toute façon sans effet après le rejet. PLFSS : rien de nouveau, examen au Sénat à partir du 9 novembre."
+    },
+    {
+     "t": "p",
+     "x": "À venir : PLFSS au Sénat du 9 au 18 novembre (vote solennel le 18) ; PLF au Sénat à partir du 20 novembre, vote de la première partie le 28 novembre, vote sur l'ensemble le 9 décembre ; CMP ensuite ; délai de 70 jours le 17 décembre."
+    }
+   ],
+   "date": "2026-11-05"
+  },
+  {
+   "titre": "mercredi 4 novembre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du mardi 3 novembre 6h53 au mercredi 4 novembre 6h53. Une seule séance PLF mardi après-midi, après les questions au gouvernement ; la première partie n'est toujours pas terminée et son vote solennel n'a pas eu lieu."
+    },
+    {
+     "t": "h",
+     "x": "Livret A – Plafond relevé « entre 25 000 et 30 000 € » en février 2027"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Annoncé – par le Premier ministre Sébastien Lecornu lors des questions au gouvernement à l'Assemblée, mardi 3 novembre. Aucun texte publié ; véhicule juridique non précisé (le plafond relève habituellement d'un décret, pas du PLF)."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : plafond actuel de 22 950 € porté à un montant compris entre 25 000 et 30 000 €, à partir de février 2027. Le montant exact sera fixé par le ministre de l'Économie, Roland Lescure, après une concertation avec les banques et la Caisse des dépôts. Le taux serait lui aussi relevé, niveau et date non précisés. Rappel : les amendements PLF portant le plafond à 30 000 € avaient été rejetés en séance le 16 octobre (n° 3625 et 3744)."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : épargnants dont le Livret A est déjà au plafond ; versement supplémentaire possible de 2 050 € à 7 050 € selon le montant retenu. LDDS et LEP : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Suite : arbitrage du montant attendu dans les prochaines semaines ; à surveiller pour l'arbitrage entre épargne réglementée et autres supports dans les conseils clients."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 3 novembre"
+    },
+    {
+     "t": "h",
+     "x": "Calendrier – PLFSS au Sénat confirmé officiellement"
+    },
+    {
+     "t": "li",
+     "x": "Statut : ordre du jour publié par le Sénat (texte n° 138, version initiale du gouvernement après le rejet à l'Assemblée)."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : discussion générale le lundi 9 novembre à 15h, articles du 9 au 17 novembre, vote solennel le mercredi 18 novembre au soir. Le projet de loi de finances de fin de gestion pour 2026 est inscrit le 18 novembre, sous réserve de son dépôt."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : mesures du PLFSS (CSG sur les IJ, gel des retraites, primes et allègements) ; le Sénat peut les réécrire avant la CMP."
+    },
+    {
+     "t": "li",
+     "x": "Suite : selon Public Sénat, le PLF serait examiné au Sénat du 20 novembre au 8 décembre, vote solennel le 9 décembre ; CMP PLFSS fin novembre, CMP PLF mi-décembre (dates PLF non confirmées sur senat.fr)."
+    },
+    {
+     "t": "li",
+     "x": "Source : ordre du jour du Sénat ; Public Sénat, 3 novembre"
+    },
+    {
+     "t": "p",
+     "x": "PLF – Première partie : reprise mardi après-midi (758 amendements restants au début de la journée) ; aucune nouvelle date de vote solennel publiée, fin des débats envisagée mercredi soir selon Sébastien Chenu (RN) cité par Journal du Coin. Le compte rendu de la séance du 3 novembre n'a pas pu être ouvert : les votes de mardi sont non précisés. Lundi 2 novembre (3e séance), seuls des amendements non patrimoniaux ont été adoptés (n° 4003 du gouvernement sur la restitution des surplus de recettes carburants, 52-1 ; art. 26 adopté) (compte rendu de la 3e séance). Le rapporteur général Philippe Juvin a de nouveau appelé au 49.3 le 1er novembre ; aucune décision du gouvernement (Journal du Coin). Art. 6 (assurance-vie) : toujours aucun vote trouvé."
+    },
+    {
+     "t": "p",
+     "x": "À venir : fin de la première partie du PLF cette semaine puis vote solennel à une date non précisée ; vote sur l'ensemble au plus tard le 17 novembre ; PLFSS au Sénat à partir du 9 novembre, vote le 18 novembre."
+    }
+   ],
+   "date": "2026-11-04"
+  },
+  {
+   "titre": "mardi 3 novembre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du lundi 2 novembre 6h53 au mardi 3 novembre 6h53. Trois séances PLF lundi (articles 16 à 23 et articles additionnels) ; la première partie n'est pas terminée."
+    },
+    {
+     "t": "h",
+     "x": "Calendrier – Vote solennel de la première partie reporté"
+    },
+    {
+     "t": "li",
+     "x": "Statut : vote prévu ce mardi 3 novembre annulé (Assemblée), faute d'avoir épuisé les amendements ; c'est le deuxième report après celui du 20 octobre."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : 758 amendements restaient à examiner lundi à minuit. Les débats sur les recettes reprennent ce mardi ; le vote n'aura lieu qu'une fois tous les amendements examinés. Selon des sources parlementaires citées par LCP, la première partie pourrait s'achever cette semaine, mercredi soir selon Sébastien Chenu (RN). Nouvelle date du vote : non précisée."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : toutes les mesures déjà votées (LMNP, exit tax, Dutreil, dons familiaux, apport-cession…) restent suspendues à ce vote : en cas de rejet, le texte initial du gouvernement part au Sénat sans les amendements adoptés."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote sur l'ensemble du PLF en première lecture au plus tard le 17 novembre à minuit ; le temps restant pour la seconde partie se réduit."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 3 novembre"
+    },
+    {
+     "t": "h",
+     "x": "Art. 23 – Avoirs en déshérence : article supprimé"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée) – suppression de l'article par cinq amendements identiques (n° 163, 677, 836, 1190, 1470), 51 voix contre 37. Gouvernement défavorable ; le rapporteur général a chiffré la perte à 1,4 Md€."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le prélèvement exceptionnel de 17 % sur le stock d'avoirs en déshérence (comptes inactifs, contrats d'assurance-vie non réclamés) détenu par la Caisse des dépôts disparaît du texte de l'Assemblée. Les amendements suivants sur l'article sont tombés."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : titulaires et bénéficiaires de comptes et contrats oubliés transférés à la CDC, dont les sommes resteraient intégralement réclamables."
+    },
+    {
+     "t": "li",
+     "x": "Suite : mesure de rendement importante pour le gouvernement ; retour probable au Sénat ou en CMP, et suppression caduque si la première partie est rejetée."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 2e séance du 2 novembre"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – Taxe sur les transactions financières"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée) – amendement n° 2527, 33 voix contre 26, gouvernement défavorable. Les amendements concurrents (n° 2533, 3234, 2518, 3515, 3956) sont tombés."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la série d'amendements visait une hausse du taux de la TTF, son extension aux opérations intrajournalières ou le transfert de sa collecte à la DGFiP ; le contenu exact du n° 2527 (taux, date d'application) est non précisé, la fiche de l'amendement n'ayant pas pu être ouverte."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : investisseurs en actions françaises de grandes capitalisations (compte-titres, PEA), via un coût de transaction plus élevé."
+    },
+    {
+     "t": "li",
+     "x": "Suite : à préciser sur la fiche de l'amendement ; forte probabilité de remise en cause au Sénat."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 2e séance du 2 novembre"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes du 2 novembre : art. 16 (hausse de TVA sur la télévision payante) supprimé, 45 voix contre 15, contre l'avis du gouvernement ; suppression de la TVA sur un panier de produits de première nécessité adoptée (n° 641 et 1039, 30-28) ; art. 19 et 20 adoptés modifiés ; amendement n° 3814 (Goulet) sur la taxe forfaitaire et l'imposition des plus-values sur œuvres d'art rejeté (25-30) ; TVA sur les meublés de tourisme (n° 1441) rejetée ; crédits d'impôt outre-mer pour l'accession en BRS adoptés (n° 917 et identiques, 21-9) (compte rendu de la 1re séance). Le compte rendu de la 3e séance n'a pas pu être ouvert. Art. 6 (assurance-vie) : toujours aucun vote trouvé, statut non précisé."
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : rien de nouveau pendant la période ; dates d'examen au Sénat toujours non confirmées sur senat.fr."
+    },
+    {
+     "t": "p",
+     "x": "À venir : reprise de la première partie du PLF ce mardi 3 novembre après les questions au gouvernement (758 amendements restants), fin visée dans la semaine puis vote solennel à une date non précisée ; vote sur l'ensemble au plus tard le 17 novembre ; PLFSS au Sénat à partir du 9 novembre selon la presse."
+    }
+   ],
+   "date": "2026-11-03"
+  },
+  {
+   "titre": "lundi 2 novembre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du vendredi 30 octobre 6h53 au lundi 2 novembre 6h53, week-end compris. Trois séances PLF vendredi, aucune samedi ni dimanche ; la séance de ce lundi n'a pas encore commencé."
+    },
+    {
+     "t": "h",
+     "x": "Art. 7 – LMNP : le plafonnement des amortissements est supprimé"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée), article adopté modifié. Amendements identiques n° I-96 (Falcon, RN), I-114 (Wauquiez, Droite républicaine) et I-116 (Félicie Gérard, Horizons), scrutin n° 9359 : 45 voix pour, 41 contre, le 30 octobre. Avis du gouvernement et du rapporteur : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : les alinéas 7 à 24 de l'article sont supprimés. Disparaissent le plafond de 2,5 % et 7 000 € par an (1,5 % et 5 000 € pour les meublés de tourisme), la limite d'imputation des amortissements reportés à 50 % du résultat et l'encadrement du stock antérieur à 2027. Selon LégiFiscal, seul le volet PTZ reste dans l'article. Le sort de la suppression de l'amortissement des meublés de tourisme votée en commission (CF776) est non précisé, la version de commission étant caduque."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : loueurs en meublé non professionnels, qui gardent l'amortissement actuel en l'état. Investisseurs en meublé de tourisme également, sous réserve de ce point."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel de la première partie le 3 novembre. Vote serré et mesure de rendement voulue par le gouvernement : fort risque de retour au Sénat ou en CMP."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal, 31 octobre ; LMNP Facile (scrutin n° 9359) ; Cryptoast, direct PLF 2027"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – Exit tax : délai de dégrèvement remis à 15 ans"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée) le 30 octobre, 31 voix pour, 20 contre, 35 abstentions. Amendement principal d'Éva Sas (Écologiste), identiques du PS (n° I-470), de Les Démocrates (n° I-3789) et du GDR. Rapporteur général contre ; le gouvernement ne l'a pas soutenu en l'état mais se dit prêt à des durées intermédiaires."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la plus-value latente taxée au départ ne serait dégrevée qu'après 15 ans de conservation des titres, au lieu de 2 ans (5 ans au-delà de 2,57 M€ de patrimoine concerné) depuis 2019. Date d'application non précisée."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : dirigeants et associés détenant des participations importantes qui envisagent une expatriation. Rendement estimé par le rapporteur : environ 25 M€ par an sur 2011-2016."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote du 3 novembre, puis Sénat ; le gouvernement ouvre la porte à un compromis, le délai de 15 ans peut donc bouger."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 30 octobre ; LégiFiscal, 2 novembre"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnels – Pacte Dutreil : deux amendements adoptés selon la presse"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé – adoption en séance (Assemblée) rapportée par la presse, à confirmer. N° I-3784 (Les Démocrates) et n° I-668 (RN). Avis du gouvernement, scrutin et date exacte : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : I-3784 imposerait qu'au moins un donataire ait entre 18 et 60 ans. I-668 porterait l'exonération à 100 % pour les sociétés non cotées, avec des engagements de 3 et 10 ans. La compatibilité entre les deux et la date d'application : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : dirigeants préparant une transmission familiale d'entreprise sous Dutreil."
+    },
+    {
+     "t": "li",
+     "x": "Suite : à vérifier dans le compte rendu de la 2e séance du 30 octobre ; mesures fragiles avant le Sénat."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal, 2 novembre"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes du 30 octobre : art. 10 (reprises d'entreprises) adopté modifié, détail des modifications non précisé ; art. 17 réécrit (taxe sur les rachats d'actions, n° 1387 LFI, 32-24) ; taxe sur les superdividendes (n° 3944, GDR, 27-18) et n° 1358 (Lhardit) adoptés contre l'avis du gouvernement ; art. 18 (captives de réassurance) rejeté ; amendements soumettant à l'exit tax les plus-values latentes sur crypto-actifs au-delà de 800 000 € rejetés (compte rendu de la 1re séance, Cryptoast). En 3e séance, surtout des mesures agricoles (plafond de la DEP porté à 250 000 €) et outre-mer (compte rendu de la 3e séance). Art. 6 (assurance-vie) : aucun vote trouvé dans les sources ouvertes, statut non précisé. Taxe holdings (n° I-3807) : pas de confirmation officielle nouvelle."
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : rien de nouveau ; aucune étape Sénat encore inscrite au dossier de l'Assemblée (dossier PLFSS)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : fin de la première partie du PLF ce lundi 2 novembre (9h, 15h, 21h30) ; vote solennel de la première partie le mardi 3 novembre après les questions au gouvernement (15h), puis seconde partie jusqu'au 16 novembre et vote sur l'ensemble le 17 (ordre du jour) ; PLFSS au Sénat dès le 9 novembre selon la presse."
+    }
+   ],
+   "date": "2026-11-02"
+  },
+  {
+   "titre": "vendredi 30 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : depuis le jeudi 29 octobre, 6h53. Pas de séance PLF jeudi (journée réservée au groupe LFI-NFP). Le fait marquant est relayé par la presse fiscale : un amendement élargissant la taxe sur les holdings patrimoniales aurait été adopté en séance lors de l'examen des articles additionnels après l'art. 15, mais il n'apparaît pas encore dans le compte rendu officiel disponible."
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel (après art. 15) – Taxe sur les holdings patrimoniales (art. 235 ter C CGI) : trésorerie et placements taxés à 2 %"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé – adoption en séance (Assemblée) rapportée par la presse, à confirmer. Amendement n° I-3807 de Jean-Paul Mattei (Les Démocrates) ; adopté contre l'avis du gouvernement et du rapporteur général selon Fiscalonline ; scrutin non précisé. Le compte rendu provisoire de la 1re séance du 28 octobre, coupé avant la fin, ne le mentionne pas encore."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la taxe créée par la loi de finances pour 2026 vise aujourd'hui une liste fermée de biens somptuaires, taxés à 20 %. L'amendement y ajouterait, au taux de 2 %, les dépôts bancaires, comptes à terme et livrets, les valeurs mobilières et parts d'OPCVM, les contrats de capitalisation et les créances. Exclus : participations d'au moins 5 % dans des sociétés opérationnelles ou animatrices (et créances sur elles, dont cash-pooling), titres éligibles au PEA-PME, parts de FCPR, FPCI et ELTIF, et sommes réinvesties sous 3 ans (société opérationnelle ou logement loué en résidence principale hors cercle familial). Date d'application non précisée."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : holdings patrimoniales déjà dans le champ de la taxe de 2026 qui logent de la trésorerie ou un portefeuille financier. Exemple donné par LégiFiscal : 3 M€ en comptes à terme et OPCVM, sans projet de réinvestissement, coûteraient 60 000 € par an."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel de la première partie le 3 novembre ; le gouvernement y étant opposé, la mesure peut tomber au Sénat ou en CMP. À vérifier dans le compte rendu définitif. L'amendement voisin de Philippe Brun (n° 1525, 20 % sur les réserves des holdings) : sort toujours non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal, 30 octobre ; Fiscalonline ; compte rendu de la 1re séance du 28 octobre"
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : rien de nouveau ; examen au Sénat sur le texte du gouvernement à partir du 9 novembre, vote solennel annoncé pour le 18 novembre (Agra, NosParlementaires), dates pas encore visibles sur senat.fr."
+    },
+    {
+     "t": "p",
+     "x": "À venir : première partie du PLF ce vendredi 30 octobre (séances à 9h, 15h et 21h30) et lundi 2 novembre, dont l'art. 7 (LMNP) ; pas de séance samedi et dimanche ; vote solennel de la première partie le mardi 3 novembre, puis seconde partie jusqu'au 16 novembre et vote solennel sur l'ensemble le 17 novembre (ordre du jour de la conférence des présidents)."
+    }
+   ],
+   "date": "2026-10-30"
+  },
+  {
+   "titre": "jeudi 29 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : depuis le mercredi 28 octobre, 6h53. Une seule séance budgétaire mercredi (après les questions au gouvernement, levée à minuit) : l'Assemblée a poursuivi les amendements « après l'article 15 », appelés par priorité, sur la fiscalité des entreprises. Aucune adoption patrimoniale relevée ; jeudi 29, l'ordre du jour est consacré à d'autres textes."
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel (après art. 15) – Holdings patrimoniales : surtaxe sur les bénéfices non distribués rejetée"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Rejeté / retiré – rejeté en séance (Assemblée) le 28 octobre par 43 voix contre 74 (scrutin public) ; amendement n° 1362 de Mickaël Bouloux (LFI-NFP et SOC) ; avis défavorables de la commission et du gouvernement, qui y voit un risque de contrariété avec la directive mère-fille."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : rien. L'amendement visait une surtaxe de 20 % sur les bénéfices non distribués des sociétés dont plus de 60 % des revenus sont passifs. Un amendement voisin de Philippe Brun (SOC, n° 1525 : 20 % sur les « réserves dormantes » des holdings) était en discussion à la fin du compte rendu disponible ; résultat non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : dirigeants et familles détenant leur patrimoine financier via une holding à l'IS ; statu quo à ce stade."
+    },
+    {
+     "t": "li",
+     "x": "Suite : d'autres amendements sur les holdings peuvent encore venir d'ici le 2 novembre ; le Sénat pourra reprendre le sujet."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 1re séance du 28 octobre"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes : rejet de l'IS à 35 % pour les entreprises aux forts écarts de salaires (n° 2463, 30-52) et de trois amendements sur le crédit d'impôt recherche (n° 1402 rect., 60-100 ; n° 2468, 61-104 ; n° 3949, 62-103), tous avec avis défavorable du gouvernement (même source). Statut : Rejeté (séance, Assemblée)."
+    },
+    {
+     "t": "p",
+     "x": "LMNP et apport-cession : lors des questions au gouvernement du 28 octobre, le ministre chargé des comptes publics, David Amiel, a jugé les deux régimes encore critiquables et dit vouloir les réformer en s'appuyant sur les travaux de Charles de Courson et du Sénat ; il annonce le débat LMNP pour la suite de la première partie (même source). Cela indique que l'art. 7 (LMNP) n'a pas encore été voté en séance. L'art. 6 (assurance-vie) : résultat toujours non précisé dans les sources ouvertes."
+    },
+    {
+     "t": "p",
+     "x": "À venir : pas de PLF jeudi 29 (propositions de loi, ordre du jour) ; suite de la première partie jusqu'au lundi 2 novembre, dont l'art. 7 (LMNP) ; vote solennel de la première partie le mardi 3 novembre ; PLFSS au Sénat à partir du 9 novembre selon la presse."
+    }
+   ],
+   "date": "2026-10-29"
+  },
+  {
+   "titre": "mercredi 28 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : depuis le mardi 27 octobre, 6h53. La séance publique sur la première partie du PLF a repris mardi à l'Assemblée ; les votes du jour portent surtout sur la fiscalité des grandes entreprises."
+    },
+    {
+     "t": "h",
+     "x": "Art. 15 – Surtaxe exceptionnelle sur les bénéfices des grandes entreprises : article supprimé"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé – suppression votée en séance (Assemblée) le mardi 27 octobre peu avant 20 h selon la presse, à confirmer : neuf amendements de suppression adoptés par 79 voix contre 77, contre l'avis du rapporteur général Philippe Juvin et du gouvernement."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le texte initial prolongeait d'un an la contribution en abaissant ses taux (environ 5 Md€ attendus en 2027, contre 7,5 Md€ en 2026) ; à ce stade, plus de surtaxe en 2027."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : les grands groupes soumis à l'IS ; pas d'effet direct sur les dirigeants de PME ou les particuliers."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote très serré, probablement réécrit (rejet attendu de la première partie, 49.3 ou ordonnances possibles, auquel cas le texte initial reviendrait)."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 27 octobre"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes : dans la nuit du 27 au 28, l'amendement n° I-3945 de Nicolas Sansu (GDR), qui taxe les multinationales sur la part de leurs bénéfices mondiaux réalisée en France, a été adopté par 74 voix contre 72 (scrutin n° 9142), contre l'avis du gouvernement ; deux amendements proches (n° 669 RN, n° 2617 LFI) ont été rejetés (LCP, 28 octobre). Statut : Déposé – adoption en séance rapportée par la presse, à confirmer."
+    },
+    {
+     "t": "p",
+     "x": "À vérifier : la séance ayant atteint l'art. 15, les art. 6 (assurance-vie) et 7 (LMNP) ont vraisemblablement été examinés, mais aucune source ouverte ne donne leur résultat. Un titre de L'Argus de l'assurance indique que les députés ont « confirmé » les trois critères de l'art. 6 pour les contrats étrangers (page inaccessible, date non précisée). Le dossier législatif signale des séances le 27 octobre et le PLFSS transmis au Sénat, sans détail des votes (dossier PLF)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : suite de la première partie du PLF à l'Assemblée jusqu'au lundi 2 novembre (jeudi 29 réservé à d'autres textes selon la presse) ; vote solennel le mardi 3 novembre après-midi (Assemblée nationale) ; PLFSS au Sénat à partir du 9 novembre selon la presse."
+    }
+   ],
+   "date": "2026-10-28"
+  },
+  {
+   "titre": "mardi 27 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du lundi 26 octobre 6h53 au mardi 27 octobre 6h53."
+    },
+    {
+     "t": "p",
+     "x": "Rien de significatif. Aucune séance sur le PLF ni sur le PLFSS lundi : le dossier PLF de l'Assemblée n'affiche aucun vote nouveau, et le dossier PLFSS s'arrête toujours au rejet du 23 octobre (T.A. n° 358), sans étape Sénat publiée (dossier PLF, dossier PLFSS). La presse spécialisée consultée ne rapporte aucun nouveau vote ni annonce gouvernementale sur la période (Cryptoast, suivi en direct)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : reprise ce mardi 27 octobre de la première partie du PLF en séance à l'Assemblée, jusqu'au lundi 2 novembre, avec plus de 2 600 amendements restants, dont l'art. 6 (assurance-vie) et l'art. 7 (LMNP) ; vote solennel de la première partie le mardi 3 novembre après-midi (Assemblée nationale, Gestion de Fortune). PLFSS au Sénat à partir du 9 novembre selon la presse."
+    }
+   ],
+   "date": "2026-10-27"
+  },
+  {
+   "titre": "lundi 26 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du vendredi 23 octobre 6h53 au lundi 26 octobre 6h53, week-end inclus. Fait majeur : l'Assemblée a rejeté le PLFSS en première lecture vendredi ; le Sénat repartira du texte du gouvernement. Aucune séance sur le PLF pendant la période."
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Ensemble du texte : rejeté en première lecture à l'Assemblée"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Rejeté (séance, Assemblée) le vendredi 23 octobre – texte n° 358 « Texte rejeté » au dossier officiel. Les députés ont repoussé la partie recettes par 115 voix contre 1 ; le bloc central (EPR, Démocrates, Horizons) s'est abstenu, la gauche, le RN et la quasi-totalité de LR ont voté contre. Le gouvernement défendait son texte : le ministre du Budget David Amiel a chiffré à 24 Md€ le déficit de la Sécu issu des amendements votés, contre 12,7 Md€ visés."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : sans recettes adoptées, la partie dépenses n'a pas été examinée et l'ensemble du texte tombe. Le Sénat est saisi de la version initiale du gouvernement : tous les amendements votés en séance disparaissent, notamment le congé de fin de carrière dès 62 ans (n° 2748), l'exonération pour l'aide à domicile dès 70 ans, la suppression de la C3S obtenue par le RN (selon la presse), la pérennisation de l'exonération de la PPVE (n° 3152) et la suppression de la CSG-CRDS sur les revenus des apprentis (n° 1767). Reviennent donc au Sénat telles quelles les mesures initiales : CSG sur les IJ de 6,2 % à 9,2 %, gel différencié des retraites de base, intégration des primes (PPV, intéressement, participation) au calcul des allègements généraux ; prélèvements sociaux sur les revenus du capital toujours inchangés."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : retraités (gel des pensions), salariés en arrêt (CSG sur les IJ), dirigeants de PME (allègements, PPV/PPVE, C3S). Pour les clients, aucune des mesures votées à l'Assemblée n'est acquise ; seul le texte initial sert de base."
+    },
+    {
+     "t": "li",
+     "x": "Suite : examen au Sénat à partir du lundi 9 novembre, articles jusqu'au 17, vote solennel le mercredi 18 novembre selon la presse (date non encore confirmée sur senat.fr) ; fin du délai de 50 jours le 26 novembre, puis CMP. Le gouvernement peut recourir au 49.3 ou, après les délais constitutionnels, à une ordonnance. Risque très élevé que le texte final s'écarte encore de la version initiale."
+    },
+    {
+     "t": "li",
+     "x": "Source : Assemblée nationale – dossier PLFSS 2027, LCP, 23 octobre, Investir Mag, LegiWatch, L'Officiel du thermalisme"
+    },
+    {
+     "t": "p",
+     "x": "PLF : aucun vote pendant la période. Les articles 6 (assurance-vie) et 7 (LMNP) restent sans résultat connu ; la première partie reprend mardi 27 octobre (dossier PLF)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : reprise de la première partie du PLF du 27 octobre au 2 novembre (art. 6 et suivants), vote solennel le 3 novembre ; PLFSS au Sénat à partir du 9 novembre ; décision éventuelle du gouvernement sur un 49.3."
+    }
+   ],
+   "date": "2026-10-26"
+  },
+  {
+   "titre": "vendredi 23 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du jeudi 22 octobre 6h53 au vendredi 23 octobre 6h53. Troisième jour de séance sur le PLFSS, marqué par un vote symbolique sur les fins de carrière ; l'Assemblée confirme la date du 3 novembre pour le vote de la première partie du PLF."
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Art. additionnel – Fin de carrière à 62 ans : congé jusqu'à l'âge légal voté"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé – vote en séance (Assemblée) le 22 octobre rapporté par LCP, à confirmer sur le site de l'Assemblée (la fiche de l'amendement n'affiche pas encore son sort). Amendement n° 2748 du groupe Écologiste et social, défendu par Sandrine Rousseau, adopté par 45 voix contre 36. Le ministre du Travail Jean-Pierre Farandou s'y est opposé ; le rapporteur général Thibault Bazin l'a jugé symbolique et inopérant."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : un salarié ayant 168 trimestres (42 ans de cotisation) pourrait cesser son activité dès 62 ans, via un congé courant jusqu'à l'âge légal de départ. Ce congé serait payé par l'employeur, qui serait compensé à l'euro près par des exonérations de cotisations sociales. Âge légal inchangé ; date d'application et modalités non précisées. Mesure absente du texte initial."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : salariés ayant commencé à travailler tôt et leurs employeurs, dont les dirigeants de PME clients. Aucun chiffrage du coût ni du nombre de bénéficiaires n'est publié."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel du PLFSS le 27 octobre, puis Sénat. Risque très élevé que la mesure disparaisse : selon LCP, elle ne serait pas conservée en cas de 49.3 ou d'ordonnance, et l'adoption du texte sans majorité reste improbable."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 22 octobre"
+    },
+    {
+     "t": "h",
+     "x": "PLF – Calendrier : vote de la première partie fixé au 3 novembre"
+    },
+    {
+     "t": "li",
+     "x": "Statut : calendrier officiel publié par l'Assemblée (date jusqu'ici seulement rapportée par la presse)."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la première partie reprend du mardi 27 octobre au lundi 2 novembre, puis vote solennel le mardi 3 novembre après-midi. La conférence des présidents limite les prises de parole à un orateur pour et un contre par amendement. Si la première partie est rejetée, le texte du gouvernement part au Sénat sans examen de la seconde partie ; sinon, l'Assemblée a jusqu'au 17 novembre pour les dépenses."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : toutes les mesures fiscales votées en séance depuis le 13 octobre (art. 2 à 7 et articles additionnels) restent suspendues à ce vote."
+    },
+    {
+     "t": "li",
+     "x": "Suite : environ 2 600 amendements restent à examiner sur 43 articles selon NosParlementaires ; recours au 49.3 toujours possible."
+    },
+    {
+     "t": "li",
+     "x": "Source : Assemblée nationale – examen de la première partie, Journal du Net, 21 octobre, NosParlementaires"
+    },
+    {
+     "t": "p",
+     "x": "Autres points PLFSS : aucun vote en séance rapporté sur le gel des pensions (art. 35), la CSG sur les IJ, les allègements liés aux primes et à l'épargne salariale (art. 7) ou les prélèvements sociaux. Le dossier de l'Assemblée compte désormais 3 065 amendements de séance, et les comptes rendus des 21 et 22 octobre n'y sont pas encore en ligne (dossier PLFSS 2027)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : fin des articles du PLFSS jusqu'au 26 octobre (dont le gel des pensions et l'article 7) ; vote solennel du PLFSS le 27 octobre ; reprise de la première partie du PLF du 27 octobre au 2 novembre, vote solennel le 3 novembre."
+    }
+   ],
+   "date": "2026-10-23"
+  },
+  {
+   "titre": "jeudi 22 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du mercredi 21 octobre 6h53 au jeudi 22 octobre 6h53. Deuxième jour de séance sur le PLFSS : les députés ont commencé à voter des exonérations de cotisations contre l'avis du gouvernement ; rien de nouveau sur le PLF."
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Art. additionnel – Aide à domicile des 70-79 ans : exonération patronale rétablie"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé – vote en séance (Assemblée) le 21 octobre rapporté par la presse, à confirmer sur le site de l'Assemblée. Amendement défendu par Christine Le Nabour (déjà présenté puis retiré en commission le 13 octobre) ; numéro et décompte non précisés ; adopté contre l'avis du gouvernement, le ministre du Travail Jean-Pierre Farandou s'y étant opposé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : retour de l'exonération de cotisations patronales pour les particuliers de 70 à 79 ans qui emploient une aide à domicile. Un décret d'avril 2026 l'avait réservée aux 80 ans et plus pour les périodes d'emploi depuis juillet 2026 (les bénéficiaires de l'APA, de la PCH ou d'une carte d'invalidité gardent l'exonération à tout âge). Coût annoncé en séance : environ 100 M€. Date d'application non précisée. Mesure absente du texte initial."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : environ 350 000 particuliers employeurs selon les chiffres cités dans l'hémicycle. Pour un client de 75 ans, cela réduit le coût de l'heure d'aide à domicile, dont la hausse depuis juillet est estimée à environ 15 % par le secteur (avant crédit d'impôt de 50 %)."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel du PLFSS le 27 octobre, puis Sénat. Risque élevé que la mesure saute : le gouvernement la juge contraire à l'objectif de déficit, et l'adoption du PLFSS dans l'hémicycle reste incertaine (49.3 ou ordonnance évoqués)."
+    },
+    {
+     "t": "li",
+     "x": "Source : Kohen avocats, 22 octobre, Titres Presse (BFM), 21 octobre, Bourse Inside sur le décret, avril 2026"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes PLFSS : la presse rapporte aussi le vote d'exonérations en faveur des apprentis, détail non précisé (Titres Presse). Hors périmètre : interdiction de l'hexane dans l'alimentation avec contribution de 10 % du CA, adoptée 60-56 (LCP). Aucun vote rapporté sur la CSG des IJ, les pensions, les indemnités de rupture ou l'épargne salariale. Le dossier de l'Assemblée compte 3 051 amendements de séance (dossier PLFSS 2027)."
+    },
+    {
+     "t": "p",
+     "x": "PLF : première partie toujours suspendue ; aucune date officielle pour son vote solennel. Une synthèse LégiFiscal du 21 octobre récapitule les amendements de la première semaine, dont certains non suivis ici (exonération de plus-value sur l'ancienne résidence principale vendue dans les 36 mois, sortie de l'IFI des logements loués sous plafonds Pinel, dons familiaux pour le logement prolongés à 2030) ; leur adoption n'y est pas confirmée, à vérifier (LégiFiscal)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : suite de la discussion des articles du PLFSS jusqu'au 26 octobre (dépenses, dont le gel des pensions et la CSG sur les IJ) ; vote solennel du PLFSS le 27 octobre ; reprise de la première partie du PLF ensuite."
+    }
+   ],
+   "date": "2026-10-22"
+  },
+  {
+   "titre": "mercredi 21 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du mardi 20 octobre 6h53 au mercredi 21 octobre 6h53. Journée centrée sur l'ouverture du PLFSS en séance ; aucun vote d'article patrimonial confirmé."
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Motion de rejet préalable de LFI : repoussée, l'examen des articles commence"
+    },
+    {
+     "t": "li",
+     "x": "Statut : motion rejetée en séance (Assemblée) le 20 octobre au soir, 259 voix contre 128. Seule la gauche l'a soutenue ; le RN a choisi de débattre du texte pour l'amender."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la discussion des articles s'ouvre sur le texte initial du gouvernement, puisque la commission avait rejeté le PLFSS le 16 octobre. Environ 3 030 amendements sont déposés en séance selon le dossier de l'Assemblée et la presse. Aucun vote d'article n'est rapporté à ce stade."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : les mesures sensibles pour la clientèle d'un CGP reviennent toutes dans le débat : CSG sur les IJ portée à 9,2 %, gel partiel des pensions (art. 35, revalorisation pleine seulement jusqu'à 1 260 € brut mensuels toutes pensions confondues selon la presse), majoration pour trois enfants forfaitisée (art. 34), exonération sociale des indemnités de rupture plafonnée à 1 PASS pour les départs 2027 (art. 6, selon la presse), épargne salariale intégrée au calcul des allègements (art. 7)."
+    },
+    {
+     "t": "li",
+     "x": "Suite : discussion des articles jusqu'au 26 octobre, vote solennel le 27 octobre. La presse juge une adoption dans l'hémicycle très improbable ; 49.3 et ordonnances restent évoqués."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 20 octobre, dossier PLFSS 2027, Causeur, 20 octobre, Boursorama (AFP), 21 octobre"
+    },
+    {
+     "t": "p",
+     "x": "PLF : première partie toujours suspendue, aucun vote nouveau. Le dossier législatif n'affiche toujours pas de date pour le vote solennel de la première partie ; le 27 octobre reste une date de presse non confirmée (dossier PLF 2027)."
+    },
+    {
+     "t": "p",
+     "x": "À vérifier : le décompte des 20 jours du PLFSS. Une source de presse note qu'un départ au 8 octobre mènerait au 28 octobre et non au 27 (NosParlementaires) ; le vote reste annoncé le 27."
+    },
+    {
+     "t": "p",
+     "x": "À venir : discussion des articles du PLFSS jusqu'au 26 octobre (recettes d'abord : art. 6 indemnités de rupture, art. 7 allègements et épargne salariale) ; vote solennel du PLFSS le 27 octobre ; reprise de la première partie du PLF ensuite."
+    }
+   ],
+   "date": "2026-10-21"
+  },
+  {
+   "titre": "mardi 20 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du lundi 19 octobre 6h53 au mardi 20 octobre 6h53."
+    },
+    {
+     "t": "h",
+     "x": "PLF – Première partie : vote solennel du 20 octobre reporté"
+    },
+    {
+     "t": "li",
+     "x": "Statut : séance publique en cours (Assemblée), première partie non achevée. Le vote solennel prévu ce mardi 20 octobre ne peut pas avoir lieu, faute d'avoir terminé l'examen des articles. Décision présentée par la presse comme imposée par les délais constitutionnels ; aucune annonce officielle consultée."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : selon LCP, 2 828 amendements sur 3 396 déposés restaient à examiner. L'examen de la première partie reprendra après le PLFSS. Une source de presse avance un vote solennel le 27 octobre ; date non confirmée officiellement."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : toutes les mesures déjà votées en séance (art. 2, 4, 5, articles additionnels IR-PME, PEA-PME, plus-values des résidences secondaires, PPV, IFI et baux ruraux…) restent suspendues au vote sur l'ensemble de la première partie. Un rejet de cette partie ferait tomber tout le texte voté."
+    },
+    {
+     "t": "li",
+     "x": "Suite : reprise de l'examen à partir de l'article 6 (assurance-vie), puis art. 7 (LMNP) et suivants. Le délai de 40 jours de l'Assemblée court jusqu'au 17 novembre."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 19 octobre, Renseignement Économique, NosParlementaires"
+    },
+    {
+     "t": "p",
+     "x": "Séance du lundi 19 octobre : débat sur les finances locales à partir de 15 h, puis suite de la première partie à partir de l'article 6. Aucun résultat de vote (art. 6 assurance-vie, art. 7 LMNP) trouvé dans une source consultée ; compte rendu officiel pas encore accessible. Statut de ces articles : non précisé, texte initial jusqu'à nouvel ordre."
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : ouverture de la séance publique à l'Assemblée ce mardi 20 octobre, sur le texte initial du gouvernement (rejeté en commission le 16 octobre). Articles les plus visés selon la presse : art. 35 (gel partiel des pensions), art. 12 (contribution des complémentaires santé), art. 7 (épargne salariale dans le calcul des allègements). Vote solennel prévu le 27 octobre, dernier jour du délai de 20 jours. Le gouvernement n'exclut ni le 49.3 ni les ordonnances selon la presse (L'Échiquier social, NosParlementaires)."
+    },
+    {
+     "t": "p",
+     "x": "À vérifier : Cryptoast signale l'adoption de l'amendement n° 3089 (Juvin, DR) sur l'art. 5 apport-cession, par 36 voix contre 25 : la plus-value en report ne serait plus effacée en cas de donation. Date de vote et articulation avec la version du rapporteur général (25-23) non précisées (Cryptoast)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : PLFSS en séance à l'Assemblée du 20 au 26 octobre, vote solennel le 27 octobre ; reprise de la première partie du PLF après le PLFSS (art. 6 et suivants), vote solennel reporté, 27 octobre selon la presse ; vote sur l'ensemble du PLF le 17 novembre."
+    }
+   ],
+   "date": "2026-10-20"
+  },
+  {
+   "titre": "lundi 19 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : depuis vendredi 16 octobre 6h53, week-end inclus. Vendredi, trois séances ont fait passer les articles 4 et 5 et une longue série d'articles additionnels sur l'épargne, l'immobilier et les dirigeants. Les comptes rendus officiels du 16 octobre confirment plusieurs adoptions ; les votes sur les articles 4 et 5 eux-mêmes ne figurent que dans la presse à ce stade. Aucune séance du week-end n'apparaît dans les sources consultées."
+    },
+    {
+     "t": "h",
+     "x": "Art. 4 – Dons familiaux de sommes d'argent : plafond porté à 100 000 € et période étendue à toute l'année 2027"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé – vote de séance AN rapporté par la presse, à confirmer (article adopté vendredi 16 octobre par 66 voix contre 25 selon la presse). Plafond relevé par un amendement UDR défendu par Éric Michoux ; extension à l'année entière par des amendements identiques UDR, LR (Philippe Juvin) et MoDem (Jean-Paul Mattei). Avis du gouvernement sur ces amendements : non précisé. Les amendements de suppression de la gauche (n° 456, 463, 3421, 3900) avaient reçu un avis défavorable de la commission et du gouvernement."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : exonération temporaire portée de 50 000 € (texte initial) à 100 000 € ; fenêtre du 1er janvier au 31 décembre 2027 au lieu du 30 juin ; donateur de moins de 80 ans ; bénéficiaire majeur ou émancipé (enfant, petit-enfant, arrière-petit-enfant, à défaut neveu ou nièce) ; déclaration en ligne obligatoire. Sort du taux de 6 % prévu au texte initial : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : parents et grands-parents souhaitant transmettre des liquidités en 2027. Selon la presse, un enfant pourrait recevoir 200 000 € sans droits sur 15 ans en cumulant ce don et l'abattement de droit commun de 100 000 €. Les dons en crypto-actifs ne sont pas visés."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel de la première partie le 20 octobre, puis Sénat ; le plafond et la durée pourront être revus, le coût de la mesure n'étant pas chiffré par le gouvernement."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, MoneyVox, compte rendu de la 1re séance du 16 octobre"
+    },
+    {
+     "t": "h",
+     "x": "Art. 5 – Apport-cession (150-0 B ter) : version recentrée du rapporteur général votée"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé – vote de séance AN rapporté par la presse, à confirmer (vendredi 16 octobre peu avant minuit, 25 voix contre 23 selon la presse). Réécriture issue de l'amendement du rapporteur général Philippe Juvin adopté en commission le 8 octobre. Avis du gouvernement : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la purge de la plus-value en report au décès est maintenue (successions exclues, contrairement au texte initial) ; seules les donations sont visées, et seulement si la holding cède les titres apportés dans les huit ans ; paiement étalable sur dix ans (cinq au texte initial). Selon la presse, application aux donations réalisées depuis le 1er octobre 2026."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : dirigeants ayant apporté leurs titres à une holding avant cession et préparant une donation des titres de la holding."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel le 20 octobre, puis Sénat ; vote très serré, rédaction encore susceptible d'évoluer."
+    },
+    {
+     "t": "li",
+     "x": "Source : Agentlink, Club Patrimoine"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – PEA-PME : plafond relevé à 300 000 €"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée), vendredi 16 octobre, 41 voix contre 34 (amendement n° 1398, Paul Midy, EPR), contre l'avis de la commission et du gouvernement."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : plafond de versement du PEA-PME porté de 225 000 € à 300 000 €. Date d'application : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : épargnants ayant saturé leur PEA-PME. Les amendements visant à supprimer le plafond du PEA classique (n° 336, 337) ont été rejetés."
+    },
+    {
+     "t": "li",
+     "x": "Suite : adoption obtenue contre le gouvernement, donc exposée en navette ou à un éventuel 49.3."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 3e séance du 16 octobre"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – Plus-values sur résidences secondaires : exonération après 17 ans au lieu de 22"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée), vendredi 16 octobre (amendement n° 3484, Daniel Labaronne), commission favorable, gouvernement défavorable."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : délai d'exonération de la plus-value ramené de 22 à 17 ans pour les résidences secondaires, sous une condition d'habitation dont le détail n'est pas précisé. Effet sur les prélèvements sociaux et date d'application : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : propriétaires de résidences secondaires détenues entre 17 et 22 ans."
+    },
+    {
+     "t": "li",
+     "x": "Suite : mesure votée contre l'avis du gouvernement, à surveiller au Sénat. Également adoptés : prorogation de deux ans de l'abattement sur les terrains à bâtir en zone tendue (n° 1144) et de l'exonération sur les droits à surélévation jusqu'en 2029 (n° 2275), avec avis favorable du gouvernement."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 2e séance du 16 octobre"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – Crypto-actifs : fin du sursis d'imposition sur les conversions en stablecoins"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée), vendredi 16 octobre, 38 voix contre 37 (amendement n° 3898, Nicolas Sansu, GDR), commission favorable, gouvernement demandant le retrait."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la conversion d'un crypto-actif en stablecoin deviendrait un fait générateur d'imposition de la plus-value. Date d'application : non précisé. L'alignement sur le régime des titres avec report des moins-values sur 10 ans (n° 3653, Paul Midy) a été rejeté, 18 voix contre 75."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : détenteurs de crypto-actifs qui arbitrent vers des stablecoins."
+    },
+    {
+     "t": "li",
+     "x": "Suite : majorité d'une voix ; fort risque de modification au Sénat."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 2e séance du 16 octobre, Cryptoast"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnels – Salariés et dirigeants : PPV, BSPCE, apport d'entreprise individuelle, RTT, heures supplémentaires"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adoptés en séance (Assemblée), vendredi 16 octobre."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change :"
+    },
+    {
+     "t": "li",
+     "x": "Concernés : dirigeants de TPE-PME et de start-up, entrepreneurs individuels passant en société, salariés."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel le 20 octobre ; plusieurs votes à une voix, donc fragiles. Le volet BSPCE (ancienneté portée à 20 ans) et la suppression du régime des management packages ont été rejetés."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 1re séance du 16 octobre, compte rendu de la 2e séance du 16 octobre"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – IR-PME à 25 % : vote désormais confirmé officiellement"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée), jeudi 15 octobre, 83 voix contre 32 (amendements n° 3864 et 3868). Un amendement sur l'IR-PME des entreprises solidaires (ESUS, n° 2530) a aussi été adopté."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : réduction d'impôt portée de 18 % à 25 %, sous réserve d'accord de la Commission européenne ; date d'application non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : investisseurs au capital de PME, souscripteurs de FCPI et FIP selon les modalités finales."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel le 20 octobre, puis Sénat."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 2e séance du 15 octobre"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – IFI : exonération des biens loués par bail rural hors cercle familial"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en séance (Assemblée), vendredi 16 octobre (amendement n° 1221, Jean-René Cazeneuve), contre l'avis de la commission et du gouvernement."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : exonération d'IFI pour les biens donnés à bail agricole à un preneur sans lien familial ; seuils et date d'application non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : redevables de l'IFI détenant des terres agricoles louées."
+    },
+    {
+     "t": "li",
+     "x": "Suite : à surveiller au Sénat."
+    },
+    {
+     "t": "li",
+     "x": "Source : compte rendu de la 3e séance du 16 octobre"
+    },
+    {
+     "t": "p",
+     "x": "Rejetés en séance (Assemblée), vendredi 16 octobre : Livret A à 30 000 € (32 voix contre 51) ; rétablissement de l'ISF (30 contre 53) ; abrogation du PFU (29 contre 55) et hausse de son taux ; plus-values mobilières au barème ; assurance-vie réintégrée à l'actif successoral ; tranche de 45 % sur les transmissions d'assurance-vie au-delà de 1,8 M€ (28 contre 33) ; fiscalisation des PER au décès ; surtaxe des plus-values immobilières au-delà de 500 000 € ; contribution IFI sur les passoires F et G ; exonération d'IFI des logements loués à l'année en zone tendue (3e séance, 2e séance). Jeudi 15 : taxation des revenus logés dans les holdings rejetée, 24 voix contre 65 (2e séance du 15 octobre)."
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : la commission des affaires sociales a rejeté l'ensemble du texte vendredi 16 octobre, après avoir notamment supprimé l'article sur la sous-indexation des pensions ; chiffres du vote non précisé. La séance s'ouvre le 20 octobre sur le texte du gouvernement (Assemblée nationale, LCP)."
+    },
+    {
+     "t": "p",
+     "x": "Non vérifié : les votes de jeudi sur l'art. 3 (abattement des pensions) et la fiscalisation des IJ (art. 2) n'apparaissent pas dans les extraits de comptes rendus consultés ; ils restent « à confirmer ». Le compte rendu du 15 octobre confirme en revanche l'adoption de l'art. 2 amendé (96 voix contre 0) et de l'amendement n° 988 réservant le nouveau régime des indemnités de rupture aux sommes versées à compter du 1er janvier 2027 (1re séance du 15 octobre). Les articles 6 (assurance-vie) et 7 (LMNP) n'ont pas encore été votés selon les sources consultées."
+    },
+    {
+     "t": "p",
+     "x": "À venir : fin de la première partie du PLF en séance aujourd'hui 19 octobre (art. 6, art. 7 et suivants) ; vote solennel de la première partie mardi 20 octobre, puis ouverture de la séance sur le PLFSS le même jour, jusqu'au 26 octobre ; vote solennel du PLFSS le 27 octobre."
+    }
+   ],
+   "date": "2026-10-19"
+  },
+  {
+   "titre": "vendredi 16 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : depuis jeudi 15 octobre 6h53 (plus la fin de séance de la nuit du 14 au 15, signalée « à vérifier » hier). Premiers votes d'articles en séance sur la première partie du PLF : la presse rapporte la suppression de l'art. 3 et des IJ fiscalisées (art. 2), et plusieurs articles additionnels patrimoniaux. Le site de l'Assemblée ne publie pas encore le sort des amendements ni les scrutins : par règle, ces votes restent au statut « Déposé » tant qu'ils ne sont pas confirmés officiellement."
+    },
+    {
+     "t": "h",
+     "x": "Art. 3 – Abattement de 10 % sur les pensions : plafonnement à 3 000 € supprimé en séance (selon la presse)"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (Assemblée). Suppression de l'article votée en séance jeudi matin selon trois sources de presse concordantes, par scrutin public 116 pour, 30 contre, 2 abstentions ; non encore confirmée sur le site de l'Assemblée. Sept amendements identiques de suppression (LR/DR, UDR, RN, LFI, GDR), dont I-1, I-219, I-317 et I-633. Avis du gouvernement et du rapporteur général : non précisés (Guillaume Kasbarian, EPR, a défendu le plafond)."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : l'abattement de 10 % garde son plafond actuel de 4 439 € par foyer ; l'économie attendue de 1,4 Md€ disparaît du texte de l'Assemblée."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : retraités imposables aux pensions élevées ; selon un cabinet d'avocats, seuls les foyers au-delà d'environ 30 000 € de pensions par an auraient été touchés, avec au plus 1 439 € de base imposable en plus."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel de la première partie le 20 octobre, puis Sénat ; un 49.3 permettrait au gouvernement de rétablir son texte. Risque de retour élevé."
+    },
+    {
+     "t": "li",
+     "x": "Source : Cryptoast, direct du 15 octobre, LégiFiscal, Kohen avocats"
+    },
+    {
+     "t": "h",
+     "x": "Art. 2 – Indemnités journalières : fiscalisation des IJ ALD et AT-MP supprimée en séance (selon la presse)"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (Assemblée). Amendements identiques I-502 (PS), I-3712 (écologistes) et I-3910 (GDR) votés en séance dans la nuit du 14 au 15 octobre, 109 voix contre 37, contre l'avis du ministre David Amiel. Cela lève le doute signalé hier : il s'agit bien d'un vote de séance, mais sans confirmation officielle à ce stade."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : les IJ des ALD resteraient exonérées (le texte initial les imposait à 50 %) et l'exonération partielle des IJ AT-MP serait maintenue. Le barème (+2,1 %) n'est pas touché. Sur les indemnités de rupture, cinq amendements identiques ont été rejetés (52 voix contre 9) : le plafond unique de 1 PASS (48 060 €) reste ; LégiFiscal cite aussi I-1300 (LR) et I-1591 (EPR) excluant les indemnités de licenciement de ce plafond, sort non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : salariés en arrêt longue maladie ou accident du travail ; en compensation, le ministre a annoncé un décret relevant de 300 M€ les cotisations employeurs AT-MP."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel du 20 octobre ; mesure que le gouvernement pourrait réintroduire au Sénat ou par 49.3."
+    },
+    {
+     "t": "li",
+     "x": "Source : Cryptoast, direct, LégiFiscal, NosParlementaires"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – IR-PME : réduction d'impôt portée de 18 % à 25 % (selon la presse)"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (Assemblée). Amendements I-3864 et I-3868 votés en séance jeudi après-midi selon la presse ; auteurs et avis du gouvernement non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le taux de la réduction Madelin (art. 199 terdecies-0 A du CGI) remonterait à 25 %, sous réserve de l'accord de la Commission européenne ; date d'application exacte non précisée (versements à compter du 1er janvier au plus tôt). Absente du texte initial. Deux autres amendements ont été rejetés : 30 % pour les jeunes PME industrielles (I-227, Ciotti) et 30 % pour les PME blockchain (retiré)."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : clients investisseurs en direct, FCPI et FIP ; par exemple, 10 000 € versés donneraient 2 500 € de réduction au lieu de 1 800 €, dans les plafonds habituels."
+    },
+    {
+     "t": "li",
+     "x": "Suite : dépend du vote solennel, du Sénat et de l'accord européen ; mesure souvent votée puis conditionnée."
+    },
+    {
+     "t": "li",
+     "x": "Source : Fiscalonline, LégiFiscal, Cryptoast"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnel – Heures supplémentaires : plafond d'exonération d'IR doublé à 15 000 € (selon la presse)"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (Assemblée). Amendement I-2211 voté en séance jeudi selon la presse ; auteur et avis non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le plafond annuel d'heures supplémentaires exonérées d'IR (art. 81 quater du CGI) passerait de 7 500 € à 15 000 € à compter de 2027. En commission, c'était une suppression totale du plafond, devenue caduque."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : salariés faisant beaucoup d'heures supplémentaires, et dirigeants qui les rémunèrent."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel du 20 octobre, puis Sénat."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal, Fiscalonline"
+    },
+    {
+     "t": "h",
+     "x": "Art. additionnels – Divorce et famille : pensions alimentaires et prestations compensatoires défiscalisées (selon la presse)"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (Assemblée). Votés en séance jeudi selon la presse : I-3648 (EPR) pour les pensions alimentaires, I-1053 (LFI) et I-3651 (EPR) pour les prestations compensatoires. Avis du gouvernement non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : la pension alimentaire serait exonérée d'IR dès les revenus 2026 ; la prestation compensatoire versée sur plus de 12 mois ne serait plus imposable pour celui qui la reçoit. Effet sur la déduction côté payeur : non précisé. Autres votes rapportés : réduction EHPAD de 25 % transformée en crédit d'impôt pour 2027 et 2028 ; crédit emploi à domicile porté à 80 % pour les familles monoparentales (I-1524)."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : clients en cours de divorce ou de séparation (arbitrage capital / rente) et familles finançant un EHPAD."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote solennel du 20 octobre ; coût non chiffré, donc exposé à un 49.3 sélectif."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal, Fiscalonline"
+    },
+    {
+     "t": "p",
+     "x": "Rejetés en séance jeudi (Assemblée) : imposition des revenus logés dans les holdings (amendement LFI 2627, 65 voix contre 24, avis défavorable du rapporteur général Philippe Juvin) ; plafonnement global des réductions et crédits d'impôt à 10 000 € (I-1602) ; réduction de 66 % pour les dons d'actions aux salariés (I-1600). Autres votes : prime carburant exonérée jusqu'à 1 000 € prolongée en 2027 (46 voix contre 2) ; barèmes IR à 11 et 14 tranches rejetés ; article liminaire (déficit à 5 %) supprimé. (Cryptoast, LégiFiscal)"
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : aucun vote de commission rapporté pour jeudi ; fin de l'examen en commission des affaires sociales aujourd'hui, séance publique le 20 octobre (dossier PLFSS, NosParlementaires)."
+    },
+    {
+     "t": "p",
+     "x": "Non vérifié : la fiche officielle des amendements I-3864 n'a pas pu être lue (site de l'Assemblée limité en nombre de requêtes) ; la fiche I-1 ne publie pas encore son sort."
+    },
+    {
+     "t": "p",
+     "x": "À venir : suite de la première partie en séance jusqu'au 19 octobre (art. 5 apport-cession, art. 6 assurance-vie, art. 7 LMNP encore à voter) ; fin du PLFSS en commission le 16 octobre (art. 35, gel des pensions) ; vote solennel de la première partie et ouverture du PLFSS en séance le 20 octobre."
+    }
+   ],
+   "date": "2026-10-16"
+  },
+  {
+   "titre": "jeudi 15 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : du mercredi 14 octobre 6h53 au jeudi 15 octobre 6h53. En séance, le PLF n'a encore touché aucun article patrimonial ; la journée se joue en commission des affaires sociales sur le PLFSS."
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Primes et allègements de charges : intégration de l'intéressement et de la participation supprimée en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Rejeté / retiré en commission (Assemblée, commission des affaires sociales, mercredi 14 octobre). Amendement de suppression AS354 de la Droite républicaine (Justine Gruet), soutenu par EPR (Annie Vidal). Avis du rapporteur et du gouvernement : non précisés. Décompte des voix : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le texte de la commission ne prend plus en compte l'intéressement, la participation et la PPV dans le calcul des allègements généraux de cotisations patronales. Le gouvernement en attendait 3,7 Md€. Numéro d'article : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : entreprises (et leurs dirigeants) qui versent de l'épargne salariale ou une PPV ; la mesure initiale aurait réduit leurs allègements, donc renchéri ces dispositifs."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote non définitif ; la séance repart du texte initial le 20 octobre, la mesure peut donc revenir. Sujet à suivre pour le conseil aux dirigeants sur l'épargne salariale."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 14 octobre"
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Art. additionnel CSG progressive : amendement socialiste rejeté en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Rejeté / retiré en commission (Assemblée, commission des affaires sociales, vote du 13 octobre au soir rendu public le 14). Amendement AS311 du PS (Sandrine Runel) ; avis défavorable du rapporteur général Thibault Bazin, faute d'étude d'impact. Avis du gouvernement : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : rien, le texte reste inchangé. L'amendement proposait une CSG réduite jusqu'à 2 700 € nets par mois et un taux de 10,2 % au-delà de 4 167 € nets, financée par une contribution sur les héritages de plus de 500 000 €."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : aucun à ce stade ; à surveiller pour les gros patrimoines transmis si l'idée d'une contribution sur les héritages revient en séance du PLF."
+    },
+    {
+     "t": "li",
+     "x": "Suite : redépôt possible en séance à partir du 20 octobre."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, 14 octobre"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes : en séance, le prélèvement sur recettes au profit de l'UE (30,9 Md€) a été approuvé mercredi soir, les amendements LFI et RN de réduction étant rejetés (Titres Presse). Aucun scrutin public le 14 octobre (NosParlementaires). Le ministre David Amiel a indiqué dans l'hémicycle que la hausse de la CSG sur les revenus du capital et la contribution différentielle sur les hauts revenus sont reconduites en 2027 (Cryptoast, direct). Le dossier législatif compte désormais 3 912 amendements de séance sur la première partie (dossier PLF)."
+    },
+    {
+     "t": "p",
+     "x": "À vérifier : un site annonce l'adoption « en séance » de la suppression de la fiscalisation des IJ (art. 2), sans date de vote (Fiscalonline). Aucune source officielle ne le confirme (pas de scrutin, pas de texte adopté) ; il s'agit probablement du vote de commission du 7 octobre. Statut de l'art. 2 inchangé."
+    },
+    {
+     "t": "p",
+     "x": "À venir : trois séances aujourd'hui (9h, 15h, 21h30) sur la suite de la première partie du PLF (ordre du jour) ; fin de la commission des affaires sociales sur le PLFSS le 16 octobre, dont l'article 35 (gel des pensions) ; vote solennel de la première partie du PLF le 20 octobre."
+    }
+   ],
+   "date": "2026-10-15"
+  },
+  {
+   "titre": "mercredi 14 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : depuis mardi 13 octobre 6h53. Aucune mesure patrimoniale n'a été votée : la motion de rejet du PS a été repoussée mardi soir et l'examen de la première partie du PLF en séance a commencé sur le texte du gouvernement. Aucun vote d'article de séance n'est encore rapporté."
+    },
+    {
+     "t": "h",
+     "x": "PLF – Motion de rejet préalable du PS : rejetée, l'examen en séance se poursuit"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Rejeté / retiré (Assemblée, séance du 13 octobre au soir). Motion défendue par Estelle Mercier (PS) ; rejetée par 236 voix contre 149. La gauche a voté pour ; le bloc central et le RN contre, Jean-Philippe Tanguy (RN) jugeant que le débat devait avoir lieu."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le texte n'est pas renvoyé au Sénat ; les députés examinent la partie « recettes » article par article jusqu'à lundi 19 octobre. Le dossier législatif affiche 3 878 amendements de séance sur la première partie (3 862 la veille)."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : toutes les mesures du tableau (art. 2, 3, 5, 7 notamment) restent dans leur version initiale tant qu'aucun amendement n'est adopté en séance."
+    },
+    {
+     "t": "li",
+     "x": "Suite : premiers votes sur les articles fiscaux attendus dans les prochains jours ; le Premier ministre n'exclut ni le 49.3 ni les ordonnances."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, dossier législatif PLF, Le Club des Juristes"
+    },
+    {
+     "t": "h",
+     "x": "PLFSS – Commission des affaires sociales : premiers votes, rien sur les prélèvements des particuliers"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Adopté en commission (Assemblée, commission des affaires sociales, lundi 12 octobre au soir, rapporté le 13). Le rapporteur général Thibault Bazin a soutenu l'amendement de compensation ; avis du gouvernement non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : l'article liminaire et les trois premiers articles (rectification de 2026) sont supprimés. Amendements identiques des quatre groupes de gauche adoptés à l'unanimité : l'État devra compenser intégralement les exonérations de cotisations accordées aux indépendants et entreprises des communes touchées par les incendies de l'été (Gironde, Landes, Var). Montants : non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : indépendants et entreprises des communes sinistrées ; aucun effet sur la CSG, les IJ, les retraites ou les revenus du capital à ce stade."
+    },
+    {
+     "t": "li",
+     "x": "Suite : examen en commission jusqu'au 16 octobre (avis de la commission des finances le 14 octobre) ; l'article 35 (gel des pensions au-delà de 1 260 € par mois) est visé par des amendements de suppression de neuf groupes sur onze. La séance repartira du texte initial le 20 octobre."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, NosParlementaires, Tripalio"
+    },
+    {
+     "t": "p",
+     "x": "Rien de nouveau trouvé sur l'assurance-vie (art. 6), les donations (art. 4), l'apport-cession (art. 5) ni le LMNP (art. 7)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : séance sur la première partie du PLF jusqu'au 19 octobre, vote solennel le 20 octobre ; PLFSS en commission jusqu'au 16 octobre (avis de la commission des finances le 14), en séance du 20 au 26 octobre, vote le 27 octobre."
+    }
+   ],
+   "date": "2026-10-14"
+  },
+  {
+   "titre": "mardi 13 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Période couverte : depuis lundi 12 octobre 6h53. Aucune mesure patrimoniale n'a été votée : la commission des affaires sociales a seulement ouvert l'examen du PLFSS lundi à 21h30, sans vote rapporté à ce stade, et la séance publique sur la première partie du PLF s'ouvre aujourd'hui sur le texte du gouvernement."
+    },
+    {
+     "t": "h",
+     "x": "PLF – Séance publique : ouverture aujourd'hui, motion de rejet préalable du PS"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Annoncé (Assemblée). Le PS annonce qu'il présentera et votera une motion de rejet préalable ; adoptée, elle ferait tomber la première partie sans débat d'articles. Le RN veut « laisser la chance à la discussion » ; LFI déposera une censure en cas de 49.3."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : rien juridiquement. Le dossier législatif affiche désormais le rapport général n° 3291 et 3 862 amendements de séance sur la première partie. Le gouvernement n'exclut ni le 49.3 ni les ordonnances."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : toutes les mesures du tableau ; les votes de commission (retraités, IJ, apport-cession, LMNP, holdings, Livret A, crypto) doivent être redéposés et revotés."
+    },
+    {
+     "t": "li",
+     "x": "Suite : vote sur la motion dès l'ouverture des débats ; risque élevé que le texte final passe par un 49.3."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, dossier législatif PLF, Lexia Conseil"
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : examen en commission des affaires sociales ouvert lundi 12 octobre à 21h30 (rapporteur général Thibault Bazin), poursuivi jusqu'au 16 octobre ; 1 610 amendements, aucun vote rapporté. Points de tension annoncés : gel des pensions au-delà de 1 265 €, indemnités de rupture exonérées dans la limite de 1 PASS (48 900 € envisagés pour 2027). Rien sur les prélèvements sociaux du capital. (Veille Acteurs de Santé, LCP, dossier PLFSS)"
+    },
+    {
+     "t": "p",
+     "x": "Rien de nouveau trouvé sur l'assurance-vie (art. 6), les donations (art. 4) ni l'apport-cession (art. 5)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : motion de rejet puis séance sur la première partie du PLF du 13 au 19 octobre, vote solennel le 20 octobre ; PLFSS en commission jusqu'au 16 octobre, en séance du 20 au 26 octobre, vote le 27 octobre."
+    }
+   ],
+   "date": "2026-10-13"
+  },
+  {
+   "titre": "lundi 12 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "Ce bloc couvre la période depuis vendredi 9 octobre 6h53, week-end inclus. Le fait majeur : vendredi soir, la commission des finances de l'Assemblée a rejeté la première partie du PLF (31 voix contre, 3 pour, 2 abstentions ; seul EPR pour), après avoir adopté plus de 200 amendements. Le rejet est rapporté par la presse ; le dossier législatif ne montre pas encore le rapport n° 3291 en ligne. Conséquence : tous les votes de commission (y compris ceux du 9 octobre dans ce journal) tombent, la séance du 13 octobre repart du texte du gouvernement, et chaque amendement devra être redéposé et revoté."
+    },
+    {
+     "t": "h",
+     "x": "Première partie du PLF : rejetée en commission des finances"
+    },
+    {
+     "t": "li",
+     "x": "Statut : rejet de la première partie en commission des finances de l'Assemblée le 9 octobre au soir, rapporté par la presse (non encore visible sur le site de l'Assemblée). LR, Horizons, RN et la gauche contre, MoDem abstention."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : rien juridiquement ; les articles 2, 3, 5 et 7 reviennent à leur version initiale pour la séance. Selon le rapporteur général Philippe Juvin, les votes de commission auraient coûté environ 10 Md€ de recettes (déficit de 5,35 à 5,4 % du PIB au lieu de 5 %), chiffre qu'il qualifie de provisoire."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : tous les contribuables visés par les mesures modifiées (retraités, IJ, apport-cession, LMNP, crypto)."
+    },
+    {
+     "t": "li",
+     "x": "Suite : séance du 13 au 19 octobre ; LFI annonce une censure en cas de 49.3."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal, LCP, dossier législatif"
+    },
+    {
+     "t": "h",
+     "x": "Article additionnel – Holdings familiales : taxe annuelle de 2 % sur les titres de placement votée en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (amendement de Charles de Courson, Liot, adopté en commission des finances le 8 octobre selon la presse ; caduc après le rejet de la première partie). Avis du rapporteur et du gouvernement : non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : taxe annuelle de 2 % sur la valeur des titres de placement logés dans une holding familiale soumise à l'IS. Assiette, seuils et date d'application : non précisés (article Fiscalonline payant). Mesure absente du texte initial."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : familles qui détiennent un portefeuille financier via une holding patrimoniale à l'IS, notamment après un apport-cession."
+    },
+    {
+     "t": "li",
+     "x": "Suite : à surveiller s'il est redéposé en séance ; une taxe proche avait déjà été débattue pour le budget 2026."
+    },
+    {
+     "t": "li",
+     "x": "Source : LCP, Fiscalonline"
+    },
+    {
+     "t": "h",
+     "x": "Article additionnel – Livret A : plafond porté à 30 000 € en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (amendement d'Éric Coquerel, LFI, adopté en commission des finances le 9 octobre selon la presse ; caduc après le rejet). Avis du rapporteur et du gouvernement : non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : plafond relevé de 22 950 € à 30 000 € ; LDDS inchangé à 12 000 €. Intérêts sur la fraction au-delà de 22 950 € exonérés de prélèvements sociaux jusqu'au 31 décembre 2029, l'exonération durable relevant du PLFSS. Hausse de la part centralisée à la CDC."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : épargnants dont le Livret A est au plafond ; jusqu'à 7 050 € de plus à placer sans impôt."
+    },
+    {
+     "t": "li",
+     "x": "Suite : à redéposer en séance ; la Fédération bancaire française y est opposée."
+    },
+    {
+     "t": "li",
+     "x": "Source : Moneyvox, LégiFiscal"
+    },
+    {
+     "t": "h",
+     "x": "Articles additionnels – Hauts revenus (CEHR et CDHR) : hausse votée en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (amendements Liot de Charles de Courson adoptés en commission selon la presse, contre l'avis du rapporteur général ; caducs après le rejet)."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : légère hausse de la contribution exceptionnelle sur les hauts revenus et renforcement de la contribution différentielle (imposition minimale de 20 %). Nouveaux taux : non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : foyers au-delà des seuils de la CEHR (250 000 € de revenu fiscal de référence pour une personne seule)."
+    },
+    {
+     "t": "li",
+     "x": "Suite : à redéposer en séance."
+    },
+    {
+     "t": "li",
+     "x": "Source : L'Échiquier social, LégiWatch"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes de commission (une ligne) : taux réduit d'IS de 15 % étendu jusqu'à 49 000 € de bénéfice (au lieu de 42 500 €) ; taxe sur les services numériques portée à 15 % ; taux individualisé du prélèvement à la source étendu au solde et aux remboursements ; plafond de l'épargne de précaution agricole porté à 250 000 € ; article liminaire (cible de déficit à 5 %) supprimé. Tous caducs après le rejet, statut Déposé. (LégiFiscal)"
+    },
+    {
+     "t": "p",
+     "x": "PLFSS : rien de voté pendant la période. La commission des affaires sociales examine ses quelque 1 610 amendements du 12 au 16 octobre ; la séance publique partira aussi du texte du gouvernement (NosParlementaires, dossier PLFSS). Rien de nouveau trouvé sur l'assurance-vie (art. 6) ni les donations (art. 4)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : PLFSS en commission des affaires sociales du 12 au 16 octobre ; conférence des présidents le 13 octobre à 10 h ; séance publique sur la première partie du PLF du 13 au 19 octobre (3 840 amendements déposés), vote solennel le 20 octobre ; PLFSS en séance du 20 au 26 octobre, vote le 27 octobre."
+    }
+   ],
+   "date": "2026-10-12"
+  },
+  {
+   "titre": "vendredi 9 octobre 2026",
+   "blocs": [
+    {
+     "t": "p",
+     "x": "La commission des finances de l'Assemblée a examiné la première partie du PLF les 7 et 8 octobre et a modifié plusieurs mesures patrimoniales. Ces votes sont rapportés par la presse ; les fiches d'amendements du site de l'Assemblée n'étaient pas lisibles ce matin, d'où le statut « Déposé » tant qu'ils ne sont pas confirmés officiellement. En séance, l'Assemblée repart du texte du gouvernement : tout devra être revoté."
+    },
+    {
+     "t": "h",
+     "x": "Art. 3 – Abattement de 10 % sur les pensions : article supprimé en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (suppression votée en commission des finances de l'Assemblée le 7 octobre selon la presse, non confirmée officiellement). Amendements de suppression de presque tous les groupes (Le Fur, Jolivet, Le Pen, Ciotti, Coquerel, Wauquiez, Sansu). Avis du gouvernement : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le sous-plafond de 3 000 € par foyer disparaît ; le plafond actuel de 4 439 € resterait. Rendement initial attendu : 1,4 Md€."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : retraités imposables dont l'abattement dépasse 3 000 €, soit des pensions de plus de 30 000 € par an et par foyer environ."
+    },
+    {
+     "t": "li",
+     "x": "Suite : l'article 3 revient dans sa version initiale en séance à partir du 13 octobre ; risque de rétablissement via un 49.3."
+    },
+    {
+     "t": "li",
+     "x": "Source : Senioractu, LégiFiscal"
+    },
+    {
+     "t": "h",
+     "x": "Art. 2 – Indemnités journalières : fiscalisation supprimée en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (adopté en commission des finances le 7 octobre selon la presse ; amendement I-CF384 notamment). Avis du gouvernement : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : suppression de l'imposition à 50 % des IJ versées en ALD et maintien de l'exonération partielle des IJ AT-MP ; le régime actuel est conservé. Rendement initial attendu : environ 1,5 Md€ selon le JDN."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : salariés en ALD ou en arrêt AT-MP."
+    },
+    {
+     "t": "li",
+     "x": "Suite : revote en séance à partir du 13 octobre."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal, Journal du Net"
+    },
+    {
+     "t": "h",
+     "x": "Art. 2 – Indemnités de rupture : clause transitoire ajoutée en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (amendement I-CF1413 d'Éric Ciotti adopté en commission le 7 octobre selon LégiFiscal). Le JDN parle plutôt d'un rejet du rabot : sort exact à confirmer."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : l'ancien régime (hors limite de 1 PASS) resterait applicable aux ruptures notifiées ou signées avant le 1er janvier 2027, même si l'indemnité est versée après."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : cadres en licenciement ou rupture conventionnelle avec de grosses indemnités ; intérêt à signer avant fin 2026."
+    },
+    {
+     "t": "li",
+     "x": "Suite : séance publique à partir du 13 octobre."
+    },
+    {
+     "t": "li",
+     "x": "Source : LégiFiscal"
+    },
+    {
+     "t": "h",
+     "x": "Art. 5 – Apport-cession (150-0 B ter) : réforme fortement réduite en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (amendement de Philippe Juvin adopté en commission des finances le 8 octobre selon la presse). Avis du gouvernement et du rapporteur : non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le décès redevient une cause de purge de la plus-value en report. Seules certaines donations mettraient fin au report : celles dont les titres apportés sont cédés moins de 8 ans après l'apport, l'impôt portant sur le prix non réinvesti dans une activité éligible. Rendement initial de 500 M€ : nouvelle estimation non précisée."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : dirigeants ayant fait un apport-cession à une holding et préparant une transmission."
+    },
+    {
+     "t": "li",
+     "x": "Suite : revote en séance ; le gouvernement peut défendre son texte initial."
+    },
+    {
+     "t": "li",
+     "x": "Source : Zoom Invest"
+    },
+    {
+     "t": "h",
+     "x": "Art. 7 – LMNP : plafonnement recentré sur les meublés de tourisme en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (plusieurs amendements adoptés en commission selon Fiscalonline, article payant)."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : le plafonnement des amortissements viserait surtout les meublés de tourisme ; auteurs, chiffres et sort du plafond de 2,5 % et 7 000 € pour la location meublée classique non précisés."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : loueurs en meublé non professionnels."
+    },
+    {
+     "t": "li",
+     "x": "Suite : à vérifier dès publication des amendements ; revote en séance."
+    },
+    {
+     "t": "li",
+     "x": "Source : Fiscalonline"
+    },
+    {
+     "t": "h",
+     "x": "Article additionnel – Crypto-actifs : trois amendements adoptés en commission"
+    },
+    {
+     "t": "li",
+     "x": "Statut : Déposé (adoptés en commission selon Cryptoast) : I-CF798 (Daniel Labaronne, EPR), I-CF1826 et I-CF1822 (Nicolas Sansu, GDR). Avis du gouvernement : non précisé."
+    },
+    {
+     "t": "li",
+     "x": "Ce qui change : moins-values sur actifs numériques reportables 10 ans ; conversion de crypto en stablecoins (MiCA) devenant un fait générateur d'imposition au 1/1/2027 ; exit tax étendue aux plus-values latentes sur crypto au-delà de 800 000 €. Le relèvement du PFU de 12,8 % à 15,8 % (I-CF847) a été rejeté."
+    },
+    {
+     "t": "li",
+     "x": "Concernés : investisseurs en crypto-actifs, contribuables qui s'expatrient."
+    },
+    {
+     "t": "li",
+     "x": "Suite : revote en séance ; forte opposition de la filière."
+    },
+    {
+     "t": "li",
+     "x": "Source : Cryptoast"
+    },
+    {
+     "t": "p",
+     "x": "Autres votes de commission (articles additionnels) : suppression du plafond de 7 500 € d'heures supplémentaires exonérées (amendement EPR porté par Paul Midy, à partir du 1/1/2027) et léger relèvement de la contribution sur les hauts revenus, contre l'avis du rapporteur général. Statut : Déposé, rapporté par la presse. (NosParlementaires, Kohen avocats)"
+    },
+    {
+     "t": "p",
+     "x": "Rien de nouveau trouvé sur l'assurance-vie (art. 6), les donations (art. 4) ni le PLFSS. Calendrier officiel publié par l'Assemblée (organisation PLF 2027)."
+    },
+    {
+     "t": "p",
+     "x": "À venir : séance publique sur la première partie du 13 au 19 octobre, vote solennel le 20 octobre ; PLFSS en séance du 20 au 26 octobre, vote solennel le 27 octobre."
+    }
+   ],
+   "date": "2026-10-09"
+  },
+  {
+   "titre": "jeudi 8 octobre 2026",
+   "blocs": [
+    {
+     "t": "h",
+     "x": "Point de départ du suivi : aucune mesure patrimoniale modifiée à ce stade."
+    },
+    {
+     "t": "li",
+     "x": "Commission des finances : 1 794 amendements déposés sur la première partie du PLF ; aucun amendement adopté publié à ce jour. Statut : déposé. (dossier législatif)"
+    },
+    {
+     "t": "li",
+     "x": "Commission des affaires étrangères : avis n° 3279 rendu le 7 octobre, sans portée sur la fiscalité patrimoniale."
+    },
+    {
+     "t": "p",
+     "x": "À venir : fin de l'examen en commission et rapport du rapporteur général ; ouverture de la séance publique le 13 octobre."
+    }
+   ],
+   "date": "2026-10-08"
+  }
+ ],
+ "calendrier": {
+  "intro": "La séance publique sur la première partie du PLF s'ouvre le 13 octobre sur le texte du gouvernement, après le rejet en commission des finances du 9 octobre. Dates officielles : document d'organisation de l'Assemblée (dossier législatif, calendrier officiel).",
+  "etapes": [
+   {
+    "texte": "1er octobre 2026 – Dépôt du PLF (n° 3210) et du PLFSS (n° 3211) à l'Assemblée",
+    "fait": true,
+    "etat": "fait"
+   },
+   {
+    "texte": "7 au 9 octobre – Examen de la première partie du PLF en commission des finances ; première partie rejetée le 9 octobre ; rapport général n° 3291 publié",
+    "fait": true,
+    "etat": "fait"
+   },
+   {
+    "texte": "12 au 16 octobre – PLFSS en commission des affaires sociales (ouverture le 12 octobre, avis de la commission des finances le 14, allègements liés aux primes et article sur les pensions supprimés) ; texte rejeté par la commission le 16 octobre",
+    "fait": true,
+    "etat": "fait"
+   },
+   {
+    "texte": "13 au 19 octobre – Séance publique sur la première partie du PLF : motion de rejet du PS repoussée le 13 octobre (236 voix contre 149) ; art. 2 adopté le 15 octobre ; art. 4 (dons familiaux) et art. 5 (apport-cession) votés le 16 octobre selon la presse ; examen des art. 6 et suivants entamé le 19 octobre ; première partie inachevée (2 828 amendements restants selon LCP), suite reportée après le PLFSS",
+    "fait": false,
+    "etat": "interrompu"
+   },
+   {
+    "texte": "20 au 23 octobre – Séance publique sur le PLFSS à l'Assemblée : motion de rejet de LFI repoussée le 20 (259 contre 128) ; partie recettes rejetée le 23 octobre par 115 voix contre 1, ce qui entraîne le rejet de l'ensemble du texte en première lecture (texte n° 358) — fait. Le vote solennel de la première partie du PLF, prévu le 20, a été reporté au 3 novembre (calendrier officiel).",
+    "fait": true,
+    "etat": "fait"
+   },
+   {
+    "texte": "27 octobre – Reprise de la première partie du PLF à l'Assemblée jusqu'au 2 novembre (calendrier officiel ; jeudi 29 octobre réservé à d'autres textes selon NosParlementaires), un orateur pour et un contre par amendement. Le vote solennel du PLFSS prévu ce jour est sans objet après le rejet du 23 octobre. Aucune séance budgétaire le 26 octobre. Reprise faite le 27 octobre (art. 15 sur la surtaxe des grandes entreprises supprimé le soir même selon la presse) ; séance du 28 octobre faite (amendements après l'art. 15, aucune adoption patrimoniale) ; pas de PLF le 29 octobre (ordre du jour officiel) — fait ; séances PLF le vendredi 30 octobre (9h, 15h, 21h30) et le lundi 2 novembre, aucune le week-end (conférence des présidents) ; séances du 30 octobre faites (art. 7 LMNP adopté modifié, plafonnement supprimé ; exit tax à 15 ans), aucune séance le week-end ; séances du 2 novembre faites (art. 23 avoirs en déshérence supprimé, amendement TTF adopté), première partie toujours inachevée",
+    "fait": true,
+    "etat": "fait"
+   },
+   {
+    "texte": "3 et 4 novembre – Vote solennel de la première partie du PLF reporté le 3 novembre ; débats achevés le 4 novembre au soir et première partie rejetée par 458 voix contre 0 (T.A. n° 362). La seconde partie n'est pas examinée et le texte initial du gouvernement est transmis au Sénat",
+    "fait": true,
+    "etat": "fait"
+   },
+   {
+    "texte": "17 novembre – Vote solennel sur l'ensemble du PLF à l'Assemblée",
+    "fait": false,
+    "etat": "sans objet"
+   },
+   {
+    "texte": "26 novembre – Fin du délai de 50 jours pour le PLFSS (article 47-1 de la Constitution).",
+    "fait": false,
+    "etat": "à venir"
+   },
+   {
+    "texte": "Novembre – décembre, Sénat – PLFSS sur le texte initial du gouvernement (n° 138) : avis de la commission des finances (n° 139) le 3 novembre et amendements de la commission des affaires sociales arrêtés le 4 novembre (rapport n° 144, Olivier Henno) — fait ; discussion générale le lundi 9 novembre à 15h, articles du 9 au 17 novembre, vote solennel le mercredi 18 novembre au soir. Projet de loi de finances de fin de gestion pour 2026 le 18 novembre, sous réserve de dépôt. PLF sur le texte initial (sous réserve de transmission) : discussion générale le vendredi 20 novembre à 9h30, première partie du 23 au 28 novembre avec vote le samedi 28 novembre, missions du 30 novembre au 8 décembre, vote sur l'ensemble le mercredi 9 décembre — dates confirmées par l'ordre du jour du Sénat. CMP du PLFSS attendue fin novembre selon Public Sénat, date non publiée.",
+    "fait": true,
+    "etat": "fait"
+   },
+   {
+    "texte": "Décembre – Commission mixte paritaire, vote définitif, saisine éventuelle du Conseil constitutionnel, promulgation avant le 31 décembre ; fin du délai de 70 jours du PLF le 17 décembre, au-delà duquel le gouvernement peut procéder par ordonnance (NosParlementaires).",
+    "fait": false,
+    "etat": "à venir"
+   }
+  ],
+  "note": "Les dates des CMP seront ajoutées dès qu'elles seront publiées."
+ },
+ "statuts": [
+  {
+   "statut": "Annoncé",
+   "sens": "Déclaration du gouvernement ou d'un responsable, aucun texte déposé"
+  },
+  {
+   "statut": "Déposé",
+   "sens": "Amendement déposé, pas encore examiné"
+  },
+  {
+   "statut": "Adopté en commission",
+   "sens": "Voté en commission des finances ou des affaires sociales ; peut encore changer en séance"
+  },
+  {
+   "statut": "Adopté en séance",
+   "sens": "Voté par l'Assemblée ou le Sénat en séance publique"
+  },
+  {
+   "statut": "Rejeté / retiré",
+   "sens": "La modification ne s'applique pas"
+  },
+  {
+   "statut": "Adopté définitivement",
+   "sens": "Texte final voté par le Parlement"
+  },
+  {
+   "statut": "Promulgué",
+   "sens": "Loi publiée au Journal officiel, après un éventuel contrôle du Conseil constitutionnel"
+  }
+ ],
+ "phase": "Rejeté en 1re lecture",
+ "resumeCourt": "L’Assemblée a rejeté le volet recettes le 4 novembre, 458 voix contre et aucune pour. Le Sénat repart du texte du gouvernement : PLFSS dès le 9 novembre, PLF dès le 20."
+}
