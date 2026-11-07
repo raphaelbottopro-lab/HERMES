@@ -2,11 +2,65 @@
  "schema": 1,
  "fils": [
   {
+   "id": "salaires-smic",
+   "titre": "Smic et salaires",
+   "ouvert": "2026-10-29",
+   "maj": "2026-11-07",
+   "resume": "Conférence sociale lundi 9 novembre à Matignon",
+   "etat": [
+    {
+     "titre": "Les pistes du gouvernement",
+     "texte": "Coup de pouce exceptionnel au Smic (de l’ordre de 0,6 %, premier depuis 2012) pour dépasser 1 500 € net, en plus de la hausse automatique d’environ 1 % au 1er janvier ; décret pour relever les minima de branche ; discussion sur le coût du travail."
+    },
+    {
+     "titre": "Les syndicats",
+     "texte": "CFDT : +100 € nets ; FO : +130 € ; CGT : +150 € (+10 %) et indexation des salaires. L’intersyndicale décidera de la suite du mouvement après Matignon."
+    },
+    {
+     "titre": "Le patronat",
+     "texte": "Medef et U2P hostiles à une hausse anticipée ; ils demandent en contrepartie de geler la baisse des allègements de cotisations prévue au PLFSS."
+    }
+   ],
+   "chrono": [
+    {
+     "date": "2026-11-05",
+     "texte": "Après la grève interprofessionnelle, Sébastien Lecornu annonce une conférence sociale le 9 novembre avec syndicats et patronat.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi"
+      }
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "texte": "Jean-Pierre Farandou juge qu’un coup de pouce au Smic n’est « pas un tabou ».",
+     "sources": [
+      {
+       "nom": "MoneyVox",
+       "url": "https://www.moneyvox.fr/votre-argent/actualites/111030/smic-hausse-anticipee-ou-coup-de-pouce-inedit-depuis-2012-les-mesures-evoquees-par-le-gouvernement"
+      }
+     ]
+    }
+   ],
+   "personnes": [
+    "sebastien-lecornu",
+    "jean-pierre-farandou",
+    "marylise-leon",
+    "sophie-binet",
+    "patrick-martin",
+    "michel-picon"
+   ],
+   "sondage": false,
+   "plf": false,
+   "region": null
+  },
+  {
    "id": "presidentielle-2027",
    "titre": "Présidentielle 2027",
    "ouvert": "2026-07-07",
-   "maj": "2026-11-06",
-   "resume": "Sondage Ifop : Glucksmann recule",
+   "maj": "2026-11-07",
+   "resume": "Philippe refuse la primaire ; Mélenchon dévoile son programme",
    "sondage": true,
    "etat": [
     {
@@ -19,11 +73,11 @@
     },
     {
      "titre": "Gauche",
-     "texte": "Raphaël Glucksmann porte le PS, Place publique et la GRS après sa primaire. Jean-Luc Mélenchon (LFI) et François Ruffin (Debout !) font campagne de leur côté ; Marine Tondelier et Fabien Roussel sont testés dans les sondages."
+     "texte": "Raphaël Glucksmann porte le PS, Place publique et la GRS ; son équipe, présentée le 6 novembre, fait une large place aux proches d’Olivier Faure. Jean-Luc Mélenchon (LFI) a dévoilé son programme le même jour. François Ruffin (Debout !) se dit prêt à renoncer si une solution permet de battre Le Pen ; Marine Tondelier appelle au dialogue et Fabien Roussel est testé dans les sondages."
     },
     {
      "titre": "Centre et droite",
-     "texte": "Pas de primaire à ce stade. Édouard Philippe (Horizons), Bruno Retailleau (LR) et David Lisnard sont candidats, Gabriel Attal (Renaissance) est testé. Lisnard réclame une primaire ouverte."
+     "texte": "Gabriel Attal et Bruno Retailleau (candidat LR) plaident pour une primaire début 2027 ; David Lisnard la veut ouverte à Sarah Knafo. Édouard Philippe (Horizons) refuse et propose le retrait des moins bien placés entre Noël et février."
     },
     {
      "titre": "Autres",
@@ -31,6 +85,38 @@
     }
    ],
    "chrono": [
+    {
+     "date": "2026-11-06",
+     "texte": "Édouard Philippe refuse la primaire voulue par Gabriel Attal et Bruno Retailleau ; Jean-Luc Mélenchon dévoile 1 069 propositions ; Raphaël Glucksmann présente son équipe ; François Ruffin se dit prêt à renoncer pour battre Le Pen.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire"
+      },
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme"
+      },
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/document-lorganigramme-de-campagne-complet-de-raphael-glucksmann-olivier-faure-membre-du-comite-politique"
+      },
+      {
+       "nom": "L’Express via Orange Actualités",
+       "url": "https://actu.orange.fr/politique/presidentielle-2027-francois-ruffin-n-exclut-pas-de-renoncer-si-cela-permet-de-battre-marine-le-pen-l-express-via-6medias-CNT000002tAInn.html"
+      }
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "texte": "Baromètre Elabe pour Les Échos : Emmanuel Macron à 13 % de confiance, plus bas jamais mesuré.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/sondage-82-des-francais-ne-font-pas-confiance-a-emmanuel-macron-qui-bat-le-record-dimpopularite-de-francois-hollande-a-lelysee"
+      }
+     ]
+    },
     {
      "date": "2026-11-04",
      "texte": "Lancement du livre de Jordan Bardella : un reporter de Mediapart est refoulé, presque tous les journalistes quittent la soirée.",
@@ -150,9 +236,9 @@
    "id": "budget-2027",
    "titre": "Budget 2027",
    "ouvert": "2026-10-01",
-   "maj": "2026-11-06",
+   "maj": "2026-11-07",
    "plf": true,
-   "resume": "Rejet unanime à l’Assemblée",
+   "resume": "Le Sénat examine le PLFSS à partir du 9 novembre",
    "etat": [
     {
      "titre": "Où en est le texte",
@@ -168,6 +254,16 @@
     }
    ],
    "chrono": [
+    {
+     "date": "2026-11-06",
+     "texte": "Plus de 1 200 amendements déposés au Sénat sur le PLFSS ; points chauds : désindexation des pensions, allègements de cotisations, taxe sucre, délai de carence pour les étrangers.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
+      }
+     ]
+    },
     {
      "date": "2026-11-05",
      "texte": "Jordan Bardella demande une « règle d’or » budgétaire dans la Constitution ; Bruno Retailleau propose un référendum.",
@@ -236,8 +332,8 @@
    "id": "mobilisation-automne-2026",
    "titre": "Mobilisation sociale d’automne",
    "ouvert": "2026-10-17",
-   "maj": "2026-11-06",
-   "resume": "Grève interprofessionnelle du 5 novembre",
+   "maj": "2026-11-07",
+   "resume": "Conférence sociale lundi ; « six-seven » peu suivi",
    "etat": [
     {
      "titre": "Les revendications",
@@ -249,10 +345,20 @@
     },
     {
      "titre": "La réponse de l’État",
-     "texte": "Emmanuel Macron a condamné les violences le 18 octobre et refusé la démission de Laurent Nuñez. Sébastien Lecornu a reçu les syndicats. 70 000 policiers et gendarmes étaient mobilisés le 5 novembre."
+     "texte": "Emmanuel Macron a condamné les violences le 18 octobre et refusé la démission de Laurent Nuñez. Après la grève du 5 novembre, Sébastien Lecornu convoque une conférence sociale le 9 novembre sur les salaires ; l’intersyndicale décidera ensuite de la suite. Un plan de rénovation de 200 lycées est lancé."
     }
    ],
    "chrono": [
+    {
+     "date": "2026-11-06",
+     "texte": "Actions « six-seven » des gilets jaunes : une vingtaine de lycées bloqués selon le ministère, rue de Rivoli brièvement occupée, aucun blocage routier confirmé.",
+     "sources": [
+      {
+       "nom": "GasBu (synthèse AFP, Le Parisien, Ouest-France…)",
+       "url": "https://gasbu.app/en/live/six-seven-6-7-novembre-2026"
+      }
+     ]
+    },
     {
      "date": "2026-11-06",
      "fin": "2026-11-07",
@@ -337,8 +443,8 @@
    "id": "guerre-iran-petrole",
    "titre": "Guerre États-Unis – Iran et pétrole",
    "ouvert": "2026-02-01",
-   "maj": "2026-11-06",
-   "resume": "Le Brent repasse sous 100 $, puis rebondit",
+   "maj": "2026-11-07",
+   "resume": "Médiation sur Ormuz, Brent à 97,6 $",
    "etat": [
     {
      "titre": "Le contexte",
@@ -354,6 +460,20 @@
     }
    ],
    "chrono": [
+    {
+     "date": "2026-11-06",
+     "texte": "Le Brent recule à 97,58 $ ; une médiation régionale discute d’un arrêt des attaques iraniennes dans Ormuz contre une levée du blocus américain.",
+     "sources": [
+      {
+       "nom": "BFM Bourse",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html"
+      },
+      {
+       "nom": "Quartz (AP)",
+       "url": "https://fr.qz.com/frappes-dfensives-amricaines-iran-dtroit-hormuz-110726"
+      }
+     ]
+    },
     {
      "date": "2026-11-05",
      "texte": "Le Brent rebondit à 98,3 $ après de nouveaux incidents visant des navires.",

@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "maj": "2026-11-06",
+ "maj": "2026-11-07",
  "personnes": [
   {
    "id": "emmanuel-macron",
@@ -128,7 +128,7 @@
    "fonction": "Candidat de LFI à la présidentielle",
    "camp": "Gauche",
    "parti": "LFI",
-   "bio": "Fondateur de La France insoumise, deuxième des derniers sondages Ifop."
+   "bio": "Fondateur de La France insoumise, deuxième des derniers sondages Ifop. A présenté le 6 novembre 2026 la 5e version de « L’Avenir en commun » (1 069 propositions)."
   },
   {
    "id": "raphael-glucksmann",
@@ -149,10 +149,10 @@
   {
    "id": "francois-ruffin",
    "nom": "François Ruffin",
-   "fonction": "Député de la Somme, président de Debout !",
+   "fonction": "Député de la Somme, candidat (Debout !)",
    "camp": "Gauche",
    "parti": "Debout !",
-   "bio": "Ancien député LFI, candidat à la présidentielle."
+   "bio": "Ancien député LFI, en rupture avec Jean-Luc Mélenchon, candidat à la présidentielle. Se dit prêt à renoncer si une solution permet de battre Marine Le Pen."
   },
   {
    "id": "marine-tondelier",
@@ -184,7 +184,7 @@
    "fonction": "Président d’Horizons, candidat",
    "camp": "Centre",
    "parti": "Horizons",
-   "bio": "Ancien Premier ministre, maire du Havre réélu en 2026, candidat déclaré depuis 2024."
+   "bio": "Ancien Premier ministre, maire du Havre réélu en 2026, candidat déclaré depuis 2024. Refuse la primaire de la droite et du centre et propose le retrait des moins bien placés entre Noël et février."
   },
   {
    "id": "gabriel-attal",
@@ -192,7 +192,7 @@
    "fonction": "Figure de Renaissance",
    "camp": "Centre",
    "parti": "Renaissance",
-   "bio": "Ancien Premier ministre (2024), testé dans les sondages pour 2027."
+   "bio": "Ancien Premier ministre (2024), testé dans les sondages pour 2027 ; a relancé début novembre 2026 l’idée d’une primaire de la droite et du centre."
   },
   {
    "id": "bruno-retailleau",
@@ -200,7 +200,7 @@
    "fonction": "Président des Républicains, candidat",
    "camp": "Droite",
    "parti": "LR",
-   "bio": "Ancien ministre de l’Intérieur ; propose un référendum sur une règle d’or budgétaire."
+   "bio": "Ancien ministre de l’Intérieur, désigné candidat par les adhérents LR. Accepte depuis début novembre 2026 le principe d’une primaire de la droite et du centre."
   },
   {
    "id": "laurent-wauquiez",
@@ -215,8 +215,8 @@
    "nom": "David Lisnard",
    "fonction": "Maire de Cannes, candidat",
    "camp": "Droite",
-   "parti": "",
-   "bio": "Ancien LR, candidat de droite libérale ; réclame une primaire ouverte de la droite et du centre."
+   "parti": "Nouvelle Énergie",
+   "bio": "Maire de Cannes, ancien LR, président de Nouvelle Énergie. Candidat de droite libérale, il réclame une primaire ouverte, y compris à Sarah Knafo."
   },
   {
    "id": "natacha-polony",
@@ -313,6 +313,118 @@
    "camp": "Territoires",
    "parti": "Divers centre",
    "bio": "Ancienne légende du rugby, élu en mars 2026 avec 41,92 % au second tour."
+  },
+  {
+   "id": "jean-pierre-farandou",
+   "nom": "Jean-Pierre Farandou",
+   "fonction": "Ministre du Travail",
+   "camp": "Exécutif",
+   "parti": "",
+   "bio": "Ancien PDG de la SNCF, ministre du Travail du gouvernement Lecornu. Prépare la conférence sociale du 9 novembre 2026 et vise un Smic net au-dessus de 1 500 €."
+  },
+  {
+   "id": "marylise-leon",
+   "nom": "Marylise Léon",
+   "fonction": "Secrétaire générale de la CFDT",
+   "camp": "Autres",
+   "parti": "CFDT",
+   "bio": "À la tête du premier syndicat français depuis 2023. Réclame 100 € nets de plus sur le Smic et l’indexation des salaires sur l’inflation."
+  },
+  {
+   "id": "sophie-binet",
+   "nom": "Sophie Binet",
+   "fonction": "Secrétaire générale de la CGT",
+   "camp": "Autres",
+   "parti": "CGT",
+   "bio": "Dirige la CGT depuis 2023. Réclame une hausse du Smic de 150 € (+10 %) et l’indexation de tous les salaires sur les prix."
+  },
+  {
+   "id": "cyril-chabanier",
+   "nom": "Cyril Chabanier",
+   "fonction": "Président de la CFTC",
+   "camp": "Autres",
+   "parti": "CFTC",
+   "bio": "Président de la Confédération française des travailleurs chrétiens, membre de l’intersyndicale."
+  },
+  {
+   "id": "patrick-martin",
+   "nom": "Patrick Martin",
+   "fonction": "Président du Medef",
+   "camp": "Autres",
+   "parti": "Medef",
+   "bio": "Chef d’entreprise lyonnais, président du Medef depuis 2023. Opposé à une hausse anticipée du Smic."
+  },
+  {
+   "id": "michel-picon",
+   "nom": "Michel Picon",
+   "fonction": "Président de l’U2P",
+   "camp": "Autres",
+   "parti": "U2P",
+   "bio": "Préside l’Union des entreprises de proximité (artisans, commerçants, professions libérales). Juge une hausse du Smic dangereuse pour les TPE."
+  },
+  {
+   "id": "amir-reza-tofighi",
+   "nom": "Amir Reza Tofighi",
+   "fonction": "Président des Entrepreneurs (ex-CPME)",
+   "camp": "Autres",
+   "parti": "Entrepreneurs (ex-CPME)",
+   "bio": "Président de l’organisation des petites et moyennes entreprises, anciennement CPME, convié à la conférence sociale du 9 novembre 2026."
+  },
+  {
+   "id": "edouard-geffray",
+   "nom": "Édouard Geffray",
+   "fonction": "Ministre de l’Éducation nationale",
+   "camp": "Exécutif",
+   "parti": "",
+   "bio": "Haut fonctionnaire, ancien directeur général de l’enseignement scolaire, ministre de l’Éducation nationale. Porte le plan de rénovation de 200 lycées prioritaires."
+  },
+  {
+   "id": "anne-le-henanff",
+   "nom": "Anne Le Hénanff",
+   "fonction": "Ministre déléguée à l’IA et au numérique",
+   "camp": "Exécutif",
+   "parti": "Horizons",
+   "bio": "Ministre déléguée chargée de l’intelligence artificielle et du numérique ; défend une IA souveraine et la préférence européenne dans la commande publique."
+  },
+  {
+   "id": "nathalie-loiseau",
+   "nom": "Nathalie Loiseau",
+   "fonction": "Porte-parole de la campagne d’Édouard Philippe",
+   "camp": "Centre",
+   "parti": "Horizons",
+   "bio": "Ancienne ministre des Affaires européennes et ancienne eurodéputée, porte-parole d’Édouard Philippe pour 2027."
+  },
+  {
+   "id": "gerard-larcher",
+   "nom": "Gérard Larcher",
+   "fonction": "Président du Sénat",
+   "camp": "Institutions",
+   "parti": "LR",
+   "bio": "Président du Sénat, figure de la droite, favorable à une primaire de la droite et du centre."
+  },
+  {
+   "id": "alexandre-ouizille",
+   "nom": "Alexandre Ouizille",
+   "fonction": "Directeur de campagne de Raphaël Glucksmann",
+   "camp": "Gauche",
+   "parti": "PS",
+   "bio": "Sénateur socialiste, nommé directeur de campagne de Raphaël Glucksmann le 6 novembre 2026."
+  },
+  {
+   "id": "jerome-guedj",
+   "nom": "Jérôme Guedj",
+   "fonction": "Député PS, porte-parole de Raphaël Glucksmann",
+   "camp": "Gauche",
+   "parti": "PS",
+   "bio": "Député de l’Essonne, spécialiste des questions sociales, porte-parole de la campagne Glucksmann."
+  },
+  {
+   "id": "steve-witkoff",
+   "nom": "Steve Witkoff",
+   "fonction": "Envoyé spécial des États-Unis",
+   "camp": "International",
+   "parti": "",
+   "bio": "Homme d’affaires proche de Donald Trump, chargé des négociations sur l’Ukraine et le Moyen-Orient."
   }
  ]
 }

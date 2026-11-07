@@ -1,0 +1,1044 @@
+{
+ "schema": 1,
+ "date": "2026-11-07",
+ "type": "quotidien",
+ "titre": "Édition du samedi 7 novembre",
+ "publieA": "07:00",
+ "periode": "Depuis le vendredi 6 novembre, 7h. Quelques rappels des jours précédents (Livret A, sondage Elabe).",
+ "essentiel": [
+  {
+   "importance": 3,
+   "texte": "Conférence sociale lundi à Matignon : le gouvernement vise un Smic net au-dessus de 1 500 €.",
+   "cible": "soc-smic"
+  },
+  {
+   "importance": 3,
+   "texte": "Philippe refuse la primaire de la droite et du centre voulue par Attal et Retailleau.",
+   "cible": "pol-primaire"
+  },
+  {
+   "importance": 2,
+   "texte": "Mélenchon dévoile 1 069 propositions, écologie en tête, avant son meeting du Bourget.",
+   "cible": "pol-melenchon"
+  },
+  {
+   "importance": 2,
+   "texte": "CAC 40 −0,81 % à 8 139 points ; l’écart OAT-Bund remonte à 154 pb.",
+   "cible": "eco-marches"
+  },
+  {
+   "importance": 2,
+   "texte": "Ruffin prêt à renoncer si une solution permet de battre Le Pen.",
+   "cible": "qdq-ruffin"
+  }
+ ],
+ "chiffres": {
+  "cloture": "vendredi 6 novembre",
+  "marches": [
+   {
+    "id": "cac40",
+    "label": "CAC 40",
+    "valeur": "8 139 pts",
+    "variation": "−0,81 %",
+    "sens": "baisse"
+   },
+   {
+    "id": "oat10",
+    "label": "OAT 10 ans",
+    "valeur": "4,76 %",
+    "variation": "Bund 3,22 %",
+    "sens": "neutre"
+   },
+   {
+    "id": "spread",
+    "label": "Écart OAT-Bund",
+    "valeur": "154 pb",
+    "variation": "+6 pb sur la séance",
+    "sens": "hausse"
+   },
+   {
+    "id": "brent",
+    "label": "Brent",
+    "valeur": "97,6 $",
+    "variation": "−0,7 %",
+    "sens": "baisse"
+   },
+   {
+    "id": "or",
+    "label": "Or",
+    "valeur": "≈ 4 060 $",
+    "variation": "−0,6 % (3 641 €, cours de vendredi midi)",
+    "sens": "baisse"
+   },
+   {
+    "id": "eurusd",
+    "label": "EUR/USD",
+    "valeur": "1,115",
+    "variation": "−0,7 %",
+    "sens": "baisse"
+   }
+  ],
+  "macro": [
+   {
+    "id": "inflation",
+    "label": "Inflation octobre",
+    "valeur": "3,4 %"
+   },
+   {
+    "id": "pib",
+    "label": "PIB 3e trim.",
+    "valeur": "−0,1 %"
+   },
+   {
+    "id": "chomage",
+    "label": "Chômage 2e trim.",
+    "valeur": "8,3 %"
+   },
+   {
+    "id": "bce",
+    "label": "Taux de dépôt BCE",
+    "valeur": "2,50 %"
+   }
+  ],
+  "sources": [
+   {
+    "nom": "BFM Bourse",
+    "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html"
+   },
+   {
+    "nom": "Banque de France via Idéal Investisseur",
+    "url": "https://www.ideal-investisseur.fr/marches/spread-oat-bund.html"
+   },
+   {
+    "nom": "Cours de l’or (coursdelor.app)",
+    "url": "https://coursdelor.app/cours-de-l-or-aujourdhui.html"
+   },
+   {
+    "nom": "Insee",
+    "url": "https://www.insee.fr/fr/statistiques/2107840"
+   }
+  ]
+ },
+ "sondage": {
+  "institut": "Elabe",
+  "commanditaire": "Les Échos",
+  "publie": "2026-11-05",
+  "hypothese": "Baromètre de confiance (part des Français qui font confiance à la personnalité)",
+  "echantillon": "1 004 personnes représentatives des 18 ans et plus, méthode des quotas, interrogées les 3 et 4 novembre",
+  "marge": "1,4 à 3,1 points",
+  "note": "Évolution sur un mois. Ce n’est pas un sondage d’intentions de vote.",
+  "resultats": [
+   {
+    "nom": "Marine Le Pen",
+    "parti": "RN",
+    "valeur": 35,
+    "evolution": "−2"
+   },
+   {
+    "nom": "Jordan Bardella",
+    "parti": "RN",
+    "valeur": 33,
+    "evolution": "−4"
+   },
+   {
+    "nom": "Édouard Philippe",
+    "parti": "Horizons",
+    "valeur": 27,
+    "evolution": "−3"
+   },
+   {
+    "nom": "Bruno Retailleau",
+    "parti": "LR",
+    "valeur": 26,
+    "evolution": "+3"
+   },
+   {
+    "nom": "Raphaël Glucksmann",
+    "parti": "Place publique",
+    "valeur": 24,
+    "evolution": "+3"
+   },
+   {
+    "nom": "David Lisnard",
+    "parti": "Nouvelle Énergie",
+    "valeur": 22,
+    "evolution": "+6"
+   },
+   {
+    "nom": "Sébastien Lecornu",
+    "parti": "Premier ministre",
+    "valeur": 17,
+    "evolution": "−2"
+   },
+   {
+    "nom": "Emmanuel Macron",
+    "parti": "Président",
+    "valeur": 13,
+    "evolution": "−4"
+   }
+  ],
+  "sources": [
+   {
+    "nom": "Public Sénat",
+    "url": "https://www.publicsenat.fr/actualites/politique/sondage-82-des-francais-ne-font-pas-confiance-a-emmanuel-macron-qui-bat-le-record-dimpopularite-de-francois-hollande-a-lelysee"
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "qui-a-dit-quoi",
+   "titre": "Qui a dit quoi ?",
+   "items": [
+    {
+     "id": "qdq-ruffin",
+     "format": "declaration",
+     "importance": 2,
+     "personne": {
+      "id": "francois-ruffin",
+      "nom": "François Ruffin",
+      "role": "Député de la Somme, candidat (Debout !)",
+      "quand": "vendredi 6 nov., matinale de franceinfo"
+     },
+     "titre": "Ruffin prêt à s’effacer pour battre Le Pen",
+     "paragraphes": [
+      "Il n’exclut plus de retirer sa candidature si une option crédible se dégage pour battre Marine Le Pen au second tour : « Si une solution se dégage […], je serai pour ». Il parle d’un dernier recours, pas d’actualité, et écarte l’idée que Jean-Luc Mélenchon soit cette solution, en rappelant que les sondages de second tour le donnent battu. Il dit vouloir d’abord porter la question du travail et des salariés usés par leur emploi."
+     ],
+     "reactions": [
+      {
+       "qui": "Marine Tondelier (Les Écologistes)",
+       "texte": "avait elle aussi appelé au dialogue entre candidats de gauche juste avant."
+      },
+      {
+       "qui": "LFI et camp Glucksmann",
+       "texte": "pas de réaction relevée à l’heure de l’édition."
+      }
+     ],
+     "sources": [
+      {
+       "nom": "L’Express via Orange Actualités",
+       "url": "https://actu.orange.fr/politique/presidentielle-2027-francois-ruffin-n-exclut-pas-de-renoncer-si-cela-permet-de-battre-marine-le-pen-l-express-via-6medias-CNT000002tAInn.html"
+      }
+     ],
+     "fils": [
+      "presidentielle-2027"
+     ],
+     "personnes": [
+      "francois-ruffin",
+      "marine-le-pen",
+      "jean-luc-melenchon",
+      "marine-tondelier"
+     ]
+    },
+    {
+     "id": "qdq-farandou",
+     "format": "declaration",
+     "importance": 2,
+     "personne": {
+      "id": "jean-pierre-farandou",
+      "nom": "Jean-Pierre Farandou",
+      "role": "Ministre du Travail",
+      "quand": "cette semaine, avant la conférence sociale"
+     },
+     "titre": "Farandou veut un Smic net au-dessus de 1 500 €",
+     "paragraphes": [
+      "Le ministre dit vouloir faire passer le Smic net mensuel au-dessus de 1 500 €, contre 1 477,93 € aujourd’hui, tout en répétant que rien n’est acquis. Il a aussi un décret prêt pour pousser les branches à remonter leurs minima au niveau du Smic, et termine ses consultations avec le patronat d’ici dimanche."
+     ],
+     "reactions": [
+      {
+       "qui": "Michel Picon (U2P)",
+       "texte": "une hausse serait « une catastrophe » pour les petites entreprises ; il réclame en échange la suppression de la CSG et de la CRDS."
+      },
+      {
+       "qui": "Marylise Léon (CFDT)",
+       "texte": "réclame 100 € nets de plus et des réponses concrètes sur les fins de mois."
+      },
+      {
+       "qui": "Sophie Binet (CGT)",
+       "texte": "demande 150 € et juge que la seule question est désormais le montant de la hausse."
+      }
+     ],
+     "sources": [
+      {
+       "nom": "LCP",
+       "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9"
+      },
+      {
+       "nom": "Sud Radio",
+       "url": "https://www.sudradio.fr/sud-radio/conference-sociale-a-matignon-quest-ce-qui-sy-joue-et-avec-qui"
+      },
+      {
+       "nom": "Journal du Net (AFP)",
+       "url": "https://www.journaldunet.com/business/action-publique/1557671-le-gouvernement-reunit-syndicats-et-patronat-lundi-pour-discuter-des-salaires/"
+      }
+     ],
+     "fils": [
+      "salaires-smic"
+     ],
+     "personnes": [
+      "jean-pierre-farandou",
+      "michel-picon",
+      "marylise-leon",
+      "sophie-binet"
+     ]
+    },
+    {
+     "id": "qdq-chabanier",
+     "format": "declaration",
+     "importance": 1,
+     "personne": {
+      "id": "cyril-chabanier",
+      "nom": "Cyril Chabanier",
+      "role": "Président de la CFTC",
+      "quand": "avant la conférence sociale de lundi"
+     },
+     "titre": "La CFTC parle de « dernière chance » pour le gouvernement",
+     "paragraphes": [
+      "Le syndicat chrétien, d’ordinaire modéré, présente la réunion de lundi à Matignon comme « la dernière chance pour le gouvernement ». L’intersyndicale décidera juste après de la suite du mouvement."
+     ],
+     "sources": [
+      {
+       "nom": "Sud Radio",
+       "url": "https://www.sudradio.fr/sud-radio/conference-sociale-a-matignon-quest-ce-qui-sy-joue-et-avec-qui"
+      }
+     ],
+     "fils": [
+      "salaires-smic",
+      "mobilisation-automne-2026"
+     ],
+     "personnes": [
+      "cyril-chabanier",
+      "sebastien-lecornu"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "politique",
+   "titre": "Politique",
+   "items": [
+    {
+     "id": "pol-budget",
+     "format": "ligne",
+     "importance": 2,
+     "etiquette": "PLF",
+     "titre": "Budget 2027 : le Sénat attaque le PLFSS lundi",
+     "paragraphes": [
+      "Budget 2027 : aucun vote vendredi. Le Sénat examine le PLFSS en séance à partir du 9 novembre (plus de 1 200 amendements, vote solennel le 18), puis le PLF à partir du 20."
+     ],
+     "lien": {
+      "onglet": "plf",
+      "texte": "Détail dans l’onglet PLF"
+     },
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
+      }
+     ],
+     "fils": [
+      "budget-2027"
+     ]
+    },
+    {
+     "id": "pol-primaire",
+     "format": "developpe",
+     "importance": 3,
+     "rubrique": "PRÉSIDENTIELLE 2027",
+     "titre": "Primaire de la droite et du centre : Philippe dit non",
+     "chiffresCles": [
+      {
+       "valeur": "4",
+       "label": "candidats au plus selon Retailleau"
+      },
+      {
+       "valeur": "Noël–février",
+       "label": "retrait des moins bien placés, selon Philippe"
+      }
+     ],
+     "paragraphes": [
+      "Gabriel Attal a relancé l’idée d’une grande primaire du bloc central et de la droite, et Bruno Retailleau, désormais candidat officiel des Républicains, s’y est rallié cette semaine : il estime qu’on « n’y coupera pas » début 2027 si les sondages ne départagent personne, avec trois débats (pouvoir d’achat, régalien, écologie) entre lui, David Lisnard, Édouard Philippe et Gabriel Attal.",
+      "Le camp Philippe refuse. Sa porte-parole Nathalie Loiseau renvoie la nervosité aux autres camps, et son coordinateur Maël de Calan prévient qu’une primaire se fera « sans Philippe ». L’ancien Premier ministre propose à la place une trêve des attaques, un programme et une majorité communs, puis le retrait des candidats les moins bien placés entre Noël et février, règle qu’il dit s’appliquer à lui-même.",
+      "Une réunion a eu lieu lundi soir autour du président du Sénat, Gérard Larcher, avec Valérie Pécresse, selon Le Point cité par Public Sénat."
+     ],
+     "pourquoi": "Avec quatre candidats sous les 10 % chacun dans les sondages, le bloc central et la droite risquent de n’avoir personne au second tour : la méthode de désignation devient l’enjeu principal de leur campagne.",
+     "reactions": [
+      {
+       "qui": "Camp Retailleau (Laurence Garnier, porte-parole)",
+       "texte": "si Philippe refuse, il portera seul la responsabilité de la division."
+      },
+      {
+       "qui": "Camp Attal (Prisca Thevenot)",
+       "texte": "parle d’un « moment de clarification » et propose quatre valeurs communes comme base."
+      },
+      {
+       "qui": "David Lisnard (Nouvelle Énergie)",
+       "texte": "réclame une primaire depuis longtemps, mais ouverte à Sarah Knafo, ce qui divise."
+      }
+     ],
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire"
+      },
+      {
+       "nom": "Sud Radio (AFP)",
+       "url": "https://www.sudradio.fr/societe/primaire-a-droite-et-au-centre-retailleau-remet-la-pression-sur-philippe"
+      }
+     ],
+     "fils": [
+      "presidentielle-2027"
+     ],
+     "personnes": [
+      "edouard-philippe",
+      "gabriel-attal",
+      "bruno-retailleau",
+      "david-lisnard",
+      "nathalie-loiseau",
+      "gerard-larcher"
+     ]
+    },
+    {
+     "id": "pol-melenchon",
+     "format": "developpe",
+     "importance": 2,
+     "rubrique": "PRÉSIDENTIELLE 2027",
+     "titre": "Mélenchon met l’écologie en tête de son programme",
+     "chiffresCles": [
+      {
+       "valeur": "1 069",
+       "label": "propositions, dont 238 nouvelles"
+      },
+      {
+       "valeur": "1 700 €",
+       "label": "Smic net proposé"
+      }
+     ],
+     "paragraphes": [
+      "LFI a dévoilé vendredi la 5e version de « L’Avenir en commun » (212 pages), à la veille d’un meeting au Bourget. La « bifurcation écologique » ouvre désormais le texte : règles verte et bleue dans la Constitution, sortie du nucléaire et des fossiles avec 100 % de renouvelables au plus tard en 2060, baisse de 65 % des émissions d’ici 2033.",
+      "Côté social : Smic à 1 700 € net, blocage des prix de première nécessité, retour de l’ISF, abrogation de la réforme des retraites avec retour à 62 ans. Côté institutions : VIe République par une constituante, vote à 16 ans. À l’international : sortie du commandement intégré de l’Otan. Le chiffrage complet est annoncé pour début 2027."
+     ],
+     "pourquoi": "Mélenchon, deuxième des sondages, cherche à occuper le terrain écologiste face à Marine Tondelier et à Raphaël Glucksmann, alors que la gauche reste divisée.",
+     "reactions": [
+      {
+       "qui": "LFI (Aurélien Le Coq, Hadrien Clouet)",
+       "texte": "le programme est le cœur de la campagne et repose tout entier sur la planification écologique."
+      },
+      {
+       "qui": "François Ruffin (Debout !)",
+       "texte": "le même jour sur franceinfo, juge qu’un tel programme peine à convaincre hors des grandes villes."
+      },
+      {
+       "qui": "Droite et bloc central",
+       "texte": "pas de réaction relevée à l’heure de l’édition."
+      }
+     ],
+     "patrimoine": "Le programme prévoit le rétablissement de l’ISF (remplacé depuis 2018 par l’IFI, limité à l’immobilier) : un sujet que les clients fortunés poseront en conseil d’ici avril.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme"
+      },
+      {
+       "nom": "L’Express via Orange Actualités",
+       "url": "https://actu.orange.fr/politique/presidentielle-2027-francois-ruffin-n-exclut-pas-de-renoncer-si-cela-permet-de-battre-marine-le-pen-l-express-via-6medias-CNT000002tAInn.html"
+      }
+     ],
+     "fils": [
+      "presidentielle-2027"
+     ],
+     "personnes": [
+      "jean-luc-melenchon",
+      "francois-ruffin",
+      "marine-tondelier"
+     ]
+    },
+    {
+     "id": "pol-elabe",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "OPINION",
+     "titre": "Macron à 13 % de confiance, plus bas jamais mesuré",
+     "paragraphes": [
+      "Dans le baromètre Elabe pour Les Échos publié jeudi, la confiance dans le chef de l’État perd 4 points en un mois, sous le record de François Hollande (14 % en novembre 2016). Sébastien Lecornu tombe à 17 %, son plus bas. Le détail figure dans « Ce que disent les Français »."
+     ],
+     "pourquoi": "À six mois de la présidentielle, l’exécutif aborde la conférence sociale de lundi avec une marge politique très réduite.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/sondage-82-des-francais-ne-font-pas-confiance-a-emmanuel-macron-qui-bat-le-record-dimpopularite-de-francois-hollande-a-lelysee"
+      }
+     ],
+     "personnes": [
+      "emmanuel-macron",
+      "sebastien-lecornu"
+     ]
+    },
+    {
+     "id": "pol-glucksmann",
+     "format": "breve",
+     "importance": 1,
+     "rubrique": "PRÉSIDENTIELLE 2027",
+     "titre": "Glucksmann installe une équipe de campagne très PS",
+     "paragraphes": [
+      "Présenté vendredi en comité politique, l’organigramme confie la direction de campagne au sénateur PS Alexandre Ouizille. Olivier Faure siège au comité politique, coprésidé par Carole Delga et Yannick Jadot ; Pierre Jouvet, proche de Faure, pilote les médias ; Jérôme Guedj fait partie des porte-parole."
+     ],
+     "pourquoi": "Après une primaire disputée, l’entrée des proches de Faure à des postes clés affiche l’unité du PS derrière le candidat de Place publique.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/document-lorganigramme-de-campagne-complet-de-raphael-glucksmann-olivier-faure-membre-du-comite-politique"
+      }
+     ],
+     "fils": [
+      "presidentielle-2027"
+     ],
+     "personnes": [
+      "raphael-glucksmann",
+      "olivier-faure",
+      "alexandre-ouizille",
+      "jerome-guedj"
+     ]
+    },
+    {
+     "id": "pol-berge",
+     "format": "ligne",
+     "importance": 1,
+     "titre": "Mediapart compte les passages d’Aurore Bergé",
+     "paragraphes": [
+      "Médias : selon un décompte de Mediapart, recoupé par le HuffPost, Aurore Bergé est le membre du gouvernement le plus souvent invité sur la chaîne d’info en continu du groupe Canal+ ; Mediapart lui reproche de ne jamais y contredire la ligne de la chaîne. Pas de réaction de la ministre relevée."
+     ],
+     "sources": [
+      {
+       "nom": "Élections 2027 (d’après Mediapart et le HuffPost)",
+       "url": "https://elections2027.com/article/2026-11-06-aurore-berge-ministre-la-plus-presente-sur-cnews-selon-mediapart"
+      }
+     ],
+     "personnes": [
+      "aurore-berge"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "economie",
+   "titre": "Économie",
+   "items": [
+    {
+     "id": "eco-marches",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "MARCHÉS",
+     "titre": "Le CAC 40 finit la semaine en baisse, l’écart avec l’Allemagne s’élargit",
+     "paragraphes": [
+      "L’indice parisien perd 0,81 % à 8 139 points vendredi, après avoir cédé jusqu’à 1,9 % en séance, dans le sillage du Nasdaq (−5,5 % jeudi) et de Tokyo (−6 %) : les marchés craignent que le nouveau Congrès démocrate freine les centres de données nécessaires à l’IA. TP (ex-Teleperformance) plonge de 15,3 % après avoir abaissé ses objectifs 2026 ; Air France-KLM gagne 7,1 %. Aux États-Unis, 165 000 emplois ont été créés en octobre et le chômage recule à 4,1 %.",
+      "L’écart de taux entre la France et l’Allemagne remonte à 154 points de base (OAT 4,76 %, Bund 3,22 %), au plus haut depuis plusieurs semaines, sur fond de rejet du budget à l’Assemblée."
+     ],
+     "patrimoine": "Un écart OAT-Bund durablement au-dessus de 150 points renchérit le financement de l’État et pèse sur les barèmes de crédit immobilier ; il rend en revanche plus rémunérateurs les fonds euros investis en obligations récentes.",
+     "sources": [
+      {
+       "nom": "BFM Bourse",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html"
+      },
+      {
+       "nom": "MoneyVox",
+       "url": "https://www.moneyvox.fr/bourse/actualites/111143/le-cac-40-en-forte-baisse-ce-vendredi-6-novembre-emporte-par-la-debacle-de-wall-street"
+      },
+      {
+       "nom": "Banque de France via Idéal Investisseur",
+       "url": "https://www.ideal-investisseur.fr/marches/spread-oat-bund.html"
+      },
+      {
+       "nom": "JKN",
+       "url": "https://news.jkn.co.kr/editions/french/post/1075753"
+      }
+     ],
+     "fils": [
+      "budget-2027"
+     ]
+    },
+    {
+     "id": "eco-livret-a",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "ÉPARGNE RÉGLEMENTÉE",
+     "titre": "Livret A : plafond relevé à 25 000-30 000 € au 1er février",
+     "paragraphes": [
+      "Annoncé mardi par Sébastien Lecornu, le relèvement du plafond (22 950 € aujourd’hui) doit aider à financer le plan de rénovation des lycées et collèges, évalué à 4 milliards d’euros. Le montant exact sera fixé après une concertation entre Bercy, la Caisse des dépôts et les banques. Les livrets réglementés (Livret A, LDDS, LEP) totalisent près de 700 milliards d’euros, dont environ 60 % centralisés à la Caisse des dépôts pour le logement social et les collectivités."
+     ],
+     "pourquoi": "Ce serait le premier relèvement du plafond du Livret A depuis janvier 2013.",
+     "patrimoine": "Pour les ménages déjà au plafond, 2 000 à 7 000 € pourront être placés sans impôt ni prélèvements sociaux ; à comparer, selon le taux en vigueur, avec le PEL, les fonds euros ou les comptes à terme.",
+     "sources": [
+      {
+       "nom": "LCP",
+       "url": "https://lcp.fr/actualites/livret-a-lecornu-annonce-un-plafond-entre-25000-et-30000-euros-des-fevrier-2027-444677"
+      },
+      {
+       "nom": "MoneyVox",
+       "url": "https://www.moneyvox.fr/livret-a/actualites/111096/nouveau-plafond-du-livret-a-en-fevrier-2027-ce-que-les-banques-et-etat-font-de-votre-epargne"
+      },
+      {
+       "nom": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/la-liste-des-200-lycees-renover-en-priorite-devoilee-par-le-ministere-de-leducation-nationale"
+      }
+     ],
+     "personnes": [
+      "sebastien-lecornu"
+     ]
+    },
+    {
+     "id": "eco-tp",
+     "format": "ligne",
+     "importance": 1,
+     "titre": "TP chute de 15 % en Bourse",
+     "paragraphes": [
+      "Entreprises : TP (ex-Teleperformance), exclu du CAC 40, perd 15,3 % après une croissance décevante et des objectifs 2026 revus à la baisse ; les centres d’appels souffrent des craintes liées à l’IA."
+     ],
+     "sources": [
+      {
+       "nom": "BFM Bourse",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "social",
+   "titre": "Social et société",
+   "items": [
+    {
+     "id": "soc-smic",
+     "format": "developpe",
+     "importance": 3,
+     "rubrique": "SALAIRES",
+     "titre": "Conférence sociale lundi : le Smic au centre des discussions",
+     "chiffresCles": [
+      {
+       "valeur": "1 477,93 €",
+       "label": "Smic net mensuel actuel"
+      },
+      {
+       "valeur": "> 1 500 €",
+       "label": "objectif du ministre du Travail"
+      },
+      {
+       "valeur": "100 à 150 €",
+       "label": "hausses demandées par les syndicats"
+      }
+     ],
+     "paragraphes": [
+      "Après la grève du 5 novembre (575 000 manifestants selon l’Intérieur, près de 1,6 million selon la CGT), Sébastien Lecornu réunit syndicats et patronat lundi 9 novembre à Matignon sur les salaires et le pouvoir d’achat. Le Smic doit déjà augmenter d’environ 1 % au 1er janvier ; le gouvernement évoque en plus un « coup de pouce » exceptionnel, de l’ordre de 0,6 %, qui serait le premier depuis 2012.",
+      "Autres pistes : un décret pour inciter les branches dont les minima sont sous le Smic à les relever, et une discussion avec le patronat sur le coût du travail. David Amiel mène en parallèle les échanges avec les syndicats de la fonction publique.",
+      "Les huit syndicats de l’intersyndicale estiment que seule une réponse sur les salaires arrêtera la mobilisation : la CFDT demande 100 € nets, FO 130 €, la CGT 150 € (+10 %) et l’indexation des salaires sur les prix. Ils décideront de la suite lundi, après Matignon."
+     ],
+     "pourquoi": "Un coup de pouce au Smic serait une rupture avec la ligne suivie depuis 2012, au moment où le budget prévoit déjà de réduire les allègements de cotisations patronales.",
+     "reactions": [
+      {
+       "qui": "Patrick Martin (Medef)",
+       "texte": "hostile à une hausse anticipée « pour acheter la paix sociale », qui risquerait de semer la pagaille dans les entreprises."
+      },
+      {
+       "qui": "Michel Picon (U2P)",
+       "texte": "craint des milliers de fermetures de TPE ; le patronat demande en échange de geler la baisse des allègements sur les bas salaires."
+      },
+      {
+       "qui": "Syndicats",
+       "texte": "jugent la journée du 5 novembre réussie et attendent des annonces chiffrées."
+      }
+     ],
+     "patrimoine": "Pour les chefs d’entreprise clients, une hausse du Smic se répercute sur toute la grille des bas salaires et sur le niveau des allègements de cotisations, calculés en multiples du Smic.",
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi"
+      },
+      {
+       "nom": "LCP",
+       "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9"
+      },
+      {
+       "nom": "Journal du Net (AFP)",
+       "url": "https://www.journaldunet.com/business/action-publique/1557671-le-gouvernement-reunit-syndicats-et-patronat-lundi-pour-discuter-des-salaires/"
+      },
+      {
+       "nom": "Échos Plus",
+       "url": "https://echosplus.com/2026/11/06/conference-sociale-a-matignon-lintersyndicale-decidera-lundi-de-la-suite-de-la-mobilisation/"
+      },
+      {
+       "nom": "MoneyVox",
+       "url": "https://www.moneyvox.fr/votre-argent/actualites/111030/smic-hausse-anticipee-ou-coup-de-pouce-inedit-depuis-2012-les-mesures-evoquees-par-le-gouvernement"
+      },
+      {
+       "nom": "Sud Radio",
+       "url": "https://www.sudradio.fr/sud-radio/conference-sociale-a-matignon-quest-ce-qui-sy-joue-et-avec-qui"
+      }
+     ],
+     "fils": [
+      "salaires-smic",
+      "mobilisation-automne-2026"
+     ],
+     "personnes": [
+      "sebastien-lecornu",
+      "jean-pierre-farandou",
+      "david-amiel",
+      "marylise-leon",
+      "sophie-binet",
+      "patrick-martin",
+      "michel-picon",
+      "amir-reza-tofighi"
+     ]
+    },
+    {
+     "id": "soc-sixseven",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "MOUVEMENTS SOCIAUX",
+     "titre": "« Six-seven » : des actions dispersées vendredi",
+     "paragraphes": [
+      "Au lendemain de la grève, l’appel de gilets jaunes à poursuivre blocages et manifestations a peu pris. Une vingtaine de lycées sur 3 700 étaient bloqués vendredi matin selon le ministre de l’Éducation, Édouard Geffray, avec des incidents à Lyon, Marseille, Rennes ou Saint-Nazaire. La rue de Rivoli, à Paris, a été brièvement occupée ; aucun blocage routier n’était confirmé au niveau national en soirée. De nouvelles actions sont appelées ce samedi."
+     ],
+     "pourquoi": "Le faible écho du « six-seven » montre que la mobilisation reste d’abord portée par les syndicats, qui attendent les annonces de lundi.",
+     "sources": [
+      {
+       "nom": "GasBu (synthèse AFP, Le Parisien, Ouest-France…)",
+       "url": "https://gasbu.app/en/live/six-seven-6-7-novembre-2026"
+      }
+     ],
+     "fils": [
+      "mobilisation-automne-2026"
+     ],
+     "personnes": [
+      "edouard-geffray"
+     ]
+    },
+    {
+     "id": "soc-lycees",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "ÉDUCATION",
+     "titre": "Les 200 lycées à rénover en priorité contestés par les régions",
+     "paragraphes": [
+      "Le ministère a publié la liste des 200 lycées les plus signalés pour leur état matériel lors de la consultation nationale d’octobre (plus de 100 000 contributions). Le plan est chiffré à 4 milliards d’euros. Les régions, propriétaires des bâtiments, dénoncent la méthode : le Grand Est de Franck Leroy parle de « palmarès statistique » et réclame un diagnostic technique."
+     ],
+     "pourquoi": "La rénovation des lycées est l’une des réponses du gouvernement au mouvement lycéen de l’automne, mais elle dépend de collectivités déjà sous pression budgétaire.",
+     "sources": [
+      {
+       "nom": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/la-liste-des-200-lycees-renover-en-priorite-devoilee-par-le-ministere-de-leducation-nationale"
+      },
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/liste-des-200-etablissements-a-renover-le-gouvernement-a-invente-le-tripadvisor-des-lycees-les-regions-fustigent-la-methode-du-gouvernement"
+      }
+     ],
+     "fils": [
+      "mobilisation-automne-2026"
+     ],
+     "personnes": [
+      "edouard-geffray"
+     ]
+    },
+    {
+     "id": "soc-ia",
+     "format": "ligne",
+     "importance": 1,
+     "titre": "IA : la ministre défend une préférence européenne",
+     "paragraphes": [
+      "Numérique : auditionnée au Sénat, Anne Le Hénanff, ministre déléguée à l’IA et au numérique, veut relever la préférence européenne dans les marchés publics et reconnaît un impact de l’IA sur l’emploi, encore impossible à mesurer selon elle."
+     ],
+     "sources": [
+      {
+       "nom": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/souverainete-et-emplois-quelle-est-la-feuille-de-route-du-gouvernement-en-matiere-dintelligence-artificielle"
+      }
+     ],
+     "personnes": [
+      "anne-le-henanff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "international",
+   "titre": "International",
+   "items": [
+    {
+     "id": "int-ukraine",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "UKRAINE",
+     "titre": "Pourparlers Ukraine–Russie mardi et mercredi à Abou Dhabi",
+     "paragraphes": [
+      "Les États-Unis accueillent les 10 et 11 novembre un nouveau cycle de discussions à trois, mené par Steve Witkoff et Jared Kushner, le premier depuis février. En parallèle, des réunions techniques sont prévues à Bruxelles avec la France, l’Allemagne, le Royaume-Uni, l’UE et l’Otan sur les garanties de sécurité et la reconstruction."
+     ],
+     "pourquoi": "La France est directement associée au volet sécurité de l’après-guerre, alors que les positions de Kiev et Moscou restent très éloignées.",
+     "sources": [
+      {
+       "nom": "Al-Monitor (Reuters)",
+       "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
+      }
+     ],
+     "fils": [
+      "ukraine-paix"
+     ],
+     "personnes": [
+      "steve-witkoff"
+     ]
+    },
+    {
+     "id": "int-iran",
+     "format": "breve",
+     "importance": 2,
+     "rubrique": "MOYEN-ORIENT",
+     "titre": "Iran : une médiation pour rouvrir Ormuz",
+     "paragraphes": [
+      "Après des frappes américaines limitées près du détroit le 2 novembre, des médiateurs régionaux travaillent à un cadre : l’Iran cesserait ses attaques dans Ormuz, les États-Unis lèveraient le blocus de ses ports. Le vice-président JD Vance se dit confiant ; Israël pousse au contraire pour de nouvelles frappes. Le Brent recule de 0,7 % à 97,58 $ vendredi."
+     ],
+     "sources": [
+      {
+       "nom": "Quartz (AP)",
+       "url": "https://fr.qz.com/frappes-dfensives-amricaines-iran-dtroit-hormuz-110726"
+      },
+      {
+       "nom": "BFM Bourse",
+       "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html"
+      }
+     ],
+     "fils": [
+      "guerre-iran-petrole"
+     ],
+     "personnes": [
+      "donald-trump"
+     ]
+    },
+    {
+     "id": "int-usa",
+     "format": "ligne",
+     "importance": 1,
+     "titre": "Trump conteste toujours les midterms",
+     "paragraphes": [
+      "États-Unis : Donald Trump répète que les élections de mi-mandat étaient truquées et conteste le décompte en Alaska ; le gouverneur républicain de Floride, Ron DeSantis, parle d’une défaite sans équivalent depuis un siècle."
+     ],
+     "sources": [
+      {
+       "nom": "L’Express via Orange Actualités",
+       "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-vendredi-6-novembre-l-express-via-6medias-CNT000002tAQ3N.html"
+      }
+     ],
+     "personnes": [
+      "donald-trump"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "regions",
+   "titre": "Régions",
+   "items": [
+    {
+     "id": "reg-na",
+     "format": "region",
+     "importance": 1,
+     "lieu": "Nouvelle-Aquitaine",
+     "titre": "17 lycées néo-aquitains sur la liste des 200",
+     "paragraphes": [
+      "La Nouvelle-Aquitaine compte 17 établissements dans la liste nationale des lycées à rénover en priorité : 5 en Gironde, 4 dans les Pyrénées-Atlantiques, 3 à La Rochelle, les autres en Charente, Creuse, Deux-Sèvres et Vienne. La position de la région, chargée des lycées, n’a pas été relevée."
+     ],
+     "sources": [
+      {
+       "nom": "Ministère de l’Éducation nationale, liste des 200 lycées (PDF)",
+       "url": "https://www.banquedesterritoires.fr/sites/default/files/2026-11/Liste%20des%20200%20%C3%A9tablissements%20prioritaires.pdf"
+      },
+      {
+       "nom": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/la-liste-des-200-lycees-renover-en-priorite-devoilee-par-le-ministere-de-leducation-nationale"
+      }
+     ],
+     "fils": [
+      "mobilisation-automne-2026"
+     ]
+    },
+    {
+     "id": "reg-bordeaux",
+     "format": "region",
+     "importance": 1,
+     "lieu": "Bordeaux",
+     "titre": "Gustave-Eiffel parmi les lycées prioritaires",
+     "paragraphes": [
+      "En Gironde, la liste retient le lycée Gustave-Eiffel à Bordeaux, La Morlette à Cenon, Pape-Clément à Pessac, les Graves à Gradignan et Max-Linder à Libourne. Par ailleurs, la CGT des services publics de Gironde a déposé un préavis de grève couvrant tout le mois de novembre pour les agents territoriaux."
+     ],
+     "sources": [
+      {
+       "nom": "Ministère de l’Éducation nationale, liste des 200 lycées (PDF)",
+       "url": "https://www.banquedesterritoires.fr/sites/default/files/2026-11/Liste%20des%20200%20%C3%A9tablissements%20prioritaires.pdf"
+      },
+      {
+       "nom": "Evous Bordeaux",
+       "url": "https://bordeaux.evous.fr/citoyen/manifestations-greves-et-perturbations/"
+      }
+     ]
+    },
+    {
+     "id": "reg-dordogne",
+     "format": "region",
+     "importance": 1,
+     "lieu": "Dordogne",
+     "titre": "Aucun lycée de Dordogne dans la liste",
+     "paragraphes": [
+      "Aucun établissement du département ne figure parmi les 200 lycées à rénover en priorité."
+     ],
+     "sources": [
+      {
+       "nom": "Ministère de l’Éducation nationale, liste des 200 lycées (PDF)",
+       "url": "https://www.banquedesterritoires.fr/sites/default/files/2026-11/Liste%20des%20200%20%C3%A9tablissements%20prioritaires.pdf"
+      }
+     ]
+    },
+    {
+     "id": "reg-biarritz",
+     "format": "region",
+     "importance": 1,
+     "lieu": "Biarritz",
+     "titre": "Pays basque : Cantau à Anglet retenu, rien de neuf sur le banquet",
+     "paragraphes": [
+      "Le lycée Cantau d’Anglet et Maurice-Ravel à Saint-Jean-de-Luz figurent sur la liste ; aucun lycée biarrot. Pas d’élément nouveau repéré sur le banquet du Canon français du 28 novembre, que Serge Blanco a refusé d’interdire."
+     ],
+     "sources": [
+      {
+       "nom": "Ministère de l’Éducation nationale, liste des 200 lycées (PDF)",
+       "url": "https://www.banquedesterritoires.fr/sites/default/files/2026-11/Liste%20des%20200%20%C3%A9tablissements%20prioritaires.pdf"
+      },
+      {
+       "nom": "info.fr",
+       "url": "https://info.fr/biarritz-karim-guerdane-saisit-prefet-banquet-canon-francais/"
+      }
+     ],
+     "fils": [
+      "biarritz-canon-francais"
+     ],
+     "personnes": [
+      "serge-blanco"
+     ]
+    },
+    {
+     "id": "reg-perigueux",
+     "format": "region",
+     "importance": 0,
+     "lieu": "Périgueux",
+     "titre": "Rien de notable",
+     "vide": true,
+     "paragraphes": [
+      "Rien de notable repéré depuis hier."
+     ],
+     "sources": []
+    }
+   ]
+  }
+ ],
+ "debat": {
+  "id": "debat-smic",
+  "question": "Faut-il un « coup de pouce » au Smic ?",
+  "pour": {
+   "titre": "Ce que disent ses partisans (syndicats, gauche)",
+   "texte": "Avec une inflation de 3,4 % sur un an, les bas salaires perdent du pouvoir d’achat et de nombreux minima de branche passent sous le Smic. Une hausse franche, de 100 à 150 € selon les syndicats, serait la seule réponse à la hauteur de la mobilisation et soutiendrait la consommation en pleine stagnation."
+  },
+  "contre": {
+   "titre": "Ce que répondent ses détracteurs (patronat, une partie de la majorité)",
+   "texte": "Le coût du travail augmenterait au moment où le budget réduit déjà les allègements de cotisations, au risque de fermetures de TPE et de pertes d’emplois peu qualifiés. Une hausse du Smic tasse aussi les grilles salariales ; mieux vaudrait passer par la prime d’activité ou par une baisse des prélèvements sur le travail."
+  },
+  "sources": [
+   {
+    "nom": "LCP",
+    "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9"
+   },
+   {
+    "nom": "MoneyVox",
+    "url": "https://www.moneyvox.fr/votre-argent/actualites/111030/smic-hausse-anticipee-ou-coup-de-pouce-inedit-depuis-2012-les-mesures-evoquees-par-le-gouvernement"
+   },
+   {
+    "nom": "Journal du Net (AFP)",
+    "url": "https://www.journaldunet.com/business/action-publique/1557671-le-gouvernement-reunit-syndicats-et-patronat-lundi-pour-discuter-des-salaires/"
+   },
+   {
+    "nom": "Échos Plus",
+    "url": "https://echosplus.com/2026/11/06/conference-sociale-a-matignon-lintersyndicale-decidera-lundi-de-la-suite-de-la-mobilisation/"
+   }
+  ]
+ },
+ "comprendre": "revalorisation-smic",
+ "fait": {
+  "texte": "Le dernier « coup de pouce » au Smic date de juillet 2012 : +2 %, dont 0,6 point au-delà de l’inflation. Depuis, le salaire minimum n’a évolué que par les revalorisations automatiques ; le gouvernement évoque aujourd’hui un geste du même ordre, environ 0,6 %.",
+  "theme": "Social",
+  "sources": [
+   {
+    "nom": "MoneyVox",
+    "url": "https://www.moneyvox.fr/votre-argent/actualites/111030/smic-hausse-anticipee-ou-coup-de-pouce-inedit-depuis-2012-les-mesures-evoquees-par-le-gouvernement"
+   },
+   {
+    "nom": "Échos Plus",
+    "url": "https://echosplus.com/2026/11/06/conference-sociale-a-matignon-lintersyndicale-decidera-lundi-de-la-suite-de-la-mobilisation/"
+   }
+  ]
+ },
+ "agenda": [
+  {
+   "date": "2026-11-07",
+   "libelle": "Sam. 7 nov.",
+   "texte": "Meeting de Jean-Luc Mélenchon au Bourget ; dernier jour des actions « six-seven » appelées par des gilets jaunes"
+  },
+  {
+   "date": "2026-11-09",
+   "libelle": "Lun. 9 nov.",
+   "texte": "Conférence sociale à Matignon, puis réunion de l’intersyndicale ; le Sénat ouvre l’examen du PLFSS en séance"
+  },
+  {
+   "date": "2026-11-10",
+   "fin": "2026-11-11",
+   "libelle": "10-11 nov.",
+   "texte": "Pourparlers Ukraine–Russie à Abou Dhabi sous médiation américaine"
+  },
+  {
+   "date": "2026-11-10",
+   "libelle": "Mar. 10 nov.",
+   "texte": "Insee : taux de chômage du 3e trimestre"
+  },
+  {
+   "date": "2026-11-13",
+   "libelle": "Ven. 13 nov.",
+   "texte": "Insee : inflation définitive d’octobre"
+  },
+  {
+   "date": "2026-11-17",
+   "libelle": "Mar. 17 nov.",
+   "texte": "Jugement attendu à Évry pour l’ancien maire d’Étampes Franck Marlin (détournement de fonds publics)"
+  },
+  {
+   "date": "2026-11-18",
+   "libelle": "Mer. 18 nov.",
+   "texte": "Vote solennel du Sénat sur le PLFSS"
+  },
+  {
+   "date": "2026-11-20",
+   "libelle": "Ven. 20 nov.",
+   "texte": "Le Sénat commence l’examen du PLF 2027"
+  },
+  {
+   "date": "2026-11-27",
+   "libelle": "Ven. 27 nov.",
+   "texte": "Insee : inflation provisoire de novembre et PIB détaillé du 3e trimestre ; S&P Global révise la note de la France"
+  },
+  {
+   "date": "2026-11-28",
+   "libelle": "Sam. 28 nov.",
+   "texte": "Banquet du Canon français à Biarritz, contre-rassemblement annoncé"
+  }
+ ],
+ "filsMaj": [
+  "presidentielle-2027",
+  "salaires-smic",
+  "mobilisation-automne-2026",
+  "budget-2027",
+  "guerre-iran-petrole"
+ ],
+ "mention": "Édition rédigée à partir de sources officielles et de médias de sensibilités variées. Citations de moins de 15 mots, le reste reformulé."
+}

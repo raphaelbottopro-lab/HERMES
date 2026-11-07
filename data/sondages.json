@@ -6,9 +6,9 @@
    "commanditaire": "LCI",
    "publie": "2026-11-03",
    "hypothese": "Hypothèse avec Philippe et Attal candidats",
-   "echantillon": null,
-   "marge": null,
-   "note": "Écart avec la vague de mi-octobre. Échantillon et marge d’erreur non précisés dans les sources consultées.",
+   "echantillon": "1 650 personnes de 18 ans et plus, méthode des quotas, interrogées du 27 au 29 octobre",
+   "marge": "1,1 à 2,5 points",
+   "note": "Écart avec la vague de mi-octobre. Échantillon et marge d’après Public Sénat.",
    "resultats": [
     {
      "nom": "Marine Le Pen",
@@ -55,6 +55,10 @@
     {
      "nom": "Quartz (AFP)",
      "url": "https://fr.qz.com/marine-pen-devance-melenchon-sondage-ifop-presidentielle-110426"
+    },
+    {
+     "nom": "Public Sénat",
+     "url": "https://publicsenat.fr/actualites/politique/sondage-presidentielle-2027-un-second-tour-le-pen-melenchon-assure-la-droite-et-le-bloc-central-peine-a-remonter-lisnard-confirme-sa-percee"
     }
    ]
   }

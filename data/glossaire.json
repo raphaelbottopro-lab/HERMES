@@ -84,6 +84,18 @@
    ],
    "theme": "Marchés",
    "ajoute": "2026-11-06"
+  },
+  {
+   "id": "revalorisation-smic",
+   "titre": "Comment le Smic est revalorisé",
+   "theme": "Social",
+   "ajoute": "2026-11-07",
+   "texte": [
+    "Le Smic est revalorisé automatiquement chaque 1er janvier selon une formule fixée par le Code du travail : il suit l’inflation mesurée pour les 20 % de ménages les plus modestes (hors tabac), plus la moitié du gain de pouvoir d’achat du salaire horaire moyen des ouvriers et employés.",
+    "En cours d’année, une hausse automatique intervient aussi dès que l’inflation dépasse 2 % depuis la dernière revalorisation : c’est ce qui a joué au 1er juin 2026 (+2,4 %).",
+    "Au-delà de ces mécanismes, le gouvernement peut décider par décret un « coup de pouce », après avis d’un groupe d’experts indépendants. Le dernier remonte à juillet 2012.",
+    "Les branches professionnelles fixent leurs propres minima conventionnels. Quand ils passent sous le Smic, l’employeur doit tout de même payer le Smic, ce qui écrase le bas des grilles : d’où le décret évoqué en novembre 2026 pour pousser les branches à les relever."
+   ]
   }
  ]
 }
